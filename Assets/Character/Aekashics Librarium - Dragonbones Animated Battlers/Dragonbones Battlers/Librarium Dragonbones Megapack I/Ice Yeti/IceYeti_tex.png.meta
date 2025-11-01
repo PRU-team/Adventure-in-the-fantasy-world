@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: dc17eedff860e470484a49bf88f3f635
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2513245017695758977
+    second: IceYeti_tex_0
+  - first:
+      213: -7336844465797727168
+    second: IceYeti_tex_1
+  - first:
+      213: 4676656693074230055
+    second: IceYeti_tex_2
+  - first:
+      213: 7813399753573779311
+    second: IceYeti_tex_3
+  - first:
+      213: -5899103225786815224
+    second: IceYeti_tex_4
+  - first:
+      213: -3656352745471675634
+    second: IceYeti_tex_5
+  - first:
+      213: 1753125723938580150
+    second: IceYeti_tex_6
+  - first:
+      213: -4775677011064747343
+    second: IceYeti_tex_7
+  - first:
+      213: -5821209241106592299
+    second: IceYeti_tex_8
+  - first:
+      213: 6082903469739331648
+    second: IceYeti_tex_9
+  - first:
+      213: -616892101135151918
+    second: IceYeti_tex_10
+  - first:
+      213: 3271980692104235098
+    second: IceYeti_tex_11
+  - first:
+      213: -6428559136771534426
+    second: IceYeti_tex_12
+  - first:
+      213: 433115640142150575
+    second: IceYeti_tex_13
+  - first:
+      213: -2944456144834774003
+    second: IceYeti_tex_14
+  - first:
+      213: -2363454948981229868
+    second: IceYeti_tex_15
+  - first:
+      213: 5634361251566729000
+    second: IceYeti_tex_16
+  - first:
+      213: 5520991691776551981
+    second: IceYeti_tex_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceYeti_tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 162
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7559bed8f82f1dd0800000000000000
+      internalID: -2513245017695758977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 721
+        width: 130
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cf5d3a4da4e2a90800000000000000
+      internalID: -7336844465797727168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 857
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b742ffb72d6e040800000000000000
+      internalID: 4676656693074230055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 857
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67c3efbda5ce6c60800000000000000
+      internalID: 7813399753573779311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 846
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dad95fedc222ea0800000000000000
+      internalID: -5899103225786815224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 519
+        width: 46
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03f2a8dc86024dc0800000000000000
+      internalID: -3656352745471675634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 563
+        width: 304
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b665f5be8a545810800000000000000
+      internalID: 1753125723938580150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 415
+        width: 191
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba8c71af0369bdb0800000000000000
+      internalID: -4775677011064747343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 283
+        width: 140
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddce9c8909e63fa0800000000000000
+      internalID: -5821209241106592299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 421
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040ddc42a70da6450800000000000000
+      internalID: 6082903469739331648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 328
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc481707eb5077f0800000000000000
+      internalID: -616892101135151918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 273
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a584fc09a19686d20800000000000000
+      internalID: 3271980692104235098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 285
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1142b668b29c6a0800000000000000
+      internalID: -6428559136771534426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 293
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb655416cb20600800000000000000
+      internalID: 433115640142150575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 281
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c38669cb03327d0800000000000000
+      internalID: -2944456144834774003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 126
+        width: 160
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6b55bfe32533fd0800000000000000
+      internalID: -2363454948981229868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 266
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8273cd7c4b5413e40800000000000000
+      internalID: 5634361251566729000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceYeti_tex_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 257
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c693431b08e9c40800000000000000
+      internalID: 5520991691776551981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceYeti_tex_0: -2513245017695758977
+      IceYeti_tex_1: -7336844465797727168
+      IceYeti_tex_10: -616892101135151918
+      IceYeti_tex_11: 3271980692104235098
+      IceYeti_tex_12: -6428559136771534426
+      IceYeti_tex_13: 433115640142150575
+      IceYeti_tex_14: -2944456144834774003
+      IceYeti_tex_15: -2363454948981229868
+      IceYeti_tex_16: 5634361251566729000
+      IceYeti_tex_17: 5520991691776551981
+      IceYeti_tex_2: 4676656693074230055
+      IceYeti_tex_3: 7813399753573779311
+      IceYeti_tex_4: -5899103225786815224
+      IceYeti_tex_5: -3656352745471675634
+      IceYeti_tex_6: 1753125723938580150
+      IceYeti_tex_7: -4775677011064747343
+      IceYeti_tex_8: -5821209241106592299
+      IceYeti_tex_9: 6082903469739331648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

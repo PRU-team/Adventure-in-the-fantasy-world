@@ -1,0 +1,20 @@
+<dragonbone:Weretiger>
+<dragonbone_scalex: -0.6>
+<dragonbone_scaley: 0.6>
+<dragonbone_ani_walk:Idle>
+<dragonbone_ani_attack:AttackSwing> 
+<dragonbone_ani_swing:AttackSwing>
+<dragonbone_ani_thrust:AttackThrust>
+<dragonbone_ani_missile:AttackShoot>
+<dragonbone_ani_damage:Damage>
+<dragonbone_ani_dead:IdleWeak>
+<dragonbone_ani_evade:DashEvasion>
+<dragonbone_ani_dying:IdleWeak>
+<dragonbone_ani_abnormal:IdleWeak>
+<dragonbone_ani_sleep:IdleWeak>
+<dragonbone_ani_skill:Skill>
+<dragonbone_ani_spell:Skill>
+<dragonbone_ani_item:Skill>
+<dragonbone_ani_victory:Idle>
+<dragonbone_ani_wait:Idle>
+<dragonbone_ani_chant:Skill> 

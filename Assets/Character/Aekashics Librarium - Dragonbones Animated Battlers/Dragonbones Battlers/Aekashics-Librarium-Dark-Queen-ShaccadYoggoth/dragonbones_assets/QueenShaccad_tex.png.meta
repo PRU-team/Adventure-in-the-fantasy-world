@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: beda3b3b3d0344b139346a44ed18aa21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6063032831935333183
+    second: QueenShaccad_tex_0
+  - first:
+      213: 2235133288984649225
+    second: QueenShaccad_tex_1
+  - first:
+      213: -6163273063335131041
+    second: QueenShaccad_tex_2
+  - first:
+      213: -4999575662051856810
+    second: QueenShaccad_tex_3
+  - first:
+      213: 8785728259775288812
+    second: QueenShaccad_tex_4
+  - first:
+      213: -1375796931556784139
+    second: QueenShaccad_tex_5
+  - first:
+      213: -2809461110107999644
+    second: QueenShaccad_tex_6
+  - first:
+      213: -1350538534391566473
+    second: QueenShaccad_tex_7
+  - first:
+      213: -3369328208824485466
+    second: QueenShaccad_tex_8
+  - first:
+      213: -3074211063856651969
+    second: QueenShaccad_tex_9
+  - first:
+      213: -262795391476064926
+    second: QueenShaccad_tex_10
+  - first:
+      213: -7157789480751690610
+    second: QueenShaccad_tex_11
+  - first:
+      213: -7278067505385311080
+    second: QueenShaccad_tex_12
+  - first:
+      213: -7791917642414115312
+    second: QueenShaccad_tex_13
+  - first:
+      213: -961455923193886474
+    second: QueenShaccad_tex_14
+  - first:
+      213: -3452715204098658454
+    second: QueenShaccad_tex_15
+  - first:
+      213: 3578404780642416576
+    second: QueenShaccad_tex_16
+  - first:
+      213: -9049901207470397713
+    second: QueenShaccad_tex_17
+  - first:
+      213: -607455434470539336
+    second: QueenShaccad_tex_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QueenShaccad_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 814
+        width: 261
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccb6fe33c7cbdba0800000000000000
+      internalID: -6063032831935333183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 873
+        width: 213
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e949352e9c40f10800000000000000
+      internalID: 2235133288984649225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 612
+        width: 261
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580d26adc7a77aa0800000000000000
+      internalID: -6163273063335131041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 740
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ee5bb9c60fd9ab0800000000000000
+      internalID: -4999575662051856810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 798
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55401bd4d2de970800000000000000
+      internalID: 8785728259775288812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 734
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f74c73eaff28ece0800000000000000
+      internalID: -1375796931556784139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 767
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462fcb9610ac209d0800000000000000
+      internalID: -2809461110107999644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 626
+        width: 138
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f2d12cb5ce14de0800000000000000
+      internalID: -1350538534391566473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 673
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9305578ddbd31d0800000000000000
+      internalID: -3369328208824485466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 688
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31af3643553655d0800000000000000
+      internalID: -3074211063856651969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 584
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d957adbfc5a5cf0800000000000000
+      internalID: -262795391476064926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 587
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c84ce046c6aac90800000000000000
+      internalID: -7157789480751690610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 626
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894f13a2a2c1ffa90800000000000000
+      internalID: -7278067505385311080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 623
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016bec4003c8dd390800000000000000
+      internalID: -7791917642414115312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 334
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f845de8ee838a2f0800000000000000
+      internalID: -961455923193886474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_15
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 586
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6feb1da0dd7510d0800000000000000
+      internalID: -3452715204098658454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 328
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c730c4503c09a130800000000000000
+      internalID: 3578404780642416576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 508
+        width: 130
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6295cdcca486280800000000000000
+      internalID: -9049901207470397713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenShaccad_tex_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 156
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb0833082e197f0800000000000000
+      internalID: -607455434470539336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      QueenShaccad_tex_0: -6063032831935333183
+      QueenShaccad_tex_1: 2235133288984649225
+      QueenShaccad_tex_10: -262795391476064926
+      QueenShaccad_tex_11: -7157789480751690610
+      QueenShaccad_tex_12: -7278067505385311080
+      QueenShaccad_tex_13: -7791917642414115312
+      QueenShaccad_tex_14: -961455923193886474
+      QueenShaccad_tex_15: -3452715204098658454
+      QueenShaccad_tex_16: 3578404780642416576
+      QueenShaccad_tex_17: -9049901207470397713
+      QueenShaccad_tex_18: -607455434470539336
+      QueenShaccad_tex_2: -6163273063335131041
+      QueenShaccad_tex_3: -4999575662051856810
+      QueenShaccad_tex_4: 8785728259775288812
+      QueenShaccad_tex_5: -1375796931556784139
+      QueenShaccad_tex_6: -2809461110107999644
+      QueenShaccad_tex_7: -1350538534391566473
+      QueenShaccad_tex_8: -3369328208824485466
+      QueenShaccad_tex_9: -3074211063856651969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

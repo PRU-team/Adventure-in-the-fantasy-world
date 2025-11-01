@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 1e0ae47e5fc2441f39e46df854c6ad1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8872715374764273533
+    second: Weretiger_0
+  - first:
+      213: -251811433575955688
+    second: Weretiger_1
+  - first:
+      213: -8092924385418782631
+    second: Weretiger_2
+  - first:
+      213: 3312894783671932793
+    second: Weretiger_3
+  - first:
+      213: -8140431631185362880
+    second: Weretiger_4
+  - first:
+      213: 4734359891948500851
+    second: Weretiger_5
+  - first:
+      213: 7136047632368081455
+    second: Weretiger_6
+  - first:
+      213: -8777584385223761869
+    second: Weretiger_7
+  - first:
+      213: -4780397706650360286
+    second: Weretiger_8
+  - first:
+      213: 2411004974781176292
+    second: Weretiger_9
+  - first:
+      213: -6738527188705419442
+    second: Weretiger_10
+  - first:
+      213: -5016724527898761499
+    second: Weretiger_11
+  - first:
+      213: 84303150885874147
+    second: Weretiger_12
+  - first:
+      213: -22776584355686620
+    second: Weretiger_13
+  - first:
+      213: 4675797008490111011
+    second: Weretiger_14
+  - first:
+      213: 844621584309674779
+    second: Weretiger_15
+  - first:
+      213: 8289423608401742965
+    second: Weretiger_16
+  - first:
+      213: -5356006969956149734
+    second: Weretiger_17
+  - first:
+      213: 1368533148306093372
+    second: Weretiger_18
+  - first:
+      213: 8145911095026545605
+    second: Weretiger_19
+  - first:
+      213: -8252098913385250349
+    second: Weretiger_20
+  - first:
+      213: 6634557543880627594
+    second: Weretiger_21
+  - first:
+      213: 2714995226476892875
+    second: Weretiger_22
+  - first:
+      213: -6927661986614754714
+    second: Weretiger_23
+  - first:
+      213: 4881997269901025053
+    second: Weretiger_24
+  - first:
+      213: 7547644680476103549
+    second: Weretiger_25
+  - first:
+      213: 8334216810437328968
+    second: Weretiger_26
+  - first:
+      213: -6062784147978425259
+    second: Weretiger_27
+  - first:
+      213: 7965408085095014930
+    second: Weretiger_28
+  - first:
+      213: -2608577600899868564
+    second: Weretiger_29
+  - first:
+      213: -2767050779464789193
+    second: Weretiger_30
+  - first:
+      213: 8977030769023587968
+    second: Weretiger_31
+  - first:
+      213: 4256661577340285893
+    second: Weretiger_32
+  - first:
+      213: -3742278515151759264
+    second: Weretiger_33
+  - first:
+      213: 450318264799336808
+    second: Weretiger_34
+  - first:
+      213: -8875704407676606901
+    second: Weretiger_35
+  - first:
+      213: -1688670979027881796
+    second: Weretiger_36
+  - first:
+      213: 7429496195598414929
+    second: Weretiger_37
+  - first:
+      213: 6409499650817477057
+    second: Weretiger_38
+  - first:
+      213: 6154954548898553946
+    second: Weretiger_39
+  - first:
+      213: -3336702283418700824
+    second: Weretiger_40
+  - first:
+      213: 7783761302716174173
+    second: Weretiger_41
+  - first:
+      213: -4724532580509238113
+    second: Weretiger_42
+  - first:
+      213: 8624677619118074018
+    second: Weretiger_43
+  - first:
+      213: 6876419920241549771
+    second: Weretiger_44
+  - first:
+      213: 1317296451952044417
+    second: Weretiger_45
+  - first:
+      213: 2329724456035061626
+    second: Weretiger_46
+  - first:
+      213: 8615370097570798959
+    second: Weretiger_47
+  - first:
+      213: 2432102677032385852
+    second: Weretiger_48
+  - first:
+      213: -2769741337318280470
+    second: Weretiger_49
+  - first:
+      213: -6695911565614045615
+    second: Weretiger_50
+  - first:
+      213: -5811332492986835835
+    second: Weretiger_51
+  - first:
+      213: -2874895840949891402
+    second: Weretiger_52
+  - first:
+      213: -6961591273108407949
+    second: Weretiger_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weretiger_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2559
+        width: 465
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fa8f9af97322b70800000000000000
+      internalID: 8872715374764273533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2559
+        width: 479
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813c257d5d2618cf0800000000000000
+      internalID: -251811433575955688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2559
+        width: 492
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958540d462820bf80800000000000000
+      internalID: -8092924385418782631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_3
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2559
+        width: 487
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779207d044c9fd20800000000000000
+      internalID: 3312894783671932793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_4
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 2559
+        width: 508
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c7d0bf80670f80800000000000000
+      internalID: -8140431631185362880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_5
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 2559
+        width: 502
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377727eec33d3b140800000000000000
+      internalID: 4734359891948500851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_6
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2559
+        width: 465
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a11936385580360800000000000000
+      internalID: 7136047632368081455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_7
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 2559
+        width: 479
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330e8bcd181cf2680800000000000000
+      internalID: -8777584385223761869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_8
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 2559
+        width: 491
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226630a0d9d98adb0800000000000000
+      internalID: -4780397706650360286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2047
+        width: 492
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e91881204c957120800000000000000
+      internalID: 2411004974781176292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2047
+        width: 492
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fd6ef5931fb72a0800000000000000
+      internalID: -6738527188705419442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_11
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2047
+        width: 492
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6ea922f93016ab0800000000000000
+      internalID: -5016724527898761499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_12
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2047
+        width: 487
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9aff1e4418b2100800000000000000
+      internalID: 84303150885874147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_13
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 2047
+        width: 508
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427584431d41faff0800000000000000
+      internalID: -22776584355686620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_14
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 2047
+        width: 502
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32023e41b94c3e040800000000000000
+      internalID: 4675797008490111011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_15
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2047
+        width: 465
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13e76e1bd2b8bb00800000000000000
+      internalID: 844621584309674779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_16
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 2047
+        width: 479
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cc5834ad2f90370800000000000000
+      internalID: 8289423608401742965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_17
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 2047
+        width: 491
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165f35c904aba5b0800000000000000
+      internalID: -5356006969956149734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1535
+        width: 492
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35b128c5a10ef210800000000000000
+      internalID: 1368533148306093372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1535
+        width: 492
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c378f66bf61c0170800000000000000
+      internalID: 8145911095026545605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1535
+        width: 492
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1094082c7aa7d80800000000000000
+      internalID: -8252098913385250349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_21
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1535
+        width: 487
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8594ec4feea21c50800000000000000
+      internalID: 6634557543880627594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_22
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1535
+        width: 508
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2590916c99da520800000000000000
+      internalID: 2714995226476892875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_23
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1535
+        width: 502
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662c9d3a0200cdf90800000000000000
+      internalID: -6927661986614754714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_24
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 1535
+        width: 441
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f90eaa6a650c340800000000000000
+      internalID: 4881997269901025053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_25
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 1535
+        width: 468
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7315a609de9eb860800000000000000
+      internalID: 7547644680476103549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_26
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 1535
+        width: 492
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c433580619a370800000000000000
+      internalID: 8334216810437328968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1023
+        width: 465
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c60ed70f9acdba0800000000000000
+      internalID: -6062784147978425259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_28
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1023
+        width: 479
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212ec1b6370da8e60800000000000000
+      internalID: 7965408085095014930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_29
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1023
+        width: 492
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6892592e787ccbd0800000000000000
+      internalID: -2608577600899868564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_30
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1023
+        width: 487
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733988ef9f57999d0800000000000000
+      internalID: -2767050779464789193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_31
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1023
+        width: 508
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086176d0ce1d49c70800000000000000
+      internalID: 8977030769023587968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_32
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1023
+        width: 502
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3fb6ed623b21b30800000000000000
+      internalID: 4256661577340285893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_33
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 1023
+        width: 441
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0689dc59481c01cc0800000000000000
+      internalID: -3742278515151759264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_34
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 1023
+        width: 468
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8691c31731adf3600800000000000000
+      internalID: 450318264799336808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_35
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 1023
+        width: 492
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b462111edd923d480800000000000000
+      internalID: -8875704407676606901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 511
+        width: 508
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0388801b2a098e0800000000000000
+      internalID: -1688670979027881796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 511
+        width: 508
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15472ce3d6fda1760800000000000000
+      internalID: 7429496195598414929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_38
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 511
+        width: 508
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c947f239fd13f850800000000000000
+      internalID: 6409499650817477057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_39
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 511
+        width: 487
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50e5c74d8aca6550800000000000000
+      internalID: 6154954548898553946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_40
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 511
+        width: 508
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3f79ba3f6a1b1d0800000000000000
+      internalID: -3336702283418700824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_41
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 511
+        width: 502
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f44d82aa9750c60800000000000000
+      internalID: 7783761302716174173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_42
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 511
+        width: 441
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cbcf056a61f6eb0800000000000000
+      internalID: -4724532580509238113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_43
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 511
+        width: 468
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86bcd599201b770800000000000000
+      internalID: 8624677619118074018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_44
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 511
+        width: 491
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1ea601c73fd6f50800000000000000
+      internalID: 6876419920241549771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 465
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189eb7ac42af74210800000000000000
+      internalID: 1317296451952044417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_46
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 479
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f8282ac08d45020800000000000000
+      internalID: 2329724456035061626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_47
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 492
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dda322571ff8770800000000000000
+      internalID: 8615370097570798959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_48
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 487
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dbac9bf7090c120800000000000000
+      internalID: 2432102677032385852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_49
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 0
+        width: 508
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2bd6dade6ef89d0800000000000000
+      internalID: -2769741337318280470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_50
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 0
+        width: 502
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156252458e75313a0800000000000000
+      internalID: -6695911565614045615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_51
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 0
+        width: 441
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c95db23eff95fa0800000000000000
+      internalID: -5811332492986835835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_52
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 0
+        width: 468
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be0fe9e6715a18d0800000000000000
+      internalID: -2874895840949891402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weretiger_53
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 0
+        width: 491
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f9e60f95736f90800000000000000
+      internalID: -6961591273108407949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Weretiger_0: 8872715374764273533
+      Weretiger_1: -251811433575955688
+      Weretiger_10: -6738527188705419442
+      Weretiger_11: -5016724527898761499
+      Weretiger_12: 84303150885874147
+      Weretiger_13: -22776584355686620
+      Weretiger_14: 4675797008490111011
+      Weretiger_15: 844621584309674779
+      Weretiger_16: 8289423608401742965
+      Weretiger_17: -5356006969956149734
+      Weretiger_18: 1368533148306093372
+      Weretiger_19: 8145911095026545605
+      Weretiger_2: -8092924385418782631
+      Weretiger_20: -8252098913385250349
+      Weretiger_21: 6634557543880627594
+      Weretiger_22: 2714995226476892875
+      Weretiger_23: -6927661986614754714
+      Weretiger_24: 4881997269901025053
+      Weretiger_25: 7547644680476103549
+      Weretiger_26: 8334216810437328968
+      Weretiger_27: -6062784147978425259
+      Weretiger_28: 7965408085095014930
+      Weretiger_29: -2608577600899868564
+      Weretiger_3: 3312894783671932793
+      Weretiger_30: -2767050779464789193
+      Weretiger_31: 8977030769023587968
+      Weretiger_32: 4256661577340285893
+      Weretiger_33: -3742278515151759264
+      Weretiger_34: 450318264799336808
+      Weretiger_35: -8875704407676606901
+      Weretiger_36: -1688670979027881796
+      Weretiger_37: 7429496195598414929
+      Weretiger_38: 6409499650817477057
+      Weretiger_39: 6154954548898553946
+      Weretiger_4: -8140431631185362880
+      Weretiger_40: -3336702283418700824
+      Weretiger_41: 7783761302716174173
+      Weretiger_42: -4724532580509238113
+      Weretiger_43: 8624677619118074018
+      Weretiger_44: 6876419920241549771
+      Weretiger_45: 1317296451952044417
+      Weretiger_46: 2329724456035061626
+      Weretiger_47: 8615370097570798959
+      Weretiger_48: 2432102677032385852
+      Weretiger_49: -2769741337318280470
+      Weretiger_5: 4734359891948500851
+      Weretiger_50: -6695911565614045615
+      Weretiger_51: -5811332492986835835
+      Weretiger_52: -2874895840949891402
+      Weretiger_53: -6961591273108407949
+      Weretiger_6: 7136047632368081455
+      Weretiger_7: -8777584385223761869
+      Weretiger_8: -4780397706650360286
+      Weretiger_9: 2411004974781176292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

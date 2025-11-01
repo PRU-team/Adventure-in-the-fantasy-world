@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: e541f9ed825644c04a9f7ccb0522339a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9065139903942814920
+    second: Pizarro_tex_0
+  - first:
+      213: -2646497576160107625
+    second: Pizarro_tex_1
+  - first:
+      213: -3179587739587651766
+    second: Pizarro_tex_2
+  - first:
+      213: -3351743245316363305
+    second: Pizarro_tex_3
+  - first:
+      213: 1004181657778063136
+    second: Pizarro_tex_4
+  - first:
+      213: -4154848787069356840
+    second: Pizarro_tex_5
+  - first:
+      213: -5528671707282316698
+    second: Pizarro_tex_6
+  - first:
+      213: 2947416325764379829
+    second: Pizarro_tex_7
+  - first:
+      213: -5083906017736099024
+    second: Pizarro_tex_8
+  - first:
+      213: -235790869319562491
+    second: Pizarro_tex_9
+  - first:
+      213: 2472069190674734253
+    second: Pizarro_tex_10
+  - first:
+      213: 7701721696376392869
+    second: Pizarro_tex_11
+  - first:
+      213: -2071768549304323530
+    second: Pizarro_tex_12
+  - first:
+      213: -7870595107677994471
+    second: Pizarro_tex_13
+  - first:
+      213: -1982834346847482058
+    second: Pizarro_tex_14
+  - first:
+      213: -843877602789544521
+    second: Pizarro_tex_15
+  - first:
+      213: -7283248026577080047
+    second: Pizarro_tex_16
+  - first:
+      213: -930116359959989508
+    second: Pizarro_tex_17
+  - first:
+      213: -7664222443335833583
+    second: Pizarro_tex_18
+  - first:
+      213: -4781014934853183558
+    second: Pizarro_tex_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pizarro_tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 238
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833154a5947223280800000000000000
+      internalID: -9065139903942814920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 274
+        width: 173
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7936b0ae970c54bd0800000000000000
+      internalID: -2646497576160107625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 367
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d0b90cc5dfd3d0800000000000000
+      internalID: -3179587739587651766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 436
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6a94d6473c71d0800000000000000
+      internalID: -3351743245316363305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 494
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02703d9b5e19fed00800000000000000
+      internalID: 1004181657778063136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 423
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b44f9a030756c0800000000000000
+      internalID: -4154848787069356840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 359
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6626fa7df563643b0800000000000000
+      internalID: -5528671707282316698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 260
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b47f5e388357e820800000000000000
+      internalID: 2947416325764379829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 266
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b7e5d99665279b0800000000000000
+      internalID: -5083906017736099024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 225
+        width: 75
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b4de0247d4abcf0800000000000000
+      internalID: -235790869319562491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacda52d4dd8e4220800000000000000
+      internalID: 2472069190674734253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 115
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac0f6fc31302ea60800000000000000
+      internalID: 7701721696376392869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 181
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b3e92b799f33e0800000000000000
+      internalID: -2071768549304323530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 126
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9120de3237706c290800000000000000
+      internalID: -7870595107677994471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 201
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f46b3caae8b74e0800000000000000
+      internalID: -1982834346847482058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 158
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd22d39ac1f944f0800000000000000
+      internalID: -843877602789544521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111fec41284bcea90800000000000000
+      internalID: -7283248026577080047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 94
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf23ecc39109713f0800000000000000
+      internalID: -930116359959989508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 20
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11824696b4633a590800000000000000
+      internalID: -7664222443335833583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizarro_tex_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 242
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab71d366f3c66adb0800000000000000
+      internalID: -4781014934853183558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pizarro_tex_0: -9065139903942814920
+      Pizarro_tex_1: -2646497576160107625
+      Pizarro_tex_10: 2472069190674734253
+      Pizarro_tex_11: 7701721696376392869
+      Pizarro_tex_12: -2071768549304323530
+      Pizarro_tex_13: -7870595107677994471
+      Pizarro_tex_14: -1982834346847482058
+      Pizarro_tex_15: -843877602789544521
+      Pizarro_tex_16: -7283248026577080047
+      Pizarro_tex_17: -930116359959989508
+      Pizarro_tex_18: -7664222443335833583
+      Pizarro_tex_19: -4781014934853183558
+      Pizarro_tex_2: -3179587739587651766
+      Pizarro_tex_3: -3351743245316363305
+      Pizarro_tex_4: 1004181657778063136
+      Pizarro_tex_5: -4154848787069356840
+      Pizarro_tex_6: -5528671707282316698
+      Pizarro_tex_7: 2947416325764379829
+      Pizarro_tex_8: -5083906017736099024
+      Pizarro_tex_9: -235790869319562491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

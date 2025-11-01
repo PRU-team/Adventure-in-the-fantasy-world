@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: cb26303a41bfe4417a473ab851a724f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1327660093769498791
+    second: ZodiacAries_tex_0
+  - first:
+      213: 174906218602781572
+    second: ZodiacAries_tex_1
+  - first:
+      213: 1425633141888608010
+    second: ZodiacAries_tex_2
+  - first:
+      213: -1732650819153137129
+    second: ZodiacAries_tex_3
+  - first:
+      213: -3053062997544148478
+    second: ZodiacAries_tex_4
+  - first:
+      213: 9072535348326456471
+    second: ZodiacAries_tex_5
+  - first:
+      213: 4835803179660298091
+    second: ZodiacAries_tex_6
+  - first:
+      213: 8262744013591765747
+    second: ZodiacAries_tex_7
+  - first:
+      213: 5021500886638505925
+    second: ZodiacAries_tex_8
+  - first:
+      213: 8768357490579586581
+    second: ZodiacAries_tex_9
+  - first:
+      213: 8990528461986313656
+    second: ZodiacAries_tex_10
+  - first:
+      213: 6718921347901785033
+    second: ZodiacAries_tex_11
+  - first:
+      213: 7559623428345666197
+    second: ZodiacAries_tex_12
+  - first:
+      213: -2785746296733013170
+    second: ZodiacAries_tex_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZodiacAries_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 211
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f3860dd24339de0800000000000000
+      internalID: -1327660093769498791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 291
+        width: 187
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b53d477446d6200800000000000000
+      internalID: 174906218602781572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 157
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a076b4a0acdd8c310800000000000000
+      internalID: 1425633141888608010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 123
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712769c824364f7e0800000000000000
+      internalID: -1732650819153137129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 159
+        width: 118
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ed7a216751a5d0800000000000000
+      internalID: -3053062997544148478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 142
+        width: 82
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c5c29b4de18ed70800000000000000
+      internalID: 9072535348326456471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b674b57ee593c1340800000000000000
+      internalID: 4835803179660298091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f26f1807e92ba270800000000000000
+      internalID: 8262744013591765747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfa56b8374ffa540800000000000000
+      internalID: 5021500886638505925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 35
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eb1a15ea67fa970800000000000000
+      internalID: 8768357490579586581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 43
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5bbb79006c4cc70800000000000000
+      internalID: 8990528461986313656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 27
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c389771e576e3d50800000000000000
+      internalID: 6718921347901785033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a934a947d29e860800000000000000
+      internalID: 7559623428345666197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacAries_tex_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 346
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b6edca08a0759d0800000000000000
+      internalID: -2785746296733013170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ZodiacAries_tex_0: -1327660093769498791
+      ZodiacAries_tex_1: 174906218602781572
+      ZodiacAries_tex_10: 8990528461986313656
+      ZodiacAries_tex_11: 6718921347901785033
+      ZodiacAries_tex_12: 7559623428345666197
+      ZodiacAries_tex_13: -2785746296733013170
+      ZodiacAries_tex_2: 1425633141888608010
+      ZodiacAries_tex_3: -1732650819153137129
+      ZodiacAries_tex_4: -3053062997544148478
+      ZodiacAries_tex_5: 9072535348326456471
+      ZodiacAries_tex_6: 4835803179660298091
+      ZodiacAries_tex_7: 8262744013591765747
+      ZodiacAries_tex_8: 5021500886638505925
+      ZodiacAries_tex_9: 8768357490579586581
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

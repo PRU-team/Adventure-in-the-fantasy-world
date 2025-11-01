@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 9d733b1983e484b31b43bc20dfca8ca6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1611700463442197301
+    second: AncientAutomaton_tex_0
+  - first:
+      213: -972927179745343
+    second: AncientAutomaton_tex_1
+  - first:
+      213: -5360734273846892718
+    second: AncientAutomaton_tex_2
+  - first:
+      213: -4516244306285427273
+    second: AncientAutomaton_tex_3
+  - first:
+      213: 1918526229031332482
+    second: AncientAutomaton_tex_4
+  - first:
+      213: 3412910357341899205
+    second: AncientAutomaton_tex_5
+  - first:
+      213: -4172096200971091565
+    second: AncientAutomaton_tex_6
+  - first:
+      213: 3655487260354819077
+    second: AncientAutomaton_tex_7
+  - first:
+      213: -5667063778505752261
+    second: AncientAutomaton_tex_8
+  - first:
+      213: 4877932443358005522
+    second: AncientAutomaton_tex_9
+  - first:
+      213: -1109904353861899808
+    second: AncientAutomaton_tex_10
+  - first:
+      213: -4143749977618997481
+    second: AncientAutomaton_tex_11
+  - first:
+      213: -3557018177647483383
+    second: AncientAutomaton_tex_12
+  - first:
+      213: -5925707235170285500
+    second: AncientAutomaton_tex_13
+  - first:
+      213: -7038156816920679494
+    second: AncientAutomaton_tex_14
+  - first:
+      213: 5285476156868459209
+    second: AncientAutomaton_tex_15
+  - first:
+      213: 6038995894236084603
+    second: AncientAutomaton_tex_16
+  - first:
+      213: -7270520262914233922
+    second: AncientAutomaton_tex_17
+  - first:
+      213: 51744530210798406
+    second: AncientAutomaton_tex_18
+  - first:
+      213: -7063660822862689854
+    second: AncientAutomaton_tex_19
+  - first:
+      213: -2211467873480502822
+    second: AncientAutomaton_tex_20
+  - first:
+      213: 3322104153561532695
+    second: AncientAutomaton_tex_21
+  - first:
+      213: 3966643325067733846
+    second: AncientAutomaton_tex_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 294
+        width: 181
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bfdc74809ed5610800000000000000
+      internalID: 1611700463442197301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 366
+        width: 109
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c71f0db02b8cfff0800000000000000
+      internalID: -972927179745343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 373
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25728109498da95b0800000000000000
+      internalID: -5360734273846892718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 448
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b50af44bb31351c0800000000000000
+      internalID: -4516244306285427273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_4
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 442
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aaea5c079ff9a10800000000000000
+      internalID: 1918526229031332482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 387
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c98d9b33e71d5f20800000000000000
+      internalID: 3412910357341899205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 393
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3918c542c9cb916c0800000000000000
+      internalID: -4172096200971091565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 302
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5043a62bb46eab230800000000000000
+      internalID: 3655487260354819077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 295
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b318ea2d48b8a51b0800000000000000
+      internalID: -5667063778505752261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 117
+        width: 179
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21905bc76b5e1b340800000000000000
+      internalID: 4877932443358005522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 259
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9e665eed3d890f0800000000000000
+      internalID: -1109904353861899808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 289
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f9cf199517e76c0800000000000000
+      internalID: -4143749977618997481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 211
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e6b530dee2aec0800000000000000
+      internalID: -3557018177647483383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 232
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44886b45aa8a3cda0800000000000000
+      internalID: -5925707235170285500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 181
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbe2fd2aa1735e90800000000000000
+      internalID: -7038156816920679494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 152
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf0fe9f88c95940800000000000000
+      internalID: 5285476156868459209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_16
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 174
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79fbf315c2dec350800000000000000
+      internalID: 6038995894236084603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 130
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a7bc775ce91b90800000000000000
+      internalID: -7270520262914233922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 126
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bb8464065d7b000800000000000000
+      internalID: 51744530210798406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 149
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c90d6f08e5d8fd90800000000000000
+      internalID: -7063660822862689854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad191099fa94f41e0800000000000000
+      internalID: -2211467873480502822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71982eb502c7a1e20800000000000000
+      internalID: 3322104153561532695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientAutomaton_tex_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 23
+        width: 377
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b265586195c0730800000000000000
+      internalID: 3966643325067733846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AncientAutomaton_tex_0: 1611700463442197301
+      AncientAutomaton_tex_1: -972927179745343
+      AncientAutomaton_tex_10: -1109904353861899808
+      AncientAutomaton_tex_11: -4143749977618997481
+      AncientAutomaton_tex_12: -3557018177647483383
+      AncientAutomaton_tex_13: -5925707235170285500
+      AncientAutomaton_tex_14: -7038156816920679494
+      AncientAutomaton_tex_15: 5285476156868459209
+      AncientAutomaton_tex_16: 6038995894236084603
+      AncientAutomaton_tex_17: -7270520262914233922
+      AncientAutomaton_tex_18: 51744530210798406
+      AncientAutomaton_tex_19: -7063660822862689854
+      AncientAutomaton_tex_2: -5360734273846892718
+      AncientAutomaton_tex_20: -2211467873480502822
+      AncientAutomaton_tex_21: 3322104153561532695
+      AncientAutomaton_tex_22: 3966643325067733846
+      AncientAutomaton_tex_3: -4516244306285427273
+      AncientAutomaton_tex_4: 1918526229031332482
+      AncientAutomaton_tex_5: 3412910357341899205
+      AncientAutomaton_tex_6: -4172096200971091565
+      AncientAutomaton_tex_7: 3655487260354819077
+      AncientAutomaton_tex_8: -5667063778505752261
+      AncientAutomaton_tex_9: 4877932443358005522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,42 @@
+------------------
+Instructions
+------------------
+
+1.-Install YEP.44 animated Sideview Enemies script. http://yanfly.moe/2015/12/13/yep-44-animated-
+2.-Install TheGreenKel's Dragonbones script https://thegreenkel.itch.io/dragonbones-rpg-maker-mv-plugin
+3.-Replace the plugin in TheGreenKel's download with the plugin bundled with this monster release (KELYEP_Dragonbones).
+4.-Drag the contents of this monster's dragonbones_assets folder into your project's dragonbones_assets folder.
+5.-Follow the instructions written in the KELYEP Plugin!
+
+Monster tags:
+<Attack animation: 12>
+<DragonBone Settings>
+Battler: Baba
+Scalex: -1.0
+Scaley: 1.0
+
+Ani Wait: Idle
+Ani Walk: Idle
+Ani Attack: Attack
+Ani Swing: Attack
+Ani Thrust: Attack
+Ani Missile: Skill
+Ani Skill: Skill
+Ani Chant: Attack
+Ani Spell: Skill
+Ani Item: Skill
+Ani Guard: Idle
+Ani Evade: Idle
+Ani Damage: Damage
+Ani Abnormal: Idle Weak
+Ani Sleep: Idle Weak
+Ani Dying: Idle Weak
+Ani Dead: Idle
+Ani Victory: Idle
+Ani Escape: Idle
+
+Replace Sprite
+</DragonBone Settings>
+
+
+-Aekashics!

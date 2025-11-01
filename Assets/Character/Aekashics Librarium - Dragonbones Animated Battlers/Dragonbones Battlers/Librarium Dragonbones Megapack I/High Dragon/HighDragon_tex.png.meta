@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 4221d16225fbb45ef92bb51055588d1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7091353849370956633
+    second: HighDragon_tex_0
+  - first:
+      213: 8619625704123969197
+    second: HighDragon_tex_1
+  - first:
+      213: 6973756054942580732
+    second: HighDragon_tex_2
+  - first:
+      213: 3737648988913652208
+    second: HighDragon_tex_3
+  - first:
+      213: 2808390869436846997
+    second: HighDragon_tex_4
+  - first:
+      213: -1393374762367836794
+    second: HighDragon_tex_5
+  - first:
+      213: 4808546613818447821
+    second: HighDragon_tex_6
+  - first:
+      213: 7699775481165754171
+    second: HighDragon_tex_7
+  - first:
+      213: -5609742703412174923
+    second: HighDragon_tex_8
+  - first:
+      213: 5599516079874126853
+    second: HighDragon_tex_9
+  - first:
+      213: 305553721059896358
+    second: HighDragon_tex_10
+  - first:
+      213: 503351727755205760
+    second: HighDragon_tex_11
+  - first:
+      213: 5743081343544285651
+    second: HighDragon_tex_12
+  - first:
+      213: 1691135800375509416
+    second: HighDragon_tex_13
+  - first:
+      213: 1644374782395535515
+    second: HighDragon_tex_14
+  - first:
+      213: -8041173637444655174
+    second: HighDragon_tex_15
+  - first:
+      213: -5576643526040493440
+    second: HighDragon_tex_16
+  - first:
+      213: 7578384952854827946
+    second: HighDragon_tex_17
+  - first:
+      213: -5181022944849128264
+    second: HighDragon_tex_18
+  - first:
+      213: -1191227123172423162
+    second: HighDragon_tex_19
+  - first:
+      213: 1144491810923368786
+    second: HighDragon_tex_20
+  - first:
+      213: 7528167401423667731
+    second: HighDragon_tex_21
+  - first:
+      213: 5298488541246927681
+    second: HighDragon_tex_22
+  - first:
+      213: 2205227001217016246
+    second: HighDragon_tex_23
+  - first:
+      213: 5936076242917669815
+    second: HighDragon_tex_24
+  - first:
+      213: 1731392043893703664
+    second: HighDragon_tex_25
+  - first:
+      213: 1663062848600105144
+    second: HighDragon_tex_26
+  - first:
+      213: 8536927572042053226
+    second: HighDragon_tex_27
+  - first:
+      213: 6607316591453592584
+    second: HighDragon_tex_28
+  - first:
+      213: -2555391255160128027
+    second: HighDragon_tex_29
+  - first:
+      213: -8782462197180907925
+    second: HighDragon_tex_30
+  - first:
+      213: -2244564504972852844
+    second: HighDragon_tex_31
+  - first:
+      213: 8867204344687613666
+    second: HighDragon_tex_32
+  - first:
+      213: -4701773817933580104
+    second: HighDragon_tex_33
+  - first:
+      213: -6328939507134592318
+    second: HighDragon_tex_34
+  - first:
+      213: -925936991639138322
+    second: HighDragon_tex_35
+  - first:
+      213: -3240434134448271916
+    second: HighDragon_tex_36
+  - first:
+      213: 5282402112814925690
+    second: HighDragon_tex_37
+  - first:
+      213: 1743563821093087290
+    second: HighDragon_tex_38
+  - first:
+      213: -5449392282326405868
+    second: HighDragon_tex_39
+  - first:
+      213: -2234839797556598846
+    second: HighDragon_tex_40
+  - first:
+      213: -6623833150065287394
+    second: HighDragon_tex_41
+  - first:
+      213: 3866587457498570343
+    second: HighDragon_tex_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HighDragon_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 698
+        width: 265
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac25afde33769d90800000000000000
+      internalID: -7091353849370956633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 717
+        width: 179
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daea22fb8ef0f9770800000000000000
+      internalID: 8619625704123969197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 543
+        width: 123
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfff415fe22c7c060800000000000000
+      internalID: 6973756054942580732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 612
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1db47d3fbced330800000000000000
+      internalID: 3737648988913652208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 597
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593db33cd9869f620800000000000000
+      internalID: 2808390869436846997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 459
+        width: 185
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d121a390db9ace0800000000000000
+      internalID: -1393374762367836794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 582
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc75e822ba36bb240800000000000000
+      internalID: 4808546613818447821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 582
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fa52541091bda60800000000000000
+      internalID: 7699775481165754171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 570
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf17c1abb03622b0800000000000000
+      internalID: -5609742703412174923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 549
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5043cf6053a75bd40800000000000000
+      internalID: 5599516079874126853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ce29b8d7b8d3400800000000000000
+      internalID: 305553721059896358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 309
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c9de1cab34cf600800000000000000
+      internalID: 503351727755205760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 456
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95126cd0683bf40800000000000000
+      internalID: 5743081343544285651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 333
+        width: 67
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a10458ec0f187710800000000000000
+      internalID: 1691135800375509416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 457
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90db4ef62ef1d610800000000000000
+      internalID: 1644374782395535515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 414
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab720e24e23086090800000000000000
+      internalID: -8041173637444655174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 342
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082ef576248cb92b0800000000000000
+      internalID: -5576643526040493440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d31e66f4db2960800000000000000
+      internalID: 7578384952854827946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 398
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b49e17f41f4918b0800000000000000
+      internalID: -5181022944849128264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 382
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4f7c2e39e77fe0800000000000000
+      internalID: -1191227123172423162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 394
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2515e6efc3d02ef00800000000000000
+      internalID: 1144491810923368786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 391
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312888b9d5c697860800000000000000
+      internalID: 7528167401423667731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 375
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14330837143088940800000000000000
+      internalID: 5298488541246927681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 331
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1e3a8164a8a9e10800000000000000
+      internalID: 2205227001217016246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 195
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb3eba64ed216250800000000000000
+      internalID: 5936076242917669815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 191
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3c83ff3e3270810800000000000000
+      internalID: 1731392043893703664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 216
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b065f979d2641710800000000000000
+      internalID: 1663062848600105144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 307
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66fdcc6562497670800000000000000
+      internalID: 8536927572042053226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd220de67e1bb50800000000000000
+      internalID: 6607316591453592584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 264
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7a06413d698cd0800000000000000
+      internalID: -2555391255160128027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 275
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e3cb3c92d6e1680800000000000000
+      internalID: -8782462197180907925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 275
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49184a59974b9d0e0800000000000000
+      internalID: -2244564504972852844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 244
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6d7ebfe53ae0b70800000000000000
+      internalID: 8867204344687613666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 254
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b836d7af91ffbeb0800000000000000
+      internalID: -4701773817933580104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 261
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca8e48ec071b28a0800000000000000
+      internalID: -6328939507134592318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 243
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef84f046396623f0800000000000000
+      internalID: -925936991639138322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd0922c25aa703d0800000000000000
+      internalID: -3240434134448271916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 229
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a774b17fbbcde4940800000000000000
+      internalID: 5282402112814925690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 213
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38e977be02623810800000000000000
+      internalID: 1743563821093087290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 351
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ded22679edf54b0800000000000000
+      internalID: -5449392282326405868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 80
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7abb87b014cf0e0800000000000000
+      internalID: -2234839797556598846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fd6e638da6314a0800000000000000
+      internalID: -6623833150065287394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HighDragon_tex_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 103
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ede297ec0e8a530800000000000000
+      internalID: 3866587457498570343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HighDragon_tex_0: -7091353849370956633
+      HighDragon_tex_1: 8619625704123969197
+      HighDragon_tex_10: 305553721059896358
+      HighDragon_tex_11: 503351727755205760
+      HighDragon_tex_12: 5743081343544285651
+      HighDragon_tex_13: 1691135800375509416
+      HighDragon_tex_14: 1644374782395535515
+      HighDragon_tex_15: -8041173637444655174
+      HighDragon_tex_16: -5576643526040493440
+      HighDragon_tex_17: 7578384952854827946
+      HighDragon_tex_18: -5181022944849128264
+      HighDragon_tex_19: -1191227123172423162
+      HighDragon_tex_2: 6973756054942580732
+      HighDragon_tex_20: 1144491810923368786
+      HighDragon_tex_21: 7528167401423667731
+      HighDragon_tex_22: 5298488541246927681
+      HighDragon_tex_23: 2205227001217016246
+      HighDragon_tex_24: 5936076242917669815
+      HighDragon_tex_25: 1731392043893703664
+      HighDragon_tex_26: 1663062848600105144
+      HighDragon_tex_27: 8536927572042053226
+      HighDragon_tex_28: 6607316591453592584
+      HighDragon_tex_29: -2555391255160128027
+      HighDragon_tex_3: 3737648988913652208
+      HighDragon_tex_30: -8782462197180907925
+      HighDragon_tex_31: -2244564504972852844
+      HighDragon_tex_32: 8867204344687613666
+      HighDragon_tex_33: -4701773817933580104
+      HighDragon_tex_34: -6328939507134592318
+      HighDragon_tex_35: -925936991639138322
+      HighDragon_tex_36: -3240434134448271916
+      HighDragon_tex_37: 5282402112814925690
+      HighDragon_tex_38: 1743563821093087290
+      HighDragon_tex_39: -5449392282326405868
+      HighDragon_tex_4: 2808390869436846997
+      HighDragon_tex_40: -2234839797556598846
+      HighDragon_tex_41: -6623833150065287394
+      HighDragon_tex_42: 3866587457498570343
+      HighDragon_tex_5: -1393374762367836794
+      HighDragon_tex_6: 4808546613818447821
+      HighDragon_tex_7: 7699775481165754171
+      HighDragon_tex_8: -5609742703412174923
+      HighDragon_tex_9: 5599516079874126853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
