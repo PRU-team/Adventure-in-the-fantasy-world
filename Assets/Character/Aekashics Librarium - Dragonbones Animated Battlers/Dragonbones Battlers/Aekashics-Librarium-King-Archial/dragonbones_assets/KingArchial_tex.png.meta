@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: ccb4ed74ff29247379d8075802205405
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4091286847583814377
+    second: KingArchial_tex_0
+  - first:
+      213: -6481405383859019584
+    second: KingArchial_tex_1
+  - first:
+      213: -5997257625313547563
+    second: KingArchial_tex_2
+  - first:
+      213: 1988582218584049099
+    second: KingArchial_tex_3
+  - first:
+      213: -2120554132154579941
+    second: KingArchial_tex_4
+  - first:
+      213: -1038059618004735556
+    second: KingArchial_tex_5
+  - first:
+      213: 548550911854152952
+    second: KingArchial_tex_6
+  - first:
+      213: -5638559409514818050
+    second: KingArchial_tex_7
+  - first:
+      213: -19136459135859559
+    second: KingArchial_tex_8
+  - first:
+      213: -5314005871976931409
+    second: KingArchial_tex_9
+  - first:
+      213: -3196831532502954435
+    second: KingArchial_tex_10
+  - first:
+      213: -5551179603858591030
+    second: KingArchial_tex_11
+  - first:
+      213: 5680618794006846890
+    second: KingArchial_tex_12
+  - first:
+      213: 767590129938834560
+    second: KingArchial_tex_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KingArchial_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 744
+        width: 596
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df987e944d837c0800000000000000
+      internalID: -4091286847583814377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1017
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c067c1b42c6d06a0800000000000000
+      internalID: -6481405383859019584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 851
+        width: 128
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daeea0f6f575cca0800000000000000
+      internalID: -5997257625313547563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 926
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc54c59edfcd89b10800000000000000
+      internalID: 1988582218584049099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_4
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 759
+        width: 144
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1480f180474292e0800000000000000
+      internalID: -2120554132154579941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_5
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 866
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9662df6421891f0800000000000000
+      internalID: -1038059618004735556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 774
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc8842e528dc9700800000000000000
+      internalID: 548550911854152952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 689
+        width: 82
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5dee66710dfb1b0800000000000000
+      internalID: -5638559409514818050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 358
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994c2f6ed730cbff0800000000000000
+      internalID: -19136459135859559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_9
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 419
+        width: 129
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf997270dbd046b0800000000000000
+      internalID: -5314005871976931409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_10
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 475
+        width: 206
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ec462a8a292a3d0800000000000000
+      internalID: -3196831532502954435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_11
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 577
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27d9bcf8f36f2b0800000000000000
+      internalID: -5551179603858591030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_12
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 508
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad9f2922bc95de40800000000000000
+      internalID: 5680618794006846890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingArchial_tex_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a914082707aa00800000000000000
+      internalID: 767590129938834560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KingArchial_tex_0: -4091286847583814377
+      KingArchial_tex_1: -6481405383859019584
+      KingArchial_tex_10: -3196831532502954435
+      KingArchial_tex_11: -5551179603858591030
+      KingArchial_tex_12: 5680618794006846890
+      KingArchial_tex_13: 767590129938834560
+      KingArchial_tex_2: -5997257625313547563
+      KingArchial_tex_3: 1988582218584049099
+      KingArchial_tex_4: -2120554132154579941
+      KingArchial_tex_5: -1038059618004735556
+      KingArchial_tex_6: 548550911854152952
+      KingArchial_tex_7: -5638559409514818050
+      KingArchial_tex_8: -19136459135859559
+      KingArchial_tex_9: -5314005871976931409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

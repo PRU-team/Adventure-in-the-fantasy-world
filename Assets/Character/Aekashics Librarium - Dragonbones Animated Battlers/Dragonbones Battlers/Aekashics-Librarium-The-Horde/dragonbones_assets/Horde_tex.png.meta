@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d53559e0294e442368495eff20509869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5455896308927953434
+    second: Horde_tex_0
+  - first:
+      213: 5995896790538218721
+    second: Horde_tex_1
+  - first:
+      213: 744049651413976678
+    second: Horde_tex_2
+  - first:
+      213: -4567303735342269994
+    second: Horde_tex_3
+  - first:
+      213: -1982490187209522461
+    second: Horde_tex_4
+  - first:
+      213: -1283561635563748946
+    second: Horde_tex_5
+  - first:
+      213: 2439045653841747999
+    second: Horde_tex_6
+  - first:
+      213: -8995553026431746487
+    second: Horde_tex_7
+  - first:
+      213: 4099483341294921615
+    second: Horde_tex_8
+  - first:
+      213: 6900693803598508643
+    second: Horde_tex_9
+  - first:
+      213: 8800022323499824011
+    second: Horde_tex_10
+  - first:
+      213: -7766647961816848782
+    second: Horde_tex_11
+  - first:
+      213: 6176740882745086092
+    second: Horde_tex_12
+  - first:
+      213: -3447630175717254385
+    second: Horde_tex_13
+  - first:
+      213: -3122256653341826212
+    second: Horde_tex_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horde_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 741
+        width: 278
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e50cfea633c844b0800000000000000
+      internalID: -5455896308927953434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 759
+        width: 217
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec6fe50d54b53350800000000000000
+      internalID: 5995896790538218721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 256
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66688cf3735635a00800000000000000
+      internalID: 744049651413976678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 226
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9fb99837dad90c0800000000000000
+      internalID: -4567303735342269994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 500
+        width: 212
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2cdacada7cc74e0800000000000000
+      internalID: -1982490187209522461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 430
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea147e83e7fdf2ee0800000000000000
+      internalID: -1283561635563748946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 352
+        width: 130
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a23c791b39d120800000000000000
+      internalID: 2439045653841747999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 351
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e7855de20692380800000000000000
+      internalID: -8995553026431746487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 288
+        width: 131
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87e380016a44e830800000000000000
+      internalID: 4099483341294921615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 371
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3627a33f37034cf50800000000000000
+      internalID: 6900693803598508643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 220
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f6bfbda5ff1a70800000000000000
+      internalID: 8800022323499824011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 239
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276256404d2573490800000000000000
+      internalID: -7766647961816848782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 508
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8057a96b1138b550800000000000000
+      internalID: 6176740882745086092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 157
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b947b1f9e8720d0800000000000000
+      internalID: -3447630175717254385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horde_tex_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 142
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53e5ffbd148ba4d0800000000000000
+      internalID: -3122256653341826212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Horde_tex_0: -5455896308927953434
+      Horde_tex_1: 5995896790538218721
+      Horde_tex_10: 8800022323499824011
+      Horde_tex_11: -7766647961816848782
+      Horde_tex_12: 6176740882745086092
+      Horde_tex_13: -3447630175717254385
+      Horde_tex_14: -3122256653341826212
+      Horde_tex_2: 744049651413976678
+      Horde_tex_3: -4567303735342269994
+      Horde_tex_4: -1982490187209522461
+      Horde_tex_5: -1283561635563748946
+      Horde_tex_6: 2439045653841747999
+      Horde_tex_7: -8995553026431746487
+      Horde_tex_8: 4099483341294921615
+      Horde_tex_9: 6900693803598508643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

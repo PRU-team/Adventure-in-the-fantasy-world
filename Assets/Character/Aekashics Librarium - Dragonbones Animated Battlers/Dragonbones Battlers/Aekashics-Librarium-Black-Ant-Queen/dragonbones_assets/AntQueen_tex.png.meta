@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 212bb180e862d4852a7433daf97217b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4465753679929029562
+    second: AntQueen_tex_0
+  - first:
+      213: -9074522547760455930
+    second: AntQueen_tex_1
+  - first:
+      213: -5015515555553302098
+    second: AntQueen_tex_2
+  - first:
+      213: 7818355151871599962
+    second: AntQueen_tex_3
+  - first:
+      213: -1775876495865413068
+    second: AntQueen_tex_4
+  - first:
+      213: 6463740452738038214
+    second: AntQueen_tex_5
+  - first:
+      213: 7934698163181730763
+    second: AntQueen_tex_6
+  - first:
+      213: -7313749362686412343
+    second: AntQueen_tex_7
+  - first:
+      213: -789209224027568365
+    second: AntQueen_tex_8
+  - first:
+      213: -1494287355450892727
+    second: AntQueen_tex_9
+  - first:
+      213: 873565083610026154
+    second: AntQueen_tex_10
+  - first:
+      213: -8115115534163432419
+    second: AntQueen_tex_11
+  - first:
+      213: 3085293364408681337
+    second: AntQueen_tex_12
+  - first:
+      213: -8370814535926208736
+    second: AntQueen_tex_13
+  - first:
+      213: 6536338333110249302
+    second: AntQueen_tex_14
+  - first:
+      213: -7008460539101896696
+    second: AntQueen_tex_15
+  - first:
+      213: -6772034020673538043
+    second: AntQueen_tex_16
+  - first:
+      213: 3309927885323104020
+    second: AntQueen_tex_17
+  - first:
+      213: 5805945145759431302
+    second: AntQueen_tex_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AntQueen_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 831
+        width: 182
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab33092bf4b89fd30800000000000000
+      internalID: 4465753679929029562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 852
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f177a52d1d01280800000000000000
+      internalID: -9074522547760455930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 873
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9acc1fc2f456ab0800000000000000
+      internalID: -5015515555553302098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 959
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55e6235690608c60800000000000000
+      internalID: 7818355151871599962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 469
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4320afa6cb1da57e0800000000000000
+      internalID: -1775876495865413068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 526
+        width: 99
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f5c502b1d3b950800000000000000
+      internalID: 6463740452738038214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 536
+        width: 89
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb346880f5bd1e60800000000000000
+      internalID: 7934698163181730763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 536
+        width: 83
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c936dc54b7508a90800000000000000
+      internalID: -7313749362686412343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 194
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3170064646a2c05f0800000000000000
+      internalID: -789209224027568365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 487
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eddf93199334be0800000000000000
+      internalID: -1494287355450892727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 81
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa092c0b0d68f1c00800000000000000
+      internalID: 873565083610026154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 231
+        width: 64
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c2feada61516f80800000000000000
+      internalID: -8115115534163432419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 209
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9730375e7f921da20800000000000000
+      internalID: 3085293364408681337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 43
+        width: 51
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0272171b784e4db80800000000000000
+      internalID: -8370814535926208736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 118
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572ecc351db5ba50800000000000000
+      internalID: 6536338333110249302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8002d78a542fcbe90800000000000000
+      internalID: -7008460539101896696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b4ee10f6e402a0800000000000000
+      internalID: -6772034020673538043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe7dcffd93fed20800000000000000
+      internalID: 3309927885323104020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AntQueen_tex_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68af46e495cd29050800000000000000
+      internalID: 5805945145759431302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AntQueen_tex_0: 4465753679929029562
+      AntQueen_tex_1: -9074522547760455930
+      AntQueen_tex_10: 873565083610026154
+      AntQueen_tex_11: -8115115534163432419
+      AntQueen_tex_12: 3085293364408681337
+      AntQueen_tex_13: -8370814535926208736
+      AntQueen_tex_14: 6536338333110249302
+      AntQueen_tex_15: -7008460539101896696
+      AntQueen_tex_16: -6772034020673538043
+      AntQueen_tex_17: 3309927885323104020
+      AntQueen_tex_18: 5805945145759431302
+      AntQueen_tex_2: -5015515555553302098
+      AntQueen_tex_3: 7818355151871599962
+      AntQueen_tex_4: -1775876495865413068
+      AntQueen_tex_5: 6463740452738038214
+      AntQueen_tex_6: 7934698163181730763
+      AntQueen_tex_7: -7313749362686412343
+      AntQueen_tex_8: -789209224027568365
+      AntQueen_tex_9: -1494287355450892727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

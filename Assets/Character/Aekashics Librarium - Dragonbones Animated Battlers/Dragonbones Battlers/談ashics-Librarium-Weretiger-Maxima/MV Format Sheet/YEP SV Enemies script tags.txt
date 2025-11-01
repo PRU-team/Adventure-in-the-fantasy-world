@@ -1,0 +1,7 @@
+<attack animation: 17>
+<Breathing Speed: 35>
+<Sideview Battler: Weretiger>
+<Sideview Attack Motion: thrust>
+<Sideview Collapse>
+<Scale Sprite: 55%>
+<Sideview Frame Speed: 9>

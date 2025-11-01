@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d33468b5286a9479281f7b7ea0312104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7017916820058138253
+    second: MknightGoldnharl_tex_0
+  - first:
+      213: 7025534863299546631
+    second: MknightGoldnharl_tex_1
+  - first:
+      213: -9065606595057251523
+    second: MknightGoldnharl_tex_2
+  - first:
+      213: -974770155567024891
+    second: MknightGoldnharl_tex_3
+  - first:
+      213: 5066696200258007636
+    second: MknightGoldnharl_tex_4
+  - first:
+      213: -3561766826072376672
+    second: MknightGoldnharl_tex_5
+  - first:
+      213: 8570588695177508331
+    second: MknightGoldnharl_tex_6
+  - first:
+      213: -5265650980923916269
+    second: MknightGoldnharl_tex_7
+  - first:
+      213: -5393906639474975425
+    second: MknightGoldnharl_tex_8
+  - first:
+      213: -765737245783987045
+    second: MknightGoldnharl_tex_9
+  - first:
+      213: 2788636299625676200
+    second: MknightGoldnharl_tex_10
+  - first:
+      213: -2864172911809640545
+    second: MknightGoldnharl_tex_11
+  - first:
+      213: -6595357116972605151
+    second: MknightGoldnharl_tex_12
+  - first:
+      213: 1434325273937640623
+    second: MknightGoldnharl_tex_13
+  - first:
+      213: 6485819591914298371
+    second: MknightGoldnharl_tex_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 856
+        width: 441
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379123da5d95b9e90800000000000000
+      internalID: -7017916820058138253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 889
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e871c3cb6bf7160800000000000000
+      internalID: 7025534863299546631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 849
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b8c2c55de703280800000000000000
+      internalID: -9065606595057251523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 616
+        width: 286
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50576c345bbe872f0800000000000000
+      internalID: -974770155567024891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 654
+        width: 71
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45233318955805640800000000000000
+      internalID: 5066696200258007636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 701
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa7f2751ff029ec0800000000000000
+      internalID: -3561766826072376672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 675
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b8046209d0f670800000000000000
+      internalID: 8570588695177508331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 683
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310c7dad456ace6b0800000000000000
+      internalID: -5265650980923916269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 677
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d19725d7ef425b0800000000000000
+      internalID: -5393906639474975425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 250
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c62c1380e8f55f0800000000000000
+      internalID: -765737245783987045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 471
+        width: 236
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adb2fe80f933b620800000000000000
+      internalID: 2788636299625676200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 241
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f974a4869e96048d0800000000000000
+      internalID: -2864172911809640545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 376
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121e00455a59874a0800000000000000
+      internalID: -6595357116972605151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 350
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facfa6dbc3fb7e310800000000000000
+      internalID: 1434325273937640623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MknightGoldnharl_tex_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 378
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c12553e82420a50800000000000000
+      internalID: 6485819591914298371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MknightGoldnharl_tex_0: -7017916820058138253
+      MknightGoldnharl_tex_1: 7025534863299546631
+      MknightGoldnharl_tex_10: 2788636299625676200
+      MknightGoldnharl_tex_11: -2864172911809640545
+      MknightGoldnharl_tex_12: -6595357116972605151
+      MknightGoldnharl_tex_13: 1434325273937640623
+      MknightGoldnharl_tex_14: 6485819591914298371
+      MknightGoldnharl_tex_2: -9065606595057251523
+      MknightGoldnharl_tex_3: -974770155567024891
+      MknightGoldnharl_tex_4: 5066696200258007636
+      MknightGoldnharl_tex_5: -3561766826072376672
+      MknightGoldnharl_tex_6: 8570588695177508331
+      MknightGoldnharl_tex_7: -5265650980923916269
+      MknightGoldnharl_tex_8: -5393906639474975425
+      MknightGoldnharl_tex_9: -765737245783987045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

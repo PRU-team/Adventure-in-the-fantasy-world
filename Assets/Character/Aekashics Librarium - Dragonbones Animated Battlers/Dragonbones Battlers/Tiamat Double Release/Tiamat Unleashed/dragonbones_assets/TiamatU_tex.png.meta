@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 3887c9b7737454017ad6ed5be157d0bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6430244309529811553
+    second: TiamatU_tex_0
+  - first:
+      213: -6930842722011096832
+    second: TiamatU_tex_1
+  - first:
+      213: -3537260257670743575
+    second: TiamatU_tex_2
+  - first:
+      213: 3482340330718554741
+    second: TiamatU_tex_3
+  - first:
+      213: 1359085743183592169
+    second: TiamatU_tex_4
+  - first:
+      213: 8035646061478660393
+    second: TiamatU_tex_5
+  - first:
+      213: 2082966041388948030
+    second: TiamatU_tex_6
+  - first:
+      213: -3275714671445638233
+    second: TiamatU_tex_7
+  - first:
+      213: 2090492974178804414
+    second: TiamatU_tex_8
+  - first:
+      213: 9055662909759227373
+    second: TiamatU_tex_9
+  - first:
+      213: -2122262607302269692
+    second: TiamatU_tex_10
+  - first:
+      213: 6997276139166665689
+    second: TiamatU_tex_11
+  - first:
+      213: 8069433523338640158
+    second: TiamatU_tex_12
+  - first:
+      213: -4100717055841969529
+    second: TiamatU_tex_13
+  - first:
+      213: 5973408798080794799
+    second: TiamatU_tex_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TiamatU_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 629
+        width: 358
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a50807121dc3950800000000000000
+      internalID: 6430244309529811553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 849
+        width: 108
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0095d68f343b0df90800000000000000
+      internalID: -6930842722011096832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 697
+        width: 92
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9bd6f698029eec0800000000000000
+      internalID: -3537260257670743575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 721
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aee7f9412c35030800000000000000
+      internalID: 3482340330718554741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 672
+        width: 380
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea71cd58417cd210800000000000000
+      internalID: 1359085743183592169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 275
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c33ba489548f60800000000000000
+      internalID: 8035646061478660393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 323
+        width: 167
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a9030249e28ec10800000000000000
+      internalID: 2082966041388948030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 338
+        width: 158
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a382fe9cd25a82d0800000000000000
+      internalID: -3275714671445638233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 119
+        width: 137
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2a06bb84ce20d10800000000000000
+      internalID: 2090492974178804414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 185
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de501edff6d2cad70800000000000000
+      internalID: 9055662909759227373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 151
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40567a327653c82e0800000000000000
+      internalID: -2122262607302269692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db885e43915b1160800000000000000
+      internalID: 6997276139166665689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 101
+        width: 228
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b7a3929036cff60800000000000000
+      internalID: 8069433523338640158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 71
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a572270935717c0800000000000000
+      internalID: -4100717055841969529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TiamatU_tex_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08cc347afc5e250800000000000000
+      internalID: 5973408798080794799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TiamatU_tex_0: 6430244309529811553
+      TiamatU_tex_1: -6930842722011096832
+      TiamatU_tex_10: -2122262607302269692
+      TiamatU_tex_11: 6997276139166665689
+      TiamatU_tex_12: 8069433523338640158
+      TiamatU_tex_13: -4100717055841969529
+      TiamatU_tex_14: 5973408798080794799
+      TiamatU_tex_2: -3537260257670743575
+      TiamatU_tex_3: 3482340330718554741
+      TiamatU_tex_4: 1359085743183592169
+      TiamatU_tex_5: 8035646061478660393
+      TiamatU_tex_6: 2082966041388948030
+      TiamatU_tex_7: -3275714671445638233
+      TiamatU_tex_8: 2090492974178804414
+      TiamatU_tex_9: 9055662909759227373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

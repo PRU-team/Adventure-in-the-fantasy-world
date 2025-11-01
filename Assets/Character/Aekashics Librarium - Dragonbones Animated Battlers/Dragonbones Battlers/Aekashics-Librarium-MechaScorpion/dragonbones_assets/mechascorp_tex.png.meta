@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: b4496de7d3f9f4794bb3397675d6334f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6483363606713478613
+    second: mechascorp_tex_0
+  - first:
+      213: -2501495716360774403
+    second: mechascorp_tex_1
+  - first:
+      213: 206317631523356485
+    second: mechascorp_tex_2
+  - first:
+      213: 8416668533500915701
+    second: mechascorp_tex_3
+  - first:
+      213: -6272997211165647483
+    second: mechascorp_tex_4
+  - first:
+      213: -9166193968749609242
+    second: mechascorp_tex_5
+  - first:
+      213: -5816364528029860872
+    second: mechascorp_tex_6
+  - first:
+      213: -8089034664517530870
+    second: mechascorp_tex_7
+  - first:
+      213: 483731854222939669
+    second: mechascorp_tex_8
+  - first:
+      213: -4665254382709215737
+    second: mechascorp_tex_9
+  - first:
+      213: 3923576235393706835
+    second: mechascorp_tex_10
+  - first:
+      213: -4582898197043241720
+    second: mechascorp_tex_11
+  - first:
+      213: 8859346701594660700
+    second: mechascorp_tex_12
+  - first:
+      213: -5376236760901620173
+    second: mechascorp_tex_13
+  - first:
+      213: 8390016951994599331
+    second: mechascorp_tex_14
+  - first:
+      213: 5972442564894048371
+    second: mechascorp_tex_15
+  - first:
+      213: 6110789742951059288
+    second: mechascorp_tex_16
+  - first:
+      213: 8500860767162698375
+    second: mechascorp_tex_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mechascorp_tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 885
+        width: 288
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22d52866277606a0800000000000000
+      internalID: -6483363606713478613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 811
+        width: 133
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc972346e6e84dd0800000000000000
+      internalID: -2501495716360774403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 974
+        width: 587
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f79d1faccfcd200800000000000000
+      internalID: 206317631523356485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 840
+        width: 181
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa78310730ec470800000000000000
+      internalID: 8416668533500915701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_4
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 841
+        width: 157
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d947fa546d1f8a0800000000000000
+      internalID: -6272997211165647483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 893
+        width: 114
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eef95666232bc080800000000000000
+      internalID: -9166193968749609242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 733
+        width: 217
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbf896374f184fa0800000000000000
+      internalID: -5816364528029860872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 814
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b8c9584d9fdbf80800000000000000
+      internalID: -8089034664517530870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 748
+        width: 125
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516df79fe8f86b600800000000000000
+      internalID: 483731854222939669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 847
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e68c34bdfa14fb0800000000000000
+      internalID: -4665254382709215737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 584
+        width: 125
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b6ecf4cc7537630800000000000000
+      internalID: 3923576235393706835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 618
+        width: 82
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d957bfe564660c0800000000000000
+      internalID: -4582898197043241720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_12
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 756
+        width: 137
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f0492e2e8b2fa70800000000000000
+      internalID: 8859346701594660700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_13
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 681
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eef068625c365b0800000000000000
+      internalID: -5376236760901620173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_14
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 711
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7c42337f35f6470800000000000000
+      internalID: 8390016951994599331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_15
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 649
+        width: 82
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370cee19ed062e250800000000000000
+      internalID: 5972442564894048371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 508
+        width: 125
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fc2b515e2edc450800000000000000
+      internalID: 6110789742951059288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechascorp_tex_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 542
+        width: 83
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a89c704df19f570800000000000000
+      internalID: 8500860767162698375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mechascorp_tex_0: -6483363606713478613
+      mechascorp_tex_1: -2501495716360774403
+      mechascorp_tex_10: 3923576235393706835
+      mechascorp_tex_11: -4582898197043241720
+      mechascorp_tex_12: 8859346701594660700
+      mechascorp_tex_13: -5376236760901620173
+      mechascorp_tex_14: 8390016951994599331
+      mechascorp_tex_15: 5972442564894048371
+      mechascorp_tex_16: 6110789742951059288
+      mechascorp_tex_17: 8500860767162698375
+      mechascorp_tex_2: 206317631523356485
+      mechascorp_tex_3: 8416668533500915701
+      mechascorp_tex_4: -6272997211165647483
+      mechascorp_tex_5: -9166193968749609242
+      mechascorp_tex_6: -5816364528029860872
+      mechascorp_tex_7: -8089034664517530870
+      mechascorp_tex_8: 483731854222939669
+      mechascorp_tex_9: -4665254382709215737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

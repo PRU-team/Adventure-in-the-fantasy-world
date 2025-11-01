@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 89523a476dcaf4a5cb2a338079526ce2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4842220617997585651
+    second: Isis_tex_0
+  - first:
+      213: 5384395809126856653
+    second: Isis_tex_1
+  - first:
+      213: 3633224362540526013
+    second: Isis_tex_2
+  - first:
+      213: -576219544643203945
+    second: Isis_tex_3
+  - first:
+      213: 1381974959998110619
+    second: Isis_tex_4
+  - first:
+      213: 1146253255104368830
+    second: Isis_tex_5
+  - first:
+      213: 6447496341292878993
+    second: Isis_tex_6
+  - first:
+      213: 7715666926124226602
+    second: Isis_tex_7
+  - first:
+      213: 6220215275383294271
+    second: Isis_tex_8
+  - first:
+      213: -8990638874424592256
+    second: Isis_tex_9
+  - first:
+      213: 5546975153570909657
+    second: Isis_tex_10
+  - first:
+      213: 8941782500739232453
+    second: Isis_tex_11
+  - first:
+      213: -4992831930029938391
+    second: Isis_tex_12
+  - first:
+      213: 8522378608668791335
+    second: Isis_tex_13
+  - first:
+      213: 4645938402283156178
+    second: Isis_tex_14
+  - first:
+      213: 1953181685962886150
+    second: Isis_tex_15
+  - first:
+      213: -2338530345572880474
+    second: Isis_tex_16
+  - first:
+      213: -161473133705266769
+    second: Isis_tex_17
+  - first:
+      213: 1740310814629031149
+    second: Isis_tex_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Isis_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 713
+        width: 269
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc81d33ff5033340800000000000000
+      internalID: 4842220617997585651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 686
+        width: 178
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7bb1de57739ba40800000000000000
+      internalID: 5384395809126856653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 837
+        width: 59
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9e58ede4ecb6230800000000000000
+      internalID: 3633224362540526013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 958
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c87e8806bd008f0800000000000000
+      internalID: -576219544643203945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 527
+        width: 102
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b0c2377e2cd2310800000000000000
+      internalID: 1381974959998110619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 515
+        width: 97
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0912d234f48ef00800000000000000
+      internalID: 1146253255104368830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 572
+        width: 139
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c846913cb1a7950800000000000000
+      internalID: 6447496341292878993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 656
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a285dd0a03e831b60800000000000000
+      internalID: 7715666926124226602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 562
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f390eab36d4a25650800000000000000
+      internalID: 6220215275383294271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 414
+        width: 167
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088ba120495da3380800000000000000
+      internalID: -8990638874424592256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 476
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd03865380dafc40800000000000000
+      internalID: 5546975153570909657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 461
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2bd5f0fc7971c70800000000000000
+      internalID: 8941782500739232453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 467
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929665310d5e5bab0800000000000000
+      internalID: -4992831930029938391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 311
+        width: 113
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722571be032954670800000000000000
+      internalID: 8522378608668791335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 359
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2fe649c50b97040800000000000000
+      internalID: 4645938402283156178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 317
+        width: 99
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ccd9d15681b1b10800000000000000
+      internalID: 1953181685962886150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 341
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af28af6a0fdb8fd0800000000000000
+      internalID: -2338530345572880474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 323
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97ab85a0552cdf0800000000000000
+      internalID: -161473133705266769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isis_tex_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 293
+        width: 360
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decebb02773d62810800000000000000
+      internalID: 1740310814629031149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Isis_tex_0: 4842220617997585651
+      Isis_tex_1: 5384395809126856653
+      Isis_tex_10: 5546975153570909657
+      Isis_tex_11: 8941782500739232453
+      Isis_tex_12: -4992831930029938391
+      Isis_tex_13: 8522378608668791335
+      Isis_tex_14: 4645938402283156178
+      Isis_tex_15: 1953181685962886150
+      Isis_tex_16: -2338530345572880474
+      Isis_tex_17: -161473133705266769
+      Isis_tex_18: 1740310814629031149
+      Isis_tex_2: 3633224362540526013
+      Isis_tex_3: -576219544643203945
+      Isis_tex_4: 1381974959998110619
+      Isis_tex_5: 1146253255104368830
+      Isis_tex_6: 6447496341292878993
+      Isis_tex_7: 7715666926124226602
+      Isis_tex_8: 6220215275383294271
+      Isis_tex_9: -8990638874424592256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

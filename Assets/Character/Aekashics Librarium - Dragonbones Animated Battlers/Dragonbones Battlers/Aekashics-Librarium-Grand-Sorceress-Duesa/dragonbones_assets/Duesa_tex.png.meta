@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 76bc4aeb35ec8424b87a3f62d62aea7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5483807500849049979
+    second: Duesa_tex_0
+  - first:
+      213: -5664168379412726913
+    second: Duesa_tex_1
+  - first:
+      213: 3538160529607439073
+    second: Duesa_tex_2
+  - first:
+      213: -4515238109760992942
+    second: Duesa_tex_3
+  - first:
+      213: -5505599429617120844
+    second: Duesa_tex_4
+  - first:
+      213: 847414112424457104
+    second: Duesa_tex_5
+  - first:
+      213: -5358426907800970360
+    second: Duesa_tex_6
+  - first:
+      213: 721016539961921068
+    second: Duesa_tex_7
+  - first:
+      213: -7357972930411855474
+    second: Duesa_tex_8
+  - first:
+      213: -146365492116830705
+    second: Duesa_tex_9
+  - first:
+      213: -4909253626525608664
+    second: Duesa_tex_10
+  - first:
+      213: -7470022185773109819
+    second: Duesa_tex_11
+  - first:
+      213: 6248087232119908452
+    second: Duesa_tex_12
+  - first:
+      213: -4886782375605383063
+    second: Duesa_tex_13
+  - first:
+      213: 9177299516908738133
+    second: Duesa_tex_14
+  - first:
+      213: 1887110676790098839
+    second: Duesa_tex_15
+  - first:
+      213: 1922106526618715596
+    second: Duesa_tex_16
+  - first:
+      213: -8026006985867714898
+    second: Duesa_tex_17
+  - first:
+      213: 854291695485058976
+    second: Duesa_tex_18
+  - first:
+      213: 2547706731019824333
+    second: Duesa_tex_19
+  - first:
+      213: -7053871391057119150
+    second: Duesa_tex_20
+  - first:
+      213: -5730698994554339940
+    second: Duesa_tex_21
+  - first:
+      213: 6688515746677876488
+    second: Duesa_tex_22
+  - first:
+      213: -7846426033986544927
+    second: Duesa_tex_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duesa_tex_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 713
+        width: 299
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71fab81ed56a1c40800000000000000
+      internalID: 5483807500849049979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 801
+        width: 423
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bba157ed4d461b0800000000000000
+      internalID: -5664168379412726913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 840
+        width: 247
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e23f8571421a1130800000000000000
+      internalID: 3538160529607439073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 588
+        width: 158
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c367acd6a651c0800000000000000
+      internalID: -4515238109760992942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_4
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 636
+        width: 78
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9041a1d7e2893b0800000000000000
+      internalID: -5505599429617120844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09376bc35ae92cb00800000000000000
+      internalID: 847414112424457104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 632
+        width: 62
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bd0a51e1b03a5b0800000000000000
+      internalID: -5358426907800970360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 679
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e8c9519b0910a00800000000000000
+      internalID: 721016539961921068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 660
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818cdf9a9a33e990800000000000000
+      internalID: -7357972930411855474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 643
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0640034c5108fdf0800000000000000
+      internalID: -146365492116830705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 660
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82594a646d3dedbb0800000000000000
+      internalID: -4909253626525608664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 627
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cde4b06666255890800000000000000
+      internalID: -7470022185773109819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_12
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 634
+        width: 180
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468292cdb3aa5b650800000000000000
+      internalID: 6248087232119908452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 418
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960d6671259ae2cb0800000000000000
+      internalID: -4886782375605383063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_14
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 591
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55695b689415c5f70800000000000000
+      internalID: 9177299516908738133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 390
+        width: 135
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bbbe5892d503a10800000000000000
+      internalID: 1887110676790098839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_16
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 400
+        width: 105
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc58193c3b1bcaa10800000000000000
+      internalID: 1922106526618715596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_17
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 346
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae1d828b25ed9090800000000000000
+      internalID: -8026006985867714898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 34
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aff3f355cd0bdb00800000000000000
+      internalID: 854291695485058976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_19
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 212
+        width: 94
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccee4606c54b5320800000000000000
+      internalID: 2547706731019824333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ffb4c75d9b1e90800000000000000
+      internalID: -7053871391057119150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 131
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d76e280a77870b0800000000000000
+      internalID: -5730698994554339940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807675362a162dc50800000000000000
+      internalID: 6688515746677876488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duesa_tex_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 65
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eadadf1815eb1390800000000000000
+      internalID: -7846426033986544927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Duesa_tex_0: 5483807500849049979
+      Duesa_tex_1: -5664168379412726913
+      Duesa_tex_10: -4909253626525608664
+      Duesa_tex_11: -7470022185773109819
+      Duesa_tex_12: 6248087232119908452
+      Duesa_tex_13: -4886782375605383063
+      Duesa_tex_14: 9177299516908738133
+      Duesa_tex_15: 1887110676790098839
+      Duesa_tex_16: 1922106526618715596
+      Duesa_tex_17: -8026006985867714898
+      Duesa_tex_18: 854291695485058976
+      Duesa_tex_19: 2547706731019824333
+      Duesa_tex_2: 3538160529607439073
+      Duesa_tex_20: -7053871391057119150
+      Duesa_tex_21: -5730698994554339940
+      Duesa_tex_22: 6688515746677876488
+      Duesa_tex_23: -7846426033986544927
+      Duesa_tex_3: -4515238109760992942
+      Duesa_tex_4: -5505599429617120844
+      Duesa_tex_5: 847414112424457104
+      Duesa_tex_6: -5358426907800970360
+      Duesa_tex_7: 721016539961921068
+      Duesa_tex_8: -7357972930411855474
+      Duesa_tex_9: -146365492116830705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

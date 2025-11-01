@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: b96b971bddf4048ae838be6b00d5ae20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1776458006596421329
+    second: ClockworkSkull_tex_0
+  - first:
+      213: 4173079732419180510
+    second: ClockworkSkull_tex_1
+  - first:
+      213: -7186385022517190937
+    second: ClockworkSkull_tex_2
+  - first:
+      213: -8405982657435099963
+    second: ClockworkSkull_tex_3
+  - first:
+      213: 7065437397796785440
+    second: ClockworkSkull_tex_4
+  - first:
+      213: -3767849962688287435
+    second: ClockworkSkull_tex_5
+  - first:
+      213: -6302494922388884161
+    second: ClockworkSkull_tex_6
+  - first:
+      213: -6932220970913006945
+    second: ClockworkSkull_tex_7
+  - first:
+      213: 7153885983185699533
+    second: ClockworkSkull_tex_8
+  - first:
+      213: -1804014312075613908
+    second: ClockworkSkull_tex_9
+  - first:
+      213: -5515744199638217469
+    second: ClockworkSkull_tex_10
+  - first:
+      213: -6379946595005630375
+    second: ClockworkSkull_tex_11
+  - first:
+      213: -4000619700574875977
+    second: ClockworkSkull_tex_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 406
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29fb66ead0c857e0800000000000000
+      internalID: -1776458006596421329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 939
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed73a3e18e1c9e930800000000000000
+      internalID: 4173079732419180510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 995
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eedca9a5e4d44c90800000000000000
+      internalID: -7186385022517190937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 914
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc9c735f43f75b80800000000000000
+      internalID: -8405982657435099963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 864
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d007601e97d0260800000000000000
+      internalID: 7065437397796785440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 781
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53deefefb68e5bbc0800000000000000
+      internalID: -3767849962688287435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 745
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35be48924a0988a0800000000000000
+      internalID: -6302494922388884161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 704
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a773461cdcbcf90800000000000000
+      internalID: -6932220970913006945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 692
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc20e671665b74360800000000000000
+      internalID: 7153885983185699533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 522
+        width: 279
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29230f8a8ad6f6e0800000000000000
+      internalID: -1804014312075613908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 497
+        width: 149
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d84a4cfd32473b0800000000000000
+      internalID: -5515744199638217469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 129
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958f9becf50e577a0800000000000000
+      internalID: -6379946595005630375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkSkull_tex_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 474
+        width: 381
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be0ec91491fa78c0800000000000000
+      internalID: -4000619700574875977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClockworkSkull_tex_0: -1776458006596421329
+      ClockworkSkull_tex_1: 4173079732419180510
+      ClockworkSkull_tex_10: -5515744199638217469
+      ClockworkSkull_tex_11: -6379946595005630375
+      ClockworkSkull_tex_12: -4000619700574875977
+      ClockworkSkull_tex_2: -7186385022517190937
+      ClockworkSkull_tex_3: -8405982657435099963
+      ClockworkSkull_tex_4: 7065437397796785440
+      ClockworkSkull_tex_5: -3767849962688287435
+      ClockworkSkull_tex_6: -6302494922388884161
+      ClockworkSkull_tex_7: -6932220970913006945
+      ClockworkSkull_tex_8: 7153885983185699533
+      ClockworkSkull_tex_9: -1804014312075613908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

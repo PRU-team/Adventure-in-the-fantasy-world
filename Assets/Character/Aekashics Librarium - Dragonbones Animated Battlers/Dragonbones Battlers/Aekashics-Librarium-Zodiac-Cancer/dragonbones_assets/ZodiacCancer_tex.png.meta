@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 1047df2d3d90d4682b63682005ead49e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2890956581179201773
+    second: ZodiacCancer_tex_0
+  - first:
+      213: -4324577147471051533
+    second: ZodiacCancer_tex_1
+  - first:
+      213: 6130857476644608842
+    second: ZodiacCancer_tex_2
+  - first:
+      213: 6117832852564622275
+    second: ZodiacCancer_tex_3
+  - first:
+      213: 6939565229546211199
+    second: ZodiacCancer_tex_4
+  - first:
+      213: -5097463278771675105
+    second: ZodiacCancer_tex_5
+  - first:
+      213: 2583410626705890937
+    second: ZodiacCancer_tex_6
+  - first:
+      213: 5421825716953745979
+    second: ZodiacCancer_tex_7
+  - first:
+      213: -1798724774681485355
+    second: ZodiacCancer_tex_8
+  - first:
+      213: 1949052630769759151
+    second: ZodiacCancer_tex_9
+  - first:
+      213: 7349804414268896892
+    second: ZodiacCancer_tex_10
+  - first:
+      213: -7151618041879737585
+    second: ZodiacCancer_tex_11
+  - first:
+      213: -5055714557454354195
+    second: ZodiacCancer_tex_12
+  - first:
+      213: 2033191232041770594
+    second: ZodiacCancer_tex_13
+  - first:
+      213: -989557985401108845
+    second: ZodiacCancer_tex_14
+  - first:
+      213: -6976510265729867673
+    second: ZodiacCancer_tex_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 871
+        width: 288
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3176cbd6e4241e7d0800000000000000
+      internalID: -2890956581179201773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 955
+        width: 108
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f447393ff30cf3c0800000000000000
+      internalID: -4324577147471051533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 821
+        width: 194
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b13ff646e251550800000000000000
+      internalID: 6130857476644608842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 264
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb3454d098e6e450800000000000000
+      internalID: 6117832852564622275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 669
+        width: 177
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7701c21fc94e4060800000000000000
+      internalID: 6939565229546211199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 674
+        width: 65
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10673dc72c2249b0800000000000000
+      internalID: -5097463278771675105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 572
+        width: 120
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e16c9074e1ad320800000000000000
+      internalID: 2583410626705890937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 568
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a0b1573c13e3b40800000000000000
+      internalID: 5421825716953745979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 506
+        width: 120
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df5a64f855a907e0800000000000000
+      internalID: -1798724774681485355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 518
+        width: 97
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa372998a0d6c0b10800000000000000
+      internalID: 1949052630769759151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 213
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7678118c20cff560800000000000000
+      internalID: 7349804414268896892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 489
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bcb74284950cc90800000000000000
+      internalID: -7151618041879737585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 354
+        width: 97
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de87925756e76d9b0800000000000000
+      internalID: -5055714557454354195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 366
+        width: 97
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed94a37a8573c10800000000000000
+      internalID: 2033191232041770594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396048351426442f0800000000000000
+      internalID: -989557985401108845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZodiacCancer_tex_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 427
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7602e4f50e47e2f90800000000000000
+      internalID: -6976510265729867673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ZodiacCancer_tex_0: -2890956581179201773
+      ZodiacCancer_tex_1: -4324577147471051533
+      ZodiacCancer_tex_10: 7349804414268896892
+      ZodiacCancer_tex_11: -7151618041879737585
+      ZodiacCancer_tex_12: -5055714557454354195
+      ZodiacCancer_tex_13: 2033191232041770594
+      ZodiacCancer_tex_14: -989557985401108845
+      ZodiacCancer_tex_15: -6976510265729867673
+      ZodiacCancer_tex_2: 6130857476644608842
+      ZodiacCancer_tex_3: 6117832852564622275
+      ZodiacCancer_tex_4: 6939565229546211199
+      ZodiacCancer_tex_5: -5097463278771675105
+      ZodiacCancer_tex_6: 2583410626705890937
+      ZodiacCancer_tex_7: 5421825716953745979
+      ZodiacCancer_tex_8: -1798724774681485355
+      ZodiacCancer_tex_9: 1949052630769759151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

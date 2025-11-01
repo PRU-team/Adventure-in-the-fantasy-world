@@ -1,0 +1,4342 @@
+fileFormatVersion: 2
+guid: 9f660b222ea084807841271b6da0047b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3893082120200912200
+    second: Midas_tex_0
+  - first:
+      213: -5620440603808922015
+    second: Midas_tex_1
+  - first:
+      213: -353846545706580554
+    second: Midas_tex_2
+  - first:
+      213: 8510065997626789968
+    second: Midas_tex_3
+  - first:
+      213: 4476242399028876702
+    second: Midas_tex_4
+  - first:
+      213: 6805374204586715051
+    second: Midas_tex_5
+  - first:
+      213: -1584324605588433658
+    second: Midas_tex_6
+  - first:
+      213: -3047525801636997133
+    second: Midas_tex_7
+  - first:
+      213: 8034405862026423877
+    second: Midas_tex_8
+  - first:
+      213: 7073926236371767360
+    second: Midas_tex_9
+  - first:
+      213: -8118426612542860991
+    second: Midas_tex_10
+  - first:
+      213: 6226672651125786066
+    second: Midas_tex_11
+  - first:
+      213: 1679585501911189911
+    second: Midas_tex_12
+  - first:
+      213: -1754824023227408297
+    second: Midas_tex_13
+  - first:
+      213: 4709145704607735263
+    second: Midas_tex_14
+  - first:
+      213: -4468251441060987318
+    second: Midas_tex_15
+  - first:
+      213: -8903355790534083704
+    second: Midas_tex_16
+  - first:
+      213: 4472260431172076000
+    second: Midas_tex_17
+  - first:
+      213: 8707984465477939174
+    second: Midas_tex_18
+  - first:
+      213: -4725554075525173208
+    second: Midas_tex_19
+  - first:
+      213: 3885347614589934710
+    second: Midas_tex_20
+  - first:
+      213: 3100208592651539591
+    second: Midas_tex_21
+  - first:
+      213: -2050096065077918592
+    second: Midas_tex_22
+  - first:
+      213: -3160675063712989709
+    second: Midas_tex_23
+  - first:
+      213: -582877028236907769
+    second: Midas_tex_24
+  - first:
+      213: -3275727619134057052
+    second: Midas_tex_25
+  - first:
+      213: 1545642809066641705
+    second: Midas_tex_26
+  - first:
+      213: -1279123158888880312
+    second: Midas_tex_27
+  - first:
+      213: 2246317989005165930
+    second: Midas_tex_28
+  - first:
+      213: -1529263196151848318
+    second: Midas_tex_29
+  - first:
+      213: -4114930296329007286
+    second: Midas_tex_30
+  - first:
+      213: -1949775820200770278
+    second: Midas_tex_31
+  - first:
+      213: -402862867960537317
+    second: Midas_tex_32
+  - first:
+      213: -59586205926013183
+    second: Midas_tex_33
+  - first:
+      213: 4618088767560779484
+    second: Midas_tex_34
+  - first:
+      213: 536529116543336731
+    second: Midas_tex_35
+  - first:
+      213: -3499516607060201635
+    second: Midas_tex_36
+  - first:
+      213: -5732463344964277177
+    second: Midas_tex_37
+  - first:
+      213: -2622333414557541230
+    second: Midas_tex_38
+  - first:
+      213: -8534189211878608707
+    second: Midas_tex_39
+  - first:
+      213: 2911170555164586314
+    second: Midas_tex_40
+  - first:
+      213: -4564196298369348344
+    second: Midas_tex_41
+  - first:
+      213: -3745694387235013544
+    second: Midas_tex_42
+  - first:
+      213: 307271237031464890
+    second: Midas_tex_43
+  - first:
+      213: -3203745683505430291
+    second: Midas_tex_44
+  - first:
+      213: 8122178388453912077
+    second: Midas_tex_45
+  - first:
+      213: 8804163531651566428
+    second: Midas_tex_46
+  - first:
+      213: 7945491396065763311
+    second: Midas_tex_47
+  - first:
+      213: 1686859975284083345
+    second: Midas_tex_48
+  - first:
+      213: 3941317248204466920
+    second: Midas_tex_49
+  - first:
+      213: -8860330620829346686
+    second: Midas_tex_50
+  - first:
+      213: -4324303455856835210
+    second: Midas_tex_51
+  - first:
+      213: 7433290749130024866
+    second: Midas_tex_52
+  - first:
+      213: 7162263519970006092
+    second: Midas_tex_53
+  - first:
+      213: 159732897512423270
+    second: Midas_tex_54
+  - first:
+      213: -5569183960407047141
+    second: Midas_tex_55
+  - first:
+      213: -4357426920243860499
+    second: Midas_tex_56
+  - first:
+      213: -1717779089143601065
+    second: Midas_tex_57
+  - first:
+      213: -7749078772279486098
+    second: Midas_tex_58
+  - first:
+      213: -6994911870332332490
+    second: Midas_tex_59
+  - first:
+      213: 5162158564895972690
+    second: Midas_tex_60
+  - first:
+      213: -3283663373717486018
+    second: Midas_tex_61
+  - first:
+      213: -9177347416901638855
+    second: Midas_tex_62
+  - first:
+      213: -1776082343486032716
+    second: Midas_tex_63
+  - first:
+      213: -7077650288176594951
+    second: Midas_tex_64
+  - first:
+      213: 8606101566142059307
+    second: Midas_tex_65
+  - first:
+      213: -5546593857307741505
+    second: Midas_tex_66
+  - first:
+      213: -44527479073372481
+    second: Midas_tex_67
+  - first:
+      213: -3224710575627873999
+    second: Midas_tex_68
+  - first:
+      213: 2086266375481523109
+    second: Midas_tex_69
+  - first:
+      213: 9085485637110020065
+    second: Midas_tex_70
+  - first:
+      213: -5116174577863186854
+    second: Midas_tex_71
+  - first:
+      213: 8237193627607150641
+    second: Midas_tex_72
+  - first:
+      213: -7711784944623551421
+    second: Midas_tex_73
+  - first:
+      213: 2887537442534426236
+    second: Midas_tex_74
+  - first:
+      213: -1602038934978162623
+    second: Midas_tex_75
+  - first:
+      213: -916977418877380434
+    second: Midas_tex_76
+  - first:
+      213: -5617909890555794466
+    second: Midas_tex_77
+  - first:
+      213: -5410892377982081455
+    second: Midas_tex_78
+  - first:
+      213: -4508291461513625037
+    second: Midas_tex_79
+  - first:
+      213: -5268819863341918806
+    second: Midas_tex_80
+  - first:
+      213: 3878107216261216017
+    second: Midas_tex_81
+  - first:
+      213: -1474812258837506832
+    second: Midas_tex_82
+  - first:
+      213: 5609499207555798214
+    second: Midas_tex_83
+  - first:
+      213: -4788824543112042083
+    second: Midas_tex_84
+  - first:
+      213: -4556872465664995518
+    second: Midas_tex_85
+  - first:
+      213: 7875985195332541097
+    second: Midas_tex_86
+  - first:
+      213: 9207262903537199072
+    second: Midas_tex_87
+  - first:
+      213: 7105551299309162721
+    second: Midas_tex_88
+  - first:
+      213: -1351011263914709695
+    second: Midas_tex_89
+  - first:
+      213: -2749770268995947154
+    second: Midas_tex_90
+  - first:
+      213: -5396018094799994478
+    second: Midas_tex_91
+  - first:
+      213: -5569516481332498539
+    second: Midas_tex_92
+  - first:
+      213: -500145861058295812
+    second: Midas_tex_93
+  - first:
+      213: -3711320967388360656
+    second: Midas_tex_94
+  - first:
+      213: 3721592434992657505
+    second: Midas_tex_95
+  - first:
+      213: -2324409183876630850
+    second: Midas_tex_96
+  - first:
+      213: 8230644756857956618
+    second: Midas_tex_97
+  - first:
+      213: 7059128896787701157
+    second: Midas_tex_98
+  - first:
+      213: -1981655200092233728
+    second: Midas_tex_99
+  - first:
+      213: -8954087508008737710
+    second: Midas_tex_100
+  - first:
+      213: 5045927653992696975
+    second: Midas_tex_101
+  - first:
+      213: 1977367954216680149
+    second: Midas_tex_102
+  - first:
+      213: 4132912333429198630
+    second: Midas_tex_103
+  - first:
+      213: 3873855610676543936
+    second: Midas_tex_104
+  - first:
+      213: 5968180598886989432
+    second: Midas_tex_105
+  - first:
+      213: -7778243519362748829
+    second: Midas_tex_106
+  - first:
+      213: -5307859792492151709
+    second: Midas_tex_107
+  - first:
+      213: 1948837984374428360
+    second: Midas_tex_108
+  - first:
+      213: -1960931425960517187
+    second: Midas_tex_109
+  - first:
+      213: -732169199441547096
+    second: Midas_tex_110
+  - first:
+      213: -1825503434911247110
+    second: Midas_tex_111
+  - first:
+      213: -7603643837553366308
+    second: Midas_tex_112
+  - first:
+      213: -654387639995846549
+    second: Midas_tex_113
+  - first:
+      213: 702562072804091220
+    second: Midas_tex_114
+  - first:
+      213: 7058765899682400800
+    second: Midas_tex_115
+  - first:
+      213: -7174982756155685602
+    second: Midas_tex_116
+  - first:
+      213: -967200309735348470
+    second: Midas_tex_117
+  - first:
+      213: 796919806867107194
+    second: Midas_tex_118
+  - first:
+      213: -7930899115516754442
+    second: Midas_tex_119
+  - first:
+      213: -8180834139125719224
+    second: Midas_tex_120
+  - first:
+      213: 4831478655935019737
+    second: Midas_tex_121
+  - first:
+      213: 4927205362515310622
+    second: Midas_tex_122
+  - first:
+      213: 1263578007804999253
+    second: Midas_tex_123
+  - first:
+      213: 6985038007414779571
+    second: Midas_tex_124
+  - first:
+      213: 8941267650286547891
+    second: Midas_tex_125
+  - first:
+      213: -133061760269269149
+    second: Midas_tex_126
+  - first:
+      213: -3955842984785655579
+    second: Midas_tex_127
+  - first:
+      213: 2694677518747467847
+    second: Midas_tex_128
+  - first:
+      213: 1213437541387777090
+    second: Midas_tex_129
+  - first:
+      213: 3815136078606027962
+    second: Midas_tex_130
+  - first:
+      213: -1186739302839170503
+    second: Midas_tex_131
+  - first:
+      213: -5791490029819899865
+    second: Midas_tex_132
+  - first:
+      213: 551689025174429544
+    second: Midas_tex_133
+  - first:
+      213: 8163990395661055987
+    second: Midas_tex_134
+  - first:
+      213: -4921811709295967807
+    second: Midas_tex_135
+  - first:
+      213: -8878624872069708807
+    second: Midas_tex_136
+  - first:
+      213: 7433702687706711650
+    second: Midas_tex_137
+  - first:
+      213: -2390398682440773929
+    second: Midas_tex_138
+  - first:
+      213: 8146030830655553034
+    second: Midas_tex_139
+  - first:
+      213: 7379207667453552727
+    second: Midas_tex_140
+  - first:
+      213: 8345880483907282035
+    second: Midas_tex_141
+  - first:
+      213: -4794742968395179603
+    second: Midas_tex_142
+  - first:
+      213: -3468873509214281036
+    second: Midas_tex_143
+  - first:
+      213: -7716246271516796037
+    second: Midas_tex_144
+  - first:
+      213: -4728721770956791175
+    second: Midas_tex_145
+  - first:
+      213: 8953317897539321673
+    second: Midas_tex_146
+  - first:
+      213: -3812566288766150046
+    second: Midas_tex_147
+  - first:
+      213: 7755232437909888825
+    second: Midas_tex_148
+  - first:
+      213: -459976386069645473
+    second: Midas_tex_149
+  - first:
+      213: -3802460139252986694
+    second: Midas_tex_150
+  - first:
+      213: -3751882937846781778
+    second: Midas_tex_151
+  - first:
+      213: -4265667477926760419
+    second: Midas_tex_152
+  - first:
+      213: -1775630297416203817
+    second: Midas_tex_153
+  - first:
+      213: -4999489411001987859
+    second: Midas_tex_154
+  - first:
+      213: -3110842639465845189
+    second: Midas_tex_155
+  - first:
+      213: 4590274037871308612
+    second: Midas_tex_156
+  - first:
+      213: 381342959857539894
+    second: Midas_tex_157
+  - first:
+      213: -517067055084153727
+    second: Midas_tex_158
+  - first:
+      213: 3837840055305261030
+    second: Midas_tex_159
+  - first:
+      213: -500402616064650637
+    second: Midas_tex_160
+  - first:
+      213: -6794376344574650131
+    second: Midas_tex_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Midas_tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 350
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dfff7df81070630800000000000000
+      internalID: 3893082120200912200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 469
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16689c89c0f2002b0800000000000000
+      internalID: -5620440603808922015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 470
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b509220172e61bf0800000000000000
+      internalID: -353846545706580554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 482
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050dca3cfe3d91670800000000000000
+      internalID: 8510065997626789968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 452
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9598aaeebece1e30800000000000000
+      internalID: 4476242399028876702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba76ffb58cb817e50800000000000000
+      internalID: 6805374204586715051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 441
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6059df25a29530ae0800000000000000
+      internalID: -1584324605588433658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 441
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d69d0e6305b5d0800000000000000
+      internalID: -3047525801636997133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 446
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ea66b3091ff7f60800000000000000
+      internalID: 8034405862026423877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 418
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0405146ce62ab2260800000000000000
+      internalID: 7073926236371767360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 441
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1411e48520e855f80800000000000000
+      internalID: -8118426612542860991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 441
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d50efe29c5996650800000000000000
+      internalID: 6226672651125786066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 441
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799005b7d161f4710800000000000000
+      internalID: 1679585501911189911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 441
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750653c29dc95a7e0800000000000000
+      internalID: -1754824023227408297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 441
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd53b6711f3a5140800000000000000
+      internalID: 4709145704607735263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 441
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ebe68fcf49df1c0800000000000000
+      internalID: -4468251441060987318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 441
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b7c4c941de07480800000000000000
+      internalID: -8903355790534083704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 441
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e10c07ca29a01e30800000000000000
+      internalID: 4472260431172076000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 441
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efae660cb9f8d870800000000000000
+      internalID: 8707984465477939174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 424
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8203c69fa957b6eb0800000000000000
+      internalID: -4725554075525173208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 427
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c5b8ce1178be530800000000000000
+      internalID: 3885347614589934710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784db961a47260b20800000000000000
+      internalID: 3100208592651539591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 413
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084ca9d9d789c83e0800000000000000
+      internalID: -2050096065077918592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 413
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdb3f886c60324d0800000000000000
+      internalID: -3160675063712989709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 390
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b24385e6439e7f0800000000000000
+      internalID: -582877028236907769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 413
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5149006174a82d0800000000000000
+      internalID: -3275727619134057052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 414
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929dd0812f9337510800000000000000
+      internalID: 1545642809066641705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847e37a9344af3ee0800000000000000
+      internalID: -1279123158888880312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 414
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65093b3f468c2f10800000000000000
+      internalID: 2246317989005165930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2826a49b937f6cae0800000000000000
+      internalID: -1529263196151848318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 414
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f01d382b4d4e6c0800000000000000
+      internalID: -4114930296329007286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15894dc83101f4e0800000000000000
+      internalID: -1949775820200770278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 414
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f54062b5eb86af0800000000000000
+      internalID: -402862867960537317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_33
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107444259ae4c2ff0800000000000000
+      internalID: -59586205926013183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 414
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd68ea3344fb61040800000000000000
+      internalID: 4618088767560779484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11483b8362227700800000000000000
+      internalID: 536529116543336731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 414
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fa896ef283f6fc0800000000000000
+      internalID: -3499516607060201635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ce47ba5f23270b0800000000000000
+      internalID: -5732463344964277177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_38
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 414
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c19a637a99b9bd0800000000000000
+      internalID: -2622333414557541230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0310cb028709980800000000000000
+      internalID: -8534189211878608707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 414
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a417925223e866820800000000000000
+      internalID: 2911170555164586314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 387
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dca8616a7b8a0c0800000000000000
+      internalID: -4564196298369348344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_42
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 396
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cbea3ecce940cc0800000000000000
+      internalID: -3745694387235013544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 401
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf84f4ef85a34400800000000000000
+      internalID: 307271237031464890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 373
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0c7f766420a83d0800000000000000
+      internalID: -3203745683505430291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 363
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e662e0636c7b070800000000000000
+      internalID: 8122178388453912077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 386
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b4a88e51cae2a70800000000000000
+      internalID: 8804163531651566428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef1c64e35e044e60800000000000000
+      internalID: 7945491396065763311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ac1acc53ee86710800000000000000
+      internalID: 1686859975284083345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eae85eb72f52b630800000000000000
+      internalID: 3941317248204466920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28453f09e38c90580800000000000000
+      internalID: -8860330620829346686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_51
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c8a40becfcf3c0800000000000000
+      internalID: -4324303455856835210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_52
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7a7169d8a582760800000000000000
+      internalID: 7433290749130024866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441d8f59b8756360800000000000000
+      internalID: 7162263519970006092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ffb27593c773200800000000000000
+      internalID: 159732897512423270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 369
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14822fd1b846b2b0800000000000000
+      internalID: -5569183960407047141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_56
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 374
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debe32c7d4f4783c0800000000000000
+      internalID: -4357426920243860499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758600505093928e0800000000000000
+      internalID: -1717779089143601065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 336
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69d2c9b9edb57490800000000000000
+      internalID: -7749078772279486098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 342
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6369dade6b41dee90800000000000000
+      internalID: -6994911870332332490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 333
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d5dde4ddba3a740800000000000000
+      internalID: 5162158564895972690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 333
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36cb972f851e62d0800000000000000
+      internalID: -3283663373717486018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 333
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935aa33e52383a080800000000000000
+      internalID: -9177347416901638855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_63
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 333
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4fba8c4861a57e0800000000000000
+      internalID: -1776082343486032716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 333
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fffac8df8227cd90800000000000000
+      internalID: -7077650288176594951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 333
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2394def6c30f6770800000000000000
+      internalID: 8606101566142059307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_66
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 333
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2fecd164a8603b0800000000000000
+      internalID: -5546593857307741505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_67
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 334
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb686136e7ec16ff0800000000000000
+      internalID: -44527479073372481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 334
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131514411d68f33d0800000000000000
+      internalID: -3224710575627873999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_69
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 342
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abfa690738e3fc10800000000000000
+      internalID: 2086266375481523109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_70
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 320
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e73bdbcc01261e70800000000000000
+      internalID: 9085485637110020065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_71
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 347
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56a49df352bff8b0800000000000000
+      internalID: -5116174577863186854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130b2a736f3605270800000000000000
+      internalID: 8237193627607150641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf18f937c3af490800000000000000
+      internalID: -7711784944623551421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_74
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 309
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7687e15108921820800000000000000
+      internalID: 2887537442534426236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_75
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 315
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140184c931a64c9e0800000000000000
+      internalID: -1602038934978162623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_76
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 309
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea852c855ed3643f0800000000000000
+      internalID: -916977418877380434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_77
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 307
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edba44138bc2902b0800000000000000
+      internalID: -5617909890555794466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_78
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 311
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1566284ec06a8e4b0800000000000000
+      internalID: -5410892377982081455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_79
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 307
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332cd8c3dc45f61c0800000000000000
+      internalID: -4508291461513625037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_80
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 307
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa59bfbef3461e6b0800000000000000
+      internalID: -5268819863341918806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_81
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 307
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f02257fdc1d530800000000000000
+      internalID: 3878107216261216017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_82
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 307
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45991801a688be0800000000000000
+      internalID: -1474812258837506832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_83
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 308
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4d2321fc1f8dd40800000000000000
+      internalID: 5609499207555798214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_84
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 308
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d996228437daa8db0800000000000000
+      internalID: -4788824543112042083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 315
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f8745c2acb2c0c0800000000000000
+      internalID: -4556872465664995518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_86
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 293
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa18007ece1d4d60800000000000000
+      internalID: 7875985195332541097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e767fe14d4c6cf70800000000000000
+      internalID: 9207262903537199072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 282
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e053a8824dfb9260800000000000000
+      internalID: 7105551299309162721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 288
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14defc6d96e304de0800000000000000
+      internalID: -1351011263914709695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_90
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 282
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f09e528ad6d9d0800000000000000
+      internalID: -2749770268995947154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 281
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291cdd1d12e7d15b0800000000000000
+      internalID: -5396018094799994478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 285
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2e7fc44a15b2b0800000000000000
+      internalID: -5569516481332498539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_93
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 283
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf70dbf3dff1f09f0800000000000000
+      internalID: -500145861058295812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_94
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 283
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0309b5b5e3dbe7cc0800000000000000
+      internalID: -3711320967388360656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 284
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164b48e0a90c5a330800000000000000
+      internalID: 3721592434992657505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_96
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 284
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6b06a992a0ebfd0800000000000000
+      internalID: -2324409183876630850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 282
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0923fc6ccf193270800000000000000
+      internalID: 8230644756857956618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_98
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 284
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add9bca45017f160800000000000000
+      internalID: 7059128896787701157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_99
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 265
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006233481fbf74e0800000000000000
+      internalID: -1981655200092233728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_100
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 289
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254606d2ad0bcb380800000000000000
+      internalID: -8954087508008737710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_101
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 267
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c0e82877cb60640800000000000000
+      internalID: 5045927653992696975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da73558da5017b10800000000000000
+      internalID: 1977367954216680149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 255
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fc0e1cedd0b5930800000000000000
+      internalID: 4132912333429198630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 235
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c187814723b2c530800000000000000
+      internalID: 3873855610676543936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_105
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 261
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e790842ac33d250800000000000000
+      internalID: 5968180598886989432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_106
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 256
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e26e3eab02e0490800000000000000
+      internalID: -7778243519362748829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_107
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 238
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3de614a1b656b0800000000000000
+      internalID: -5307859792492151709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 261
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c21d6742d9ab0b10800000000000000
+      internalID: 1948837984374428360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_109
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db129bee14f59c4e0800000000000000
+      internalID: -1960931425960517187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_110
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 240
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0fdc70effc6d5f0800000000000000
+      internalID: -732169199441547096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_111
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 261
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af41cd14c428aa6e0800000000000000
+      internalID: -1825503434911247110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_112
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 240
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda2b00373e6a7690800000000000000
+      internalID: -7603643837553366308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 261
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6034a498e52be6f0800000000000000
+      internalID: -654387639995846549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_114
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 240
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455662e9b7000c900800000000000000
+      internalID: 702562072804091220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_115
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 261
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac533df26c5f160800000000000000
+      internalID: 7058765899682400800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 260
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1589cda2375d6c90800000000000000
+      internalID: -7174982756155685602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_117
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 241
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07a3975170d392f0800000000000000
+      internalID: -967200309735348470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_118
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 243
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d69c2975a3f0b00800000000000000
+      internalID: 796919806867107194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_119
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 243
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f50a2e2649cfe190800000000000000
+      internalID: -7930899115516754442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 228
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd503c1b6d77e80800000000000000
+      internalID: -8180834139125719224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_121
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 234
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da73e24d3cdc0340800000000000000
+      internalID: 4831478655935019737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_122
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 220
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ff18fb23f06440800000000000000
+      internalID: 4927205362515310622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 219
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556763dd081298110800000000000000
+      internalID: 1263578007804999253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_124
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 219
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6f863f07dfe060800000000000000
+      internalID: 6985038007414779571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_125
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 219
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b375091e83c51c70800000000000000
+      internalID: 8941267650286547891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_126
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 218
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36746f5b805472ef0800000000000000
+      internalID: -133061760269269149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_127
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 239
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e841a8a3c50a19c0800000000000000
+      internalID: -3955842984785655579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_128
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 220
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7408c212dea656520800000000000000
+      internalID: 2694677518747467847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_129
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 219
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244ba8bc30ff6d010800000000000000
+      internalID: 1213437541387777090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_130
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 219
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcc61fcc0612f430800000000000000
+      internalID: 3815136078606027962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ac64544ead78fe0800000000000000
+      internalID: -1186739302839170503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 213
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7205e54a08e70afa0800000000000000
+      internalID: -5791490029819899865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_133
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 212
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fd004de3ef7a700800000000000000
+      internalID: 551689025174429544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_134
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 216
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7f31b92025c4170800000000000000
+      internalID: 8163990395661055987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_135
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c14e08c35632bbb0800000000000000
+      internalID: -4921811709295967807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_136
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 199
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3465648b9c8c480800000000000000
+      internalID: -8878624872069708807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_137
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26600a28531d92760800000000000000
+      internalID: 7433702687706711650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_138
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 198
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de4e8d201993ded0800000000000000
+      internalID: -2390398682440773929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_139
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 198
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eba9681e38c0170800000000000000
+      internalID: 8146030830655553034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_140
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 197
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758686ed646386660800000000000000
+      internalID: 7379207667453552727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 199
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a82de41682d370800000000000000
+      internalID: 8345880483907282035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_142
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 198
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9d0838ca6a57db0800000000000000
+      internalID: -4794742968395179603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_143
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 198
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b225881ce51cdfc0800000000000000
+      internalID: -3468873509214281036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_144
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 198
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b1fc206e26ae490800000000000000
+      internalID: -7716246271516796037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e6786a94306eb0800000000000000
+      internalID: -4728721770956791175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7afbe033904c70800000000000000
+      internalID: 8953317897539321673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_147
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ad673092b071bc0800000000000000
+      internalID: -3812566288766150046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_148
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 172
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f943430de10ab60800000000000000
+      internalID: 7755232437909888825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_149
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 178
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f573047f9e5dd99f0800000000000000
+      internalID: -459976386069645473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 177
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc4e3f46a2fa3bc0800000000000000
+      internalID: -3802460139252986694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_151
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 176
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82bcaa852aeebc0800000000000000
+      internalID: -3751882937846781778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_152
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 178
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d103d30870e4dc4c0800000000000000
+      internalID: -4265667477926760419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d10616f6a1bb57e0800000000000000
+      internalID: -1775630297416203817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_154
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec46ee7ede3e9ab0800000000000000
+      internalID: -4999489411001987859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_155
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 149
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eef72f91114d4d0800000000000000
+      internalID: -3110842639465845189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_156
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 170
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f6409caede3bf30800000000000000
+      internalID: 4590274037871308612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_157
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 151
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b97ebc66dca4500800000000000000
+      internalID: 381342959857539894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_158
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 157
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d6a0c04203d8f0800000000000000
+      internalID: -517067055084153727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_159
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 157
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef4c31523fb24530800000000000000
+      internalID: 3837840055305261030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_160
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 136
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3725ac0d8763e09f0800000000000000
+      internalID: -500402616064650637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midas_tex_161
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 115
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de89f4776b685b1a0800000000000000
+      internalID: -6794376344574650131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Midas_tex_0: 3893082120200912200
+      Midas_tex_1: -5620440603808922015
+      Midas_tex_10: -8118426612542860991
+      Midas_tex_100: -8954087508008737710
+      Midas_tex_101: 5045927653992696975
+      Midas_tex_102: 1977367954216680149
+      Midas_tex_103: 4132912333429198630
+      Midas_tex_104: 3873855610676543936
+      Midas_tex_105: 5968180598886989432
+      Midas_tex_106: -7778243519362748829
+      Midas_tex_107: -5307859792492151709
+      Midas_tex_108: 1948837984374428360
+      Midas_tex_109: -1960931425960517187
+      Midas_tex_11: 6226672651125786066
+      Midas_tex_110: -732169199441547096
+      Midas_tex_111: -1825503434911247110
+      Midas_tex_112: -7603643837553366308
+      Midas_tex_113: -654387639995846549
+      Midas_tex_114: 702562072804091220
+      Midas_tex_115: 7058765899682400800
+      Midas_tex_116: -7174982756155685602
+      Midas_tex_117: -967200309735348470
+      Midas_tex_118: 796919806867107194
+      Midas_tex_119: -7930899115516754442
+      Midas_tex_12: 1679585501911189911
+      Midas_tex_120: -8180834139125719224
+      Midas_tex_121: 4831478655935019737
+      Midas_tex_122: 4927205362515310622
+      Midas_tex_123: 1263578007804999253
+      Midas_tex_124: 6985038007414779571
+      Midas_tex_125: 8941267650286547891
+      Midas_tex_126: -133061760269269149
+      Midas_tex_127: -3955842984785655579
+      Midas_tex_128: 2694677518747467847
+      Midas_tex_129: 1213437541387777090
+      Midas_tex_13: -1754824023227408297
+      Midas_tex_130: 3815136078606027962
+      Midas_tex_131: -1186739302839170503
+      Midas_tex_132: -5791490029819899865
+      Midas_tex_133: 551689025174429544
+      Midas_tex_134: 8163990395661055987
+      Midas_tex_135: -4921811709295967807
+      Midas_tex_136: -8878624872069708807
+      Midas_tex_137: 7433702687706711650
+      Midas_tex_138: -2390398682440773929
+      Midas_tex_139: 8146030830655553034
+      Midas_tex_14: 4709145704607735263
+      Midas_tex_140: 7379207667453552727
+      Midas_tex_141: 8345880483907282035
+      Midas_tex_142: -4794742968395179603
+      Midas_tex_143: -3468873509214281036
+      Midas_tex_144: -7716246271516796037
+      Midas_tex_145: -4728721770956791175
+      Midas_tex_146: 8953317897539321673
+      Midas_tex_147: -3812566288766150046
+      Midas_tex_148: 7755232437909888825
+      Midas_tex_149: -459976386069645473
+      Midas_tex_15: -4468251441060987318
+      Midas_tex_150: -3802460139252986694
+      Midas_tex_151: -3751882937846781778
+      Midas_tex_152: -4265667477926760419
+      Midas_tex_153: -1775630297416203817
+      Midas_tex_154: -4999489411001987859
+      Midas_tex_155: -3110842639465845189
+      Midas_tex_156: 4590274037871308612
+      Midas_tex_157: 381342959857539894
+      Midas_tex_158: -517067055084153727
+      Midas_tex_159: 3837840055305261030
+      Midas_tex_16: -8903355790534083704
+      Midas_tex_160: -500402616064650637
+      Midas_tex_161: -6794376344574650131
+      Midas_tex_17: 4472260431172076000
+      Midas_tex_18: 8707984465477939174
+      Midas_tex_19: -4725554075525173208
+      Midas_tex_2: -353846545706580554
+      Midas_tex_20: 3885347614589934710
+      Midas_tex_21: 3100208592651539591
+      Midas_tex_22: -2050096065077918592
+      Midas_tex_23: -3160675063712989709
+      Midas_tex_24: -582877028236907769
+      Midas_tex_25: -3275727619134057052
+      Midas_tex_26: 1545642809066641705
+      Midas_tex_27: -1279123158888880312
+      Midas_tex_28: 2246317989005165930
+      Midas_tex_29: -1529263196151848318
+      Midas_tex_3: 8510065997626789968
+      Midas_tex_30: -4114930296329007286
+      Midas_tex_31: -1949775820200770278
+      Midas_tex_32: -402862867960537317
+      Midas_tex_33: -59586205926013183
+      Midas_tex_34: 4618088767560779484
+      Midas_tex_35: 536529116543336731
+      Midas_tex_36: -3499516607060201635
+      Midas_tex_37: -5732463344964277177
+      Midas_tex_38: -2622333414557541230
+      Midas_tex_39: -8534189211878608707
+      Midas_tex_4: 4476242399028876702
+      Midas_tex_40: 2911170555164586314
+      Midas_tex_41: -4564196298369348344
+      Midas_tex_42: -3745694387235013544
+      Midas_tex_43: 307271237031464890
+      Midas_tex_44: -3203745683505430291
+      Midas_tex_45: 8122178388453912077
+      Midas_tex_46: 8804163531651566428
+      Midas_tex_47: 7945491396065763311
+      Midas_tex_48: 1686859975284083345
+      Midas_tex_49: 3941317248204466920
+      Midas_tex_5: 6805374204586715051
+      Midas_tex_50: -8860330620829346686
+      Midas_tex_51: -4324303455856835210
+      Midas_tex_52: 7433290749130024866
+      Midas_tex_53: 7162263519970006092
+      Midas_tex_54: 159732897512423270
+      Midas_tex_55: -5569183960407047141
+      Midas_tex_56: -4357426920243860499
+      Midas_tex_57: -1717779089143601065
+      Midas_tex_58: -7749078772279486098
+      Midas_tex_59: -6994911870332332490
+      Midas_tex_6: -1584324605588433658
+      Midas_tex_60: 5162158564895972690
+      Midas_tex_61: -3283663373717486018
+      Midas_tex_62: -9177347416901638855
+      Midas_tex_63: -1776082343486032716
+      Midas_tex_64: -7077650288176594951
+      Midas_tex_65: 8606101566142059307
+      Midas_tex_66: -5546593857307741505
+      Midas_tex_67: -44527479073372481
+      Midas_tex_68: -3224710575627873999
+      Midas_tex_69: 2086266375481523109
+      Midas_tex_7: -3047525801636997133
+      Midas_tex_70: 9085485637110020065
+      Midas_tex_71: -5116174577863186854
+      Midas_tex_72: 8237193627607150641
+      Midas_tex_73: -7711784944623551421
+      Midas_tex_74: 2887537442534426236
+      Midas_tex_75: -1602038934978162623
+      Midas_tex_76: -916977418877380434
+      Midas_tex_77: -5617909890555794466
+      Midas_tex_78: -5410892377982081455
+      Midas_tex_79: -4508291461513625037
+      Midas_tex_8: 8034405862026423877
+      Midas_tex_80: -5268819863341918806
+      Midas_tex_81: 3878107216261216017
+      Midas_tex_82: -1474812258837506832
+      Midas_tex_83: 5609499207555798214
+      Midas_tex_84: -4788824543112042083
+      Midas_tex_85: -4556872465664995518
+      Midas_tex_86: 7875985195332541097
+      Midas_tex_87: 9207262903537199072
+      Midas_tex_88: 7105551299309162721
+      Midas_tex_89: -1351011263914709695
+      Midas_tex_9: 7073926236371767360
+      Midas_tex_90: -2749770268995947154
+      Midas_tex_91: -5396018094799994478
+      Midas_tex_92: -5569516481332498539
+      Midas_tex_93: -500145861058295812
+      Midas_tex_94: -3711320967388360656
+      Midas_tex_95: 3721592434992657505
+      Midas_tex_96: -2324409183876630850
+      Midas_tex_97: 8230644756857956618
+      Midas_tex_98: 7059128896787701157
+      Midas_tex_99: -1981655200092233728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

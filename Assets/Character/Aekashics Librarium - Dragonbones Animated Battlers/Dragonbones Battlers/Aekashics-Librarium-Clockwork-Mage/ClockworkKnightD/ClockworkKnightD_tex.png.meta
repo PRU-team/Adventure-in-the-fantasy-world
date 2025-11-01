@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 0bf83bc48e3d143cda545474a8a67ff3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4683444247869608081
+    second: ClockworkKnightD_tex_0
+  - first:
+      213: 4310918980259422026
+    second: ClockworkKnightD_tex_1
+  - first:
+      213: 7077663207984942309
+    second: ClockworkKnightD_tex_2
+  - first:
+      213: 2835139982381344540
+    second: ClockworkKnightD_tex_3
+  - first:
+      213: -7031481168222786329
+    second: ClockworkKnightD_tex_4
+  - first:
+      213: 4740312709943962135
+    second: ClockworkKnightD_tex_5
+  - first:
+      213: 4136328917448210488
+    second: ClockworkKnightD_tex_6
+  - first:
+      213: 3138028725651490256
+    second: ClockworkKnightD_tex_7
+  - first:
+      213: -4857575980181395202
+    second: ClockworkKnightD_tex_8
+  - first:
+      213: 821303213349219363
+    second: ClockworkKnightD_tex_9
+  - first:
+      213: -644747217100144911
+    second: ClockworkKnightD_tex_10
+  - first:
+      213: -2292822039473119268
+    second: ClockworkKnightD_tex_11
+  - first:
+      213: 5015371823298387214
+    second: ClockworkKnightD_tex_12
+  - first:
+      213: -6053791767055271509
+    second: ClockworkKnightD_tex_13
+  - first:
+      213: 3213972873815637676
+    second: ClockworkKnightD_tex_14
+  - first:
+      213: 2192227606519030033
+    second: ClockworkKnightD_tex_15
+  - first:
+      213: 8283377963608141423
+    second: ClockworkKnightD_tex_16
+  - first:
+      213: -6326486898924329155
+    second: ClockworkKnightD_tex_17
+  - first:
+      213: -6544194343732922741
+    second: ClockworkKnightD_tex_18
+  - first:
+      213: 5761541720656947493
+    second: ClockworkKnightD_tex_19
+  - first:
+      213: -6552481002072039623
+    second: ClockworkKnightD_tex_20
+  - first:
+      213: -943344050838852854
+    second: ClockworkKnightD_tex_21
+  - first:
+      213: -1647948011608756477
+    second: ClockworkKnightD_tex_22
+  - first:
+      213: -2164309130003151011
+    second: ClockworkKnightD_tex_23
+  - first:
+      213: -5081685747821381201
+    second: ClockworkKnightD_tex_24
+  - first:
+      213: -6797231045078627053
+    second: ClockworkKnightD_tex_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fa2604540110fb0800000000000000
+      internalID: -4683444247869608081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f1ad9e8f573db30800000000000000
+      internalID: 4310918980259422026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 280
+        width: 113
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec4bc74039e83260800000000000000
+      internalID: 7077663207984942309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 251
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17e852fac0785720800000000000000
+      internalID: 2835139982381344540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 253
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec6b33c1292b6e90800000000000000
+      internalID: -7031481168222786329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 252
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aaa706b49f8c140800000000000000
+      internalID: 4740312709943962135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 242
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383da63c31376930800000000000000
+      internalID: 4136328917448210488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 224
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5cd6fff748c8b20800000000000000
+      internalID: 3138028725651490256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef861dfe16c669cb0800000000000000
+      internalID: -4857575980181395202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c219ccbead56b00800000000000000
+      internalID: 821303213349219363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 107
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fef2d272d56d07f0800000000000000
+      internalID: -644747217100144911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 39
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf9404c0824e20e0800000000000000
+      internalID: -2292822039473119268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1438c91e2a9540800000000000000
+      internalID: 5015371823298387214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 41
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba97c74567c9cfba0800000000000000
+      internalID: -6053791767055271509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeb585ec435a9c20800000000000000
+      internalID: 3213972873815637676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1112f59a46b5c6e10800000000000000
+      internalID: 2192227606519030033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 38
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e6925ee5874f270800000000000000
+      internalID: 8283377963608141423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37e3714fadc338a0800000000000000
+      internalID: -6326486898924329155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86bda0cae95e25a0800000000000000
+      internalID: -6544194343732922741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 21
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a9524bab15ff40800000000000000
+      internalID: 5761541720656947493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 34
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f1002ce39e015a0800000000000000
+      internalID: -6552481002072039623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 28
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ba5c4759198e2f0800000000000000
+      internalID: -943344050838852854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 15
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fafbfb3005129e0800000000000000
+      internalID: -1647948011608756477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5707023054d6f1e0800000000000000
+      internalID: -2164309130003151011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9f0fc7cb93a79b0800000000000000
+      internalID: -5081685747821381201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClockworkKnightD_tex_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc4d5b0626ba1a0800000000000000
+      internalID: -6797231045078627053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClockworkKnightD_tex_0: -4683444247869608081
+      ClockworkKnightD_tex_1: 4310918980259422026
+      ClockworkKnightD_tex_10: -644747217100144911
+      ClockworkKnightD_tex_11: -2292822039473119268
+      ClockworkKnightD_tex_12: 5015371823298387214
+      ClockworkKnightD_tex_13: -6053791767055271509
+      ClockworkKnightD_tex_14: 3213972873815637676
+      ClockworkKnightD_tex_15: 2192227606519030033
+      ClockworkKnightD_tex_16: 8283377963608141423
+      ClockworkKnightD_tex_17: -6326486898924329155
+      ClockworkKnightD_tex_18: -6544194343732922741
+      ClockworkKnightD_tex_19: 5761541720656947493
+      ClockworkKnightD_tex_2: 7077663207984942309
+      ClockworkKnightD_tex_20: -6552481002072039623
+      ClockworkKnightD_tex_21: -943344050838852854
+      ClockworkKnightD_tex_22: -1647948011608756477
+      ClockworkKnightD_tex_23: -2164309130003151011
+      ClockworkKnightD_tex_24: -5081685747821381201
+      ClockworkKnightD_tex_25: -6797231045078627053
+      ClockworkKnightD_tex_3: 2835139982381344540
+      ClockworkKnightD_tex_4: -7031481168222786329
+      ClockworkKnightD_tex_5: 4740312709943962135
+      ClockworkKnightD_tex_6: 4136328917448210488
+      ClockworkKnightD_tex_7: 3138028725651490256
+      ClockworkKnightD_tex_8: -4857575980181395202
+      ClockworkKnightD_tex_9: 821303213349219363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

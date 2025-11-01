@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 8662f14c019bc4a7d85d676e18616974
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3753881817781639457
+    second: Aphrodite_tex_0
+  - first:
+      213: -6709969906147410684
+    second: Aphrodite_tex_1
+  - first:
+      213: -2727720509279089440
+    second: Aphrodite_tex_2
+  - first:
+      213: 5475358838100251062
+    second: Aphrodite_tex_3
+  - first:
+      213: -2371059360594359740
+    second: Aphrodite_tex_4
+  - first:
+      213: -6868931914229385752
+    second: Aphrodite_tex_5
+  - first:
+      213: -6967092764877776559
+    second: Aphrodite_tex_6
+  - first:
+      213: -8588447624807838293
+    second: Aphrodite_tex_7
+  - first:
+      213: 1791365581306450355
+    second: Aphrodite_tex_8
+  - first:
+      213: -7198939442180064713
+    second: Aphrodite_tex_9
+  - first:
+      213: -1199977238540350012
+    second: Aphrodite_tex_10
+  - first:
+      213: 3015041824082860864
+    second: Aphrodite_tex_11
+  - first:
+      213: 4276177811369082003
+    second: Aphrodite_tex_12
+  - first:
+      213: -1608260601093468491
+    second: Aphrodite_tex_13
+  - first:
+      213: 4009646595630010594
+    second: Aphrodite_tex_14
+  - first:
+      213: 298881337712515684
+    second: Aphrodite_tex_15
+  - first:
+      213: -1214964480672812741
+    second: Aphrodite_tex_16
+  - first:
+      213: 1826925558917475780
+    second: Aphrodite_tex_17
+  - first:
+      213: 147686992050744165
+    second: Aphrodite_tex_18
+  - first:
+      213: 7599254472323745257
+    second: Aphrodite_tex_19
+  - first:
+      213: -7629073458017184543
+    second: Aphrodite_tex_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aphrodite_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 368
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6e35a206887ebc0800000000000000
+      internalID: -3753881817781639457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 354
+        width: 219
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40db58adbe561e2a0800000000000000
+      internalID: -6709969906147410684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 230
+        width: 46
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec4fdd16a0352ad0800000000000000
+      internalID: -2727720509279089440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 218
+        width: 28
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1d2c28ad16cfb40800000000000000
+      internalID: 5475358838100251062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 321
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a886ee21e481fd0800000000000000
+      internalID: -2371059360594359740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 169
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5730231d6aca0a0800000000000000
+      internalID: -6868931914229385752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 142
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15914482b0aef4f90800000000000000
+      internalID: -6967092764877776559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 142
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad08478364bfc880800000000000000
+      internalID: -8588447624807838293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 157
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d1a051853cd810800000000000000
+      internalID: 1791365581306450355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 157
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73afe4d08ba381c90800000000000000
+      internalID: -7198939442180064713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 138
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd8f3e2f03d85fe0800000000000000
+      internalID: -1199977238540350012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 29
+        width: 133
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b976b809497d920800000000000000
+      internalID: 3015041824082860864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 105
+        width: 251
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cbf033019085b30800000000000000
+      internalID: 4276177811369082003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 45
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be4195118f4ea9e0800000000000000
+      internalID: -1608260601093468491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 23
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0916fa55025a730800000000000000
+      internalID: 4009646595630010594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 16
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a195c3ef6d52400800000000000000
+      internalID: 298881337712515684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b7c2fd34932fe0800000000000000
+      internalID: -1214964480672812741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 51
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdab5acd1b8a5910800000000000000
+      internalID: 1826925558917475780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 6
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b612b6980bc0200800000000000000
+      internalID: 147686992050744165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c7a41ea9f57960800000000000000
+      internalID: 7599254472323745257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aphrodite_tex_20
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 16
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e456894c16102690800000000000000
+      internalID: -7629073458017184543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aphrodite_tex_0: -3753881817781639457
+      Aphrodite_tex_1: -6709969906147410684
+      Aphrodite_tex_10: -1199977238540350012
+      Aphrodite_tex_11: 3015041824082860864
+      Aphrodite_tex_12: 4276177811369082003
+      Aphrodite_tex_13: -1608260601093468491
+      Aphrodite_tex_14: 4009646595630010594
+      Aphrodite_tex_15: 298881337712515684
+      Aphrodite_tex_16: -1214964480672812741
+      Aphrodite_tex_17: 1826925558917475780
+      Aphrodite_tex_18: 147686992050744165
+      Aphrodite_tex_19: 7599254472323745257
+      Aphrodite_tex_2: -2727720509279089440
+      Aphrodite_tex_20: -7629073458017184543
+      Aphrodite_tex_3: 5475358838100251062
+      Aphrodite_tex_4: -2371059360594359740
+      Aphrodite_tex_5: -6868931914229385752
+      Aphrodite_tex_6: -6967092764877776559
+      Aphrodite_tex_7: -8588447624807838293
+      Aphrodite_tex_8: 1791365581306450355
+      Aphrodite_tex_9: -7198939442180064713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

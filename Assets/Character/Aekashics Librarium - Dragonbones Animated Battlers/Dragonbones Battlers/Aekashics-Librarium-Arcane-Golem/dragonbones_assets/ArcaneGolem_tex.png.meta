@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: ec57b3fe0cbe34d498dae2f915f61eb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5045750043723409734
+    second: ArcaneGolem_tex_0
+  - first:
+      213: -2898059815100657042
+    second: ArcaneGolem_tex_1
+  - first:
+      213: -240492738997751536
+    second: ArcaneGolem_tex_2
+  - first:
+      213: -7283969173952158611
+    second: ArcaneGolem_tex_3
+  - first:
+      213: 5576598328139439822
+    second: ArcaneGolem_tex_4
+  - first:
+      213: -4471543652679451906
+    second: ArcaneGolem_tex_5
+  - first:
+      213: 1729270603272614299
+    second: ArcaneGolem_tex_6
+  - first:
+      213: 4976220099878650718
+    second: ArcaneGolem_tex_7
+  - first:
+      213: -6392905109288662797
+    second: ArcaneGolem_tex_8
+  - first:
+      213: 3854038837940483335
+    second: ArcaneGolem_tex_9
+  - first:
+      213: 3110369894132092177
+    second: ArcaneGolem_tex_10
+  - first:
+      213: 3650007580492133259
+    second: ArcaneGolem_tex_11
+  - first:
+      213: -8072812944646380595
+    second: ArcaneGolem_tex_12
+  - first:
+      213: 408129032922211580
+    second: ArcaneGolem_tex_13
+  - first:
+      213: -4998131166156235370
+    second: ArcaneGolem_tex_14
+  - first:
+      213: -2616402258157925156
+    second: ArcaneGolem_tex_15
+  - first:
+      213: 7950697908169925176
+    second: ArcaneGolem_tex_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 620
+        width: 309
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ab856eea160640800000000000000
+      internalID: 5045750043723409734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 307
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e625717e3f508c7d0800000000000000
+      internalID: -2898059815100657042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 449
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0117af8c02999acf0800000000000000
+      internalID: -240492738997751536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 332
+        width: 213
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64afafd0a42aea90800000000000000
+      internalID: -7283969173952158611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 247
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eced9c322ae046d40800000000000000
+      internalID: 5576598328139439822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa73683db2e1f1c0800000000000000
+      internalID: -4471543652679451906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 181
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91f69c937a9ff710800000000000000
+      internalID: 1729270603272614299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 263
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e530d61d0d51f0540800000000000000
+      internalID: 4976220099878650718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 257
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8c1169ca6d747a0800000000000000
+      internalID: -6392905109288662797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 269
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705700e47eb4c7530800000000000000
+      internalID: 3854038837940483335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 259
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d00d370f04a2b20800000000000000
+      internalID: 3110369894132092177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 241
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8377be4e8e67a230800000000000000
+      internalID: 3650007580492133259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 176
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc36d20066b97ff80800000000000000
+      internalID: -8072812944646380595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 191
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf42add6137f9a500800000000000000
+      internalID: 408129032922211580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 25
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dd2748f2213aab0800000000000000
+      internalID: -4998131166156235370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 142
+        width: 450
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc87fc220ca0bbd0800000000000000
+      internalID: -2616402258157925156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArcaneGolem_tex_16
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 41
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832e8e47f9d865e60800000000000000
+      internalID: 7950697908169925176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArcaneGolem_tex_0: 5045750043723409734
+      ArcaneGolem_tex_1: -2898059815100657042
+      ArcaneGolem_tex_10: 3110369894132092177
+      ArcaneGolem_tex_11: 3650007580492133259
+      ArcaneGolem_tex_12: -8072812944646380595
+      ArcaneGolem_tex_13: 408129032922211580
+      ArcaneGolem_tex_14: -4998131166156235370
+      ArcaneGolem_tex_15: -2616402258157925156
+      ArcaneGolem_tex_16: 7950697908169925176
+      ArcaneGolem_tex_2: -240492738997751536
+      ArcaneGolem_tex_3: -7283969173952158611
+      ArcaneGolem_tex_4: 5576598328139439822
+      ArcaneGolem_tex_5: -4471543652679451906
+      ArcaneGolem_tex_6: 1729270603272614299
+      ArcaneGolem_tex_7: 4976220099878650718
+      ArcaneGolem_tex_8: -6392905109288662797
+      ArcaneGolem_tex_9: 3854038837940483335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

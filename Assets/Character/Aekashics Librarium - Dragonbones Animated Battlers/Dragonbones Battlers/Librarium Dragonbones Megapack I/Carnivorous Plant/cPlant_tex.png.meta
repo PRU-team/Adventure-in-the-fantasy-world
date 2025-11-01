@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: def2ab15e42564d5597386d73fe02d42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7429919844780590090
+    second: cPlant_tex_0
+  - first:
+      213: 6388761350513478780
+    second: cPlant_tex_1
+  - first:
+      213: 2286026044321555847
+    second: cPlant_tex_2
+  - first:
+      213: 3096925568515902866
+    second: cPlant_tex_3
+  - first:
+      213: 5025056359978154386
+    second: cPlant_tex_4
+  - first:
+      213: -3408884643209627727
+    second: cPlant_tex_5
+  - first:
+      213: 8404235128015652233
+    second: cPlant_tex_6
+  - first:
+      213: -1409610600235303185
+    second: cPlant_tex_7
+  - first:
+      213: -7240588759105829982
+    second: cPlant_tex_8
+  - first:
+      213: 5279837138839977479
+    second: cPlant_tex_9
+  - first:
+      213: 764870334081822059
+    second: cPlant_tex_10
+  - first:
+      213: 3022278101053057755
+    second: cPlant_tex_11
+  - first:
+      213: -132066913068785769
+    second: cPlant_tex_12
+  - first:
+      213: 3060376214318064343
+    second: cPlant_tex_13
+  - first:
+      213: -3712857558242350033
+    second: cPlant_tex_14
+  - first:
+      213: 4191224573822469126
+    second: cPlant_tex_15
+  - first:
+      213: 3761153434825473415
+    second: cPlant_tex_16
+  - first:
+      213: 2954820119447889644
+    second: cPlant_tex_17
+  - first:
+      213: -6031397769759508227
+    second: cPlant_tex_18
+  - first:
+      213: 4320471944367338074
+    second: cPlant_tex_19
+  - first:
+      213: -346010323685259876
+    second: cPlant_tex_20
+  - first:
+      213: -6767259703453249916
+    second: cPlant_tex_21
+  - first:
+      213: 5229592813489802088
+    second: cPlant_tex_22
+  - first:
+      213: -2592604724994986754
+    second: cPlant_tex_23
+  - first:
+      213: -2272157759288031799
+    second: cPlant_tex_24
+  - first:
+      213: -982480021467467760
+    second: cPlant_tex_25
+  - first:
+      213: 4995046098289064752
+    second: cPlant_tex_26
+  - first:
+      213: 6396939498469735451
+    second: cPlant_tex_27
+  - first:
+      213: 3018413719081773496
+    second: cPlant_tex_28
+  - first:
+      213: 5732160088072175378
+    second: cPlant_tex_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cPlant_tex_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 920
+        width: 130
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04c5c1cbb06c1760800000000000000
+      internalID: 7429919844780590090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1005
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cc914699079a850800000000000000
+      internalID: 6388761350513478780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 983
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785e31f439899bf10800000000000000
+      internalID: 2286026044321555847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 907
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d0737756d7afa20800000000000000
+      internalID: 3096925568515902866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b0d0b2269cb540800000000000000
+      internalID: 5025056359978154386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 915
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7b4316a7531b0d0800000000000000
+      internalID: -3408884643209627727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 916
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9858b364257d1a470800000000000000
+      internalID: 8404235128015652233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 830
+        width: 144
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee7955a0ae007ce0800000000000000
+      internalID: -1409610600235303185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_8
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 900
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a38fc8c2e2448b90800000000000000
+      internalID: -7240588759105829982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 536
+        width: 222
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb87c67efb54940800000000000000
+      internalID: 5279837138839977479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 739
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6e22348d5d9a00800000000000000
+      internalID: 764870334081822059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 630
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa5b19be941f920800000000000000
+      internalID: 3022278101053057755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 527
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fd3ff97ddca2ef0800000000000000
+      internalID: -132066913068785769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 78
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2ab7dc3f3a87a20800000000000000
+      internalID: 3060376214318064343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 505
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c275be8b7497cc0800000000000000
+      internalID: -3712857558242350033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 429
+        width: 112
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60483983b883a2a30800000000000000
+      internalID: 4191224573822469126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 309
+        width: 136
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d338c1f1d423430800000000000000
+      internalID: 3761153434825473415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 441
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66eda4e31a10920800000000000000
+      internalID: 2954820119447889644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 477
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8b6622fab2c4ca0800000000000000
+      internalID: -6031397769759508227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 461
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a527e02b75665fb30800000000000000
+      internalID: 4320471944367338074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 286
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c954f10a179b23bf0800000000000000
+      internalID: -346010323685259876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 305
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8ad8772dd512a0800000000000000
+      internalID: -6767259703453249916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 179
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bceffc4fe339840800000000000000
+      internalID: 5229592813489802088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 140
+        width: 125
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcaca32db7350cd0800000000000000
+      internalID: -2592604724994986754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 172
+        width: 124
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c54dfb6e8ca770e0800000000000000
+      internalID: -2272157759288031799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 67
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010738930a78d52f0800000000000000
+      internalID: -982480021467467760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 84
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b783526f7f15540800000000000000
+      internalID: 4995046098289064752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 145
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c34f7d49e76c850800000000000000
+      internalID: 6396939498469735451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 240
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9e807094f83e920800000000000000
+      internalID: 3018413719081773496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cPlant_tex_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 57
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fb635da39bc8f40800000000000000
+      internalID: 5732160088072175378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cPlant_tex_0: 7429919844780590090
+      cPlant_tex_1: 6388761350513478780
+      cPlant_tex_10: 764870334081822059
+      cPlant_tex_11: 3022278101053057755
+      cPlant_tex_12: -132066913068785769
+      cPlant_tex_13: 3060376214318064343
+      cPlant_tex_14: -3712857558242350033
+      cPlant_tex_15: 4191224573822469126
+      cPlant_tex_16: 3761153434825473415
+      cPlant_tex_17: 2954820119447889644
+      cPlant_tex_18: -6031397769759508227
+      cPlant_tex_19: 4320471944367338074
+      cPlant_tex_2: 2286026044321555847
+      cPlant_tex_20: -346010323685259876
+      cPlant_tex_21: -6767259703453249916
+      cPlant_tex_22: 5229592813489802088
+      cPlant_tex_23: -2592604724994986754
+      cPlant_tex_24: -2272157759288031799
+      cPlant_tex_25: -982480021467467760
+      cPlant_tex_26: 4995046098289064752
+      cPlant_tex_27: 6396939498469735451
+      cPlant_tex_28: 3018413719081773496
+      cPlant_tex_29: 5732160088072175378
+      cPlant_tex_3: 3096925568515902866
+      cPlant_tex_4: 5025056359978154386
+      cPlant_tex_5: -3408884643209627727
+      cPlant_tex_6: 8404235128015652233
+      cPlant_tex_7: -1409610600235303185
+      cPlant_tex_8: -7240588759105829982
+      cPlant_tex_9: 5279837138839977479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

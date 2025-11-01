@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: f08e3b5c9b5d741d680a2eedae98e270
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6311191352307890046
+    second: Rafflesia_tex_0
+  - first:
+      213: 4566102787604509904
+    second: Rafflesia_tex_1
+  - first:
+      213: -4786577966584246282
+    second: Rafflesia_tex_2
+  - first:
+      213: -7058067106042201177
+    second: Rafflesia_tex_3
+  - first:
+      213: 7533799760139058661
+    second: Rafflesia_tex_4
+  - first:
+      213: -3887116294124945548
+    second: Rafflesia_tex_5
+  - first:
+      213: -9100423197442944931
+    second: Rafflesia_tex_6
+  - first:
+      213: 6189479492806386060
+    second: Rafflesia_tex_7
+  - first:
+      213: 7677534128432169366
+    second: Rafflesia_tex_8
+  - first:
+      213: -5260348965468421625
+    second: Rafflesia_tex_9
+  - first:
+      213: -8321266578186138787
+    second: Rafflesia_tex_10
+  - first:
+      213: -8140402083501031495
+    second: Rafflesia_tex_11
+  - first:
+      213: 5439418640382907436
+    second: Rafflesia_tex_12
+  - first:
+      213: -5318500400116290380
+    second: Rafflesia_tex_13
+  - first:
+      213: -5156630029052359621
+    second: Rafflesia_tex_14
+  - first:
+      213: 7639610731039799718
+    second: Rafflesia_tex_15
+  - first:
+      213: 1781319466301043365
+    second: Rafflesia_tex_16
+  - first:
+      213: 3521992742717719982
+    second: Rafflesia_tex_17
+  - first:
+      213: -959364126441003572
+    second: Rafflesia_tex_18
+  - first:
+      213: -6818176315885054457
+    second: Rafflesia_tex_19
+  - first:
+      213: 2908375279957154923
+    second: Rafflesia_tex_20
+  - first:
+      213: -1575939384628391384
+    second: Rafflesia_tex_21
+  - first:
+      213: -1391614471708260519
+    second: Rafflesia_tex_22
+  - first:
+      213: -845429127672391383
+    second: Rafflesia_tex_23
+  - first:
+      213: -854586913270414788
+    second: Rafflesia_tex_24
+  - first:
+      213: -1885455629339005724
+    second: Rafflesia_tex_25
+  - first:
+      213: -5660556843509075753
+    second: Rafflesia_tex_26
+  - first:
+      213: -4602227509363715394
+    second: Rafflesia_tex_27
+  - first:
+      213: -8788431607790251700
+    second: Rafflesia_tex_28
+  - first:
+      213: -7534326151196474077
+    second: Rafflesia_tex_29
+  - first:
+      213: -966954938737812946
+    second: Rafflesia_tex_30
+  - first:
+      213: -1347611551122973915
+    second: Rafflesia_tex_31
+  - first:
+      213: 5422151427411077330
+    second: Rafflesia_tex_32
+  - first:
+      213: 327807531834882284
+    second: Rafflesia_tex_33
+  - first:
+      213: -7317900923907105868
+    second: Rafflesia_tex_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rafflesia_tex_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 644
+        width: 370
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7734d7c81bd59750800000000000000
+      internalID: 6311191352307890046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 776
+        width: 314
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d476170b4e0e5f30800000000000000
+      internalID: 4566102787604509904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 794
+        width: 325
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffc80423b8a29db0800000000000000
+      internalID: -4786577966584246282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 673
+        width: 227
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab3c7fbc55bc0e90800000000000000
+      internalID: -7058067106042201177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_4
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 701
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edf20057fe6d8860800000000000000
+      internalID: 7533799760139058661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_5
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 568
+        width: 39
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fbc0843503e0ac0800000000000000
+      internalID: -3887116294124945548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 584
+        width: 317
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5050ba615dc4b180800000000000000
+      internalID: -9100423197442944931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 498
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c812a413ec275e550800000000000000
+      internalID: 6189479492806386060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 532
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691432ccc941c8a60800000000000000
+      internalID: 7677534128432169366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 431
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70249a68c7c7ff6b0800000000000000
+      internalID: -5260348965468421625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 509
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b82e5922ce48c80800000000000000
+      internalID: -8321266578186138787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_11
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 431
+        width: 313
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf321c4f6b770f80800000000000000
+      internalID: -8140402083501031495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_12
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 270
+        width: 246
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2459a42f62bc7b40800000000000000
+      internalID: 5439418640382907436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_13
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 307
+        width: 155
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcab419014e036b0800000000000000
+      internalID: -5318500400116290380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 255
+        width: 96
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cc8304f48ff68b0800000000000000
+      internalID: -5156630029052359621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 224
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9b3e5cb79550a60800000000000000
+      internalID: 7639610731039799718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 135
+        width: 205
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2bc54ed9488b810800000000000000
+      internalID: 1781319466301043365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 123
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5813b3db1a0e030800000000000000
+      internalID: 3521992742717719982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_18
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 190
+        width: 322
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc52b31f867afa2f0800000000000000
+      internalID: -959364126441003572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_19
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 132
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70690b3d3c8f061a0800000000000000
+      internalID: -6818176315885054457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 123
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c9f5b68ef9c5820800000000000000
+      internalID: 2908375279957154923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 68
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8225da7ba73212ae0800000000000000
+      internalID: -1575939384628391384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_22
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 189
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9574985d20efface0800000000000000
+      internalID: -1391614471708260519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_23
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 166
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929915a00be6444f0800000000000000
+      internalID: -845429127672391383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 127
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c1dceab5e324f0800000000000000
+      internalID: -854586913270414788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_25
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 108
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecec7d381485d5e0800000000000000
+      internalID: -1885455629339005724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_26
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 129
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d03cbfaa89a171b0800000000000000
+      internalID: -5660556843509075753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 656
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb258d0c67a9120c0800000000000000
+      internalID: -4602227509363715394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 34
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41d8dc0408390680800000000000000
+      internalID: -8788431607790251700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_29
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 76
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3258ff7b842b07790800000000000000
+      internalID: -7534326151196474077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_30
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 29
+        width: 86
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a19ba3b9fa492f0800000000000000
+      internalID: -966954938737812946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_31
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b1a182f625c4de0800000000000000
+      internalID: -1347611551122973915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_32
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 27
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e635def95f3b40800000000000000
+      internalID: 5422151427411077330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_33
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 10
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce837b1a63b9c8400800000000000000
+      internalID: 327807531834882284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rafflesia_tex_34
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 9
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb9301b1e7917a90800000000000000
+      internalID: -7317900923907105868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rafflesia_tex_0: 6311191352307890046
+      Rafflesia_tex_1: 4566102787604509904
+      Rafflesia_tex_10: -8321266578186138787
+      Rafflesia_tex_11: -8140402083501031495
+      Rafflesia_tex_12: 5439418640382907436
+      Rafflesia_tex_13: -5318500400116290380
+      Rafflesia_tex_14: -5156630029052359621
+      Rafflesia_tex_15: 7639610731039799718
+      Rafflesia_tex_16: 1781319466301043365
+      Rafflesia_tex_17: 3521992742717719982
+      Rafflesia_tex_18: -959364126441003572
+      Rafflesia_tex_19: -6818176315885054457
+      Rafflesia_tex_2: -4786577966584246282
+      Rafflesia_tex_20: 2908375279957154923
+      Rafflesia_tex_21: -1575939384628391384
+      Rafflesia_tex_22: -1391614471708260519
+      Rafflesia_tex_23: -845429127672391383
+      Rafflesia_tex_24: -854586913270414788
+      Rafflesia_tex_25: -1885455629339005724
+      Rafflesia_tex_26: -5660556843509075753
+      Rafflesia_tex_27: -4602227509363715394
+      Rafflesia_tex_28: -8788431607790251700
+      Rafflesia_tex_29: -7534326151196474077
+      Rafflesia_tex_3: -7058067106042201177
+      Rafflesia_tex_30: -966954938737812946
+      Rafflesia_tex_31: -1347611551122973915
+      Rafflesia_tex_32: 5422151427411077330
+      Rafflesia_tex_33: 327807531834882284
+      Rafflesia_tex_34: -7317900923907105868
+      Rafflesia_tex_4: 7533799760139058661
+      Rafflesia_tex_5: -3887116294124945548
+      Rafflesia_tex_6: -9100423197442944931
+      Rafflesia_tex_7: 6189479492806386060
+      Rafflesia_tex_8: 7677534128432169366
+      Rafflesia_tex_9: -5260348965468421625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

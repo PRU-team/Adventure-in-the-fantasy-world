@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: fd9118286ea364c50be857d52a18548f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7617040467099259063
+    second: Dagon_tex_0
+  - first:
+      213: 2880236378131856326
+    second: Dagon_tex_1
+  - first:
+      213: -2990007290513713120
+    second: Dagon_tex_2
+  - first:
+      213: 3693218974360441639
+    second: Dagon_tex_3
+  - first:
+      213: -2178849300557443913
+    second: Dagon_tex_4
+  - first:
+      213: 5678323027347843600
+    second: Dagon_tex_5
+  - first:
+      213: 1050461536200855932
+    second: Dagon_tex_6
+  - first:
+      213: -4443243147668610101
+    second: Dagon_tex_7
+  - first:
+      213: -3061653552163687500
+    second: Dagon_tex_8
+  - first:
+      213: 5772587469045245447
+    second: Dagon_tex_9
+  - first:
+      213: 3583914799068992586
+    second: Dagon_tex_10
+  - first:
+      213: -9157986688620827982
+    second: Dagon_tex_11
+  - first:
+      213: -764743641578651871
+    second: Dagon_tex_12
+  - first:
+      213: 3619333193201535182
+    second: Dagon_tex_13
+  - first:
+      213: 907930717810433290
+    second: Dagon_tex_14
+  - first:
+      213: 3144225705604637261
+    second: Dagon_tex_15
+  - first:
+      213: -6532105136076252100
+    second: Dagon_tex_16
+  - first:
+      213: 3914134400657410643
+    second: Dagon_tex_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dagon_tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 399
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe5ce4d06da4690800000000000000
+      internalID: -7617040467099259063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 390
+        width: 190
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf4bbc9b7a8f720800000000000000
+      internalID: 2880236378131856326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 389
+        width: 187
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281a15063c5186d0800000000000000
+      internalID: -2990007290513713120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 405
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7239c74f613f04330800000000000000
+      internalID: 3693218974360441639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_4
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 402
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc4a2dea1c23c1e0800000000000000
+      internalID: -2178849300557443913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 268
+        width: 177
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a2df455b47dce40800000000000000
+      internalID: 5678323027347843600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 243
+        width: 113
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71967b933df39e00800000000000000
+      internalID: 1050461536200855932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 284
+        width: 128
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3268406ed6652c0800000000000000
+      internalID: -4443243147668610101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_8
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 285
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b378fdc052d285d0800000000000000
+      internalID: -3061653552163687500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_9
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 262
+        width: 109
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062057f7b95c1050800000000000000
+      internalID: 5772587469045245447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 162
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44d5c7758f9cb130800000000000000
+      internalID: 3583914799068992586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 187
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baeff6b0ab48e080800000000000000
+      internalID: -9157986688620827982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_12
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 189
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f3773b5b51365f0800000000000000
+      internalID: -764743641578651871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_13
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 195
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8ce88fc547a3230800000000000000
+      internalID: 3619333193201535182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_14
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 150
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d91cb6d2e999c00800000000000000
+      internalID: 907930717810433290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 107
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d426734de9882ab20800000000000000
+      internalID: 3144225705604637261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_16
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 70
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c9ba0ccfc4955a0800000000000000
+      internalID: -6532105136076252100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagon_tex_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 82
+        width: 220
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a425adf7cc15630800000000000000
+      internalID: 3914134400657410643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dagon_tex_0: -7617040467099259063
+      Dagon_tex_1: 2880236378131856326
+      Dagon_tex_10: 3583914799068992586
+      Dagon_tex_11: -9157986688620827982
+      Dagon_tex_12: -764743641578651871
+      Dagon_tex_13: 3619333193201535182
+      Dagon_tex_14: 907930717810433290
+      Dagon_tex_15: 3144225705604637261
+      Dagon_tex_16: -6532105136076252100
+      Dagon_tex_17: 3914134400657410643
+      Dagon_tex_2: -2990007290513713120
+      Dagon_tex_3: 3693218974360441639
+      Dagon_tex_4: -2178849300557443913
+      Dagon_tex_5: 5678323027347843600
+      Dagon_tex_6: 1050461536200855932
+      Dagon_tex_7: -4443243147668610101
+      Dagon_tex_8: -3061653552163687500
+      Dagon_tex_9: 5772587469045245447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

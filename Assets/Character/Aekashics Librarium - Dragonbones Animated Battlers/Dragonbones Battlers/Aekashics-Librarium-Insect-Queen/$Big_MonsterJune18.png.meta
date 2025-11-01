@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 14929a5bb6798489da60c5f17a96dc97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5304023446966560173
+    second: $Big_MonsterJune18_0
+  - first:
+      213: -3572406659086728662
+    second: $Big_MonsterJune18_1
+  - first:
+      213: -8639717244807175614
+    second: $Big_MonsterJune18_2
+  - first:
+      213: 5630617719096207441
+    second: $Big_MonsterJune18_3
+  - first:
+      213: -3534157256976159039
+    second: $Big_MonsterJune18_4
+  - first:
+      213: 7316652210032666576
+    second: $Big_MonsterJune18_5
+  - first:
+      213: 7032792005434855637
+    second: $Big_MonsterJune18_6
+  - first:
+      213: -8285038650854928645
+    second: $Big_MonsterJune18_7
+  - first:
+      213: -4074051449698923270
+    second: $Big_MonsterJune18_8
+  - first:
+      213: 690040485009753810
+    second: $Big_MonsterJune18_9
+  - first:
+      213: 541347063141597287
+    second: $Big_MonsterJune18_10
+  - first:
+      213: 131828027601244636
+    second: $Big_MonsterJune18_11
+  - first:
+      213: -6608972215362146340
+    second: $Big_MonsterJune18_12
+  - first:
+      213: 3156759015109592598
+    second: $Big_MonsterJune18_13
+  - first:
+      213: 4585840378193079862
+    second: $Big_MonsterJune18_14
+  - first:
+      213: 6145855442538591929
+    second: $Big_MonsterJune18_15
+  - first:
+      213: -2048948497337306662
+    second: $Big_MonsterJune18_16
+  - first:
+      213: 6669655028371941866
+    second: $Big_MonsterJune18_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a1733e6c25466b0800000000000000
+      internalID: -5304023446966560173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 365
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2245eb22134c6ec0800000000000000
+      internalID: -3572406659086728662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 365
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242a377e0fe891880800000000000000
+      internalID: -8639717244807175614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 291
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158efb4bbf8f32e40800000000000000
+      internalID: 5630617719096207441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 365
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce219513b624fec0800000000000000
+      internalID: -3534157256976159039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 365
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7e2147b68f98560800000000000000
+      internalID: 7316652210032666576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 290
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0d62f411f799160800000000000000
+      internalID: 7032792005434855637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 365
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe09693e31a50d80800000000000000
+      internalID: -8285038650854928645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 365
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcc700bacf0677c0800000000000000
+      internalID: -4074051449698923270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d605a54a24839900800000000000000
+      internalID: 690040485009753810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76081c62940438700800000000000000
+      internalID: 541347063141597287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1dc9484e854d100800000000000000
+      internalID: 131828027601244636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfa9e439c63844a0800000000000000
+      internalID: -6608972215362146340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6168e19599f0fcb20800000000000000
+      internalID: 3156759015109592598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e67d2f68d24af30800000000000000
+      internalID: 4585840378193079862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6f96d76f67a4550800000000000000
+      internalID: 6145855442538591929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1b32d823ca093e0800000000000000
+      internalID: -2048948497337306662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $Big_MonsterJune18_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e18439ef5f8c50800000000000000
+      internalID: 6669655028371941866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      $Big_MonsterJune18_0: -5304023446966560173
+      $Big_MonsterJune18_1: -3572406659086728662
+      $Big_MonsterJune18_10: 541347063141597287
+      $Big_MonsterJune18_11: 131828027601244636
+      $Big_MonsterJune18_12: -6608972215362146340
+      $Big_MonsterJune18_13: 3156759015109592598
+      $Big_MonsterJune18_14: 4585840378193079862
+      $Big_MonsterJune18_15: 6145855442538591929
+      $Big_MonsterJune18_16: -2048948497337306662
+      $Big_MonsterJune18_17: 6669655028371941866
+      $Big_MonsterJune18_2: -8639717244807175614
+      $Big_MonsterJune18_3: 5630617719096207441
+      $Big_MonsterJune18_4: -3534157256976159039
+      $Big_MonsterJune18_5: 7316652210032666576
+      $Big_MonsterJune18_6: 7032792005434855637
+      $Big_MonsterJune18_7: -8285038650854928645
+      $Big_MonsterJune18_8: -4074051449698923270
+      $Big_MonsterJune18_9: 690040485009753810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
