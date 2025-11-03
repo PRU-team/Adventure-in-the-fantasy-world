@@ -1,37 +1,35 @@
 using UnityEngine;
+using System.Collections;
 
+/// <summary>
+/// PlayerController tích h?p t?n công, cooldown, attack range, và trigger animation
+/// </summary>
 [RequireComponent(typeof(Rigidbody2D), typeof(Animator))]
 public class PlayerController : MonoBehaviour
 {
-    [Header("Movement")]
+    [Header("Movement Settings")]
     public float moveSpeed = 5f;
 
-    [Header("Attack")]
-    public Transform attackPoint;
-    public float attackRange = 1f;
+    [Header("Attack Settings")]
+    public float attackRange = 1.5f;
+    public float attackCooldown = 0.5f;
     public LayerMask enemyLayers;
     public int damage = 10;
-    public float attackCooldown = 0.5f;
 
-    private float lastAttackTime;
     private Rigidbody2D rb;
     private Animator anim;
     private Vector2 moveInput;
-
-    private playerResourceManager prm;
+    private float lastAttackTime;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        prm = GetComponent<playerResourceManager>();
-        if (prm == null)
-            Debug.LogError("playerResourceManager missing on Player!");
     }
 
     void Update()
     {
-        HandleMovement();
+        HandleMovementInput();
         HandleAttackInput();
     }
 
@@ -40,7 +38,7 @@ public class PlayerController : MonoBehaviour
         rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
     }
 
-    void HandleMovement()
+    void HandleMovementInput()
     {
         moveInput.x = Input.GetAxisRaw("Horizontal");
         moveInput.y = Input.GetAxisRaw("Vertical");
@@ -55,44 +53,52 @@ public class PlayerController : MonoBehaviour
 
     void HandleAttackInput()
     {
-        if (Time.time - lastAttackTime < attackCooldown) return;
-
-        if (Input.GetKeyDown(KeyCode.J))
+        // T?n công th??ng - J
+        if (Input.GetKeyDown(KeyCode.J) && CanAttack())
         {
             lastAttackTime = Time.time;
             anim.SetTrigger("Attack01");
-            DealDamage();
+        }
+
+        // T?n công ??c bi?t 1 - K
+        if (Input.GetKeyDown(KeyCode.K) && CanAttack())
+        {
+            lastAttackTime = Time.time;
+            anim.SetTrigger("Attack02");
+        }
+
+        // T?n công ??c bi?t 2 - L
+        if (Input.GetKeyDown(KeyCode.L) && CanAttack())
+        {
+            lastAttackTime = Time.time;
+            anim.SetTrigger("Attack03");
         }
     }
 
-    void DealDamage()
+
+    bool CanAttack()
     {
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
-        foreach (Collider2D enemy in hitEnemies)
+        return Time.time - lastAttackTime >= attackCooldown;
+    }
+
+    void PerformAttack()
+    {
+        // L?y t?t c? Enemy trong range
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(transform.position, attackRange, enemyLayers);
+
+        foreach (Collider2D enemyCollider in hitEnemies)
         {
-            EnemyController ec = enemy.GetComponent<EnemyController>();
-            if (ec != null)
+            Enemy enemy = enemyCollider.GetComponent<Enemy>();
+            if (enemy != null)
             {
-                ec.OnHit(damage);
+                enemy.TakeDamage(damage);
             }
         }
     }
 
     void OnDrawGizmosSelected()
     {
-        if (attackPoint != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(attackPoint.position, attackRange);
-        }
-    }
-
-    public void TakeDamage(int damageAmount)
-    {
-        if (prm != null)
-        {
-            prm.TakeDamage(damageAmount);
-            anim.SetTrigger("Hurt");
-        }
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, attackRange);
     }
 }

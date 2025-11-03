@@ -7,10 +7,8 @@ public class EnemyController : MonoBehaviour
     [Header("Detection Settings")]
     [SerializeField] private float detectionRange = 8f;
     [SerializeField] private float loseSightRange = 12f;
-
-    [Header("Movement Settings")]
+[Header("Movement Settings")]
     [SerializeField] private float moveSpeed = 2f;
-    [SerializeField] private float stoppingDistance = 1.5f;
 
     [Header("Attack Settings")]
     [SerializeField] private float attackRange = 2f;
@@ -19,7 +17,7 @@ public class EnemyController : MonoBehaviour
 
     [Header("References")]
     [SerializeField] private Transform playerTarget;
-    [SerializeField] private Animator animator; // 🔥 Thêm Animator
+    [SerializeField] private Animator animator;
 
     private Enemy enemy;
     private float lastAttackTime = -999f;
@@ -43,7 +41,6 @@ public class EnemyController : MonoBehaviour
 
         damage = enemy != null ? enemy.GetCurrentDamage() : damage;
 
-        // 🔥 Đăng ký sự kiện chết
         enemy.OnEnemyDefeated += HandleDeath;
     }
 
@@ -54,9 +51,7 @@ public class EnemyController : MonoBehaviour
         float distance = Vector3.Distance(transform.position, playerTarget.position);
 
         if (!isChasing && distance <= detectionRange)
-        {
             isChasing = true;
-        }
         else if (isChasing && distance > loseSightRange)
         {
             isChasing = false;
@@ -72,13 +67,9 @@ public class EnemyController : MonoBehaviour
     private void HandleChase(float distance)
     {
         if (distance > attackRange)
-        {
             MoveToward(playerTarget.position);
-        }
         else
-        {
             TryAttack();
-        }
     }
 
     private void ReturnToStart()
@@ -86,10 +77,9 @@ public class EnemyController : MonoBehaviour
         float distToStart = Vector3.Distance(transform.position, startPosition);
         if (distToStart > 0.1f)
             MoveToward(startPosition);
-        else
+        else if (animator != null)
             animator.SetBool("isMoving", false);
     }
-
     private void MoveToward(Vector3 targetPos)
     {
         Vector3 dir = (targetPos - transform.position).normalized;
@@ -98,7 +88,8 @@ public class EnemyController : MonoBehaviour
         if (dir.x != 0)
             transform.localScale = new Vector3(Mathf.Sign(dir.x) * Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
 
-        animator.SetBool("isMoving", true);
+        if (animator != null)
+            animator.SetBool("isMoving", true);
     }
 
     private void TryAttack()
@@ -113,16 +104,16 @@ public class EnemyController : MonoBehaviour
     {
         isAttacking = true;
 
-        // Dừng di chuyển
         if (animator != null)
             animator.SetBool("isMoving", false);
 
-        // Play animation Attack01
         if (animator != null)
             animator.SetTrigger("Attack01");
 
-        // Delay sát thương dựa trên timing animation
+        // Delay trước khi gây sát thương  
         yield return new WaitForSeconds(0.3f);
+
+        // Trừ HP player qua GameManager  
         if (GameManager.Instance != null)
             GameManager.Instance.TakeDamage(damage);
 
@@ -130,31 +121,24 @@ public class EnemyController : MonoBehaviour
         isAttacking = false;
     }
 
-    // 🔥 Gọi khi enemy bị đánh trúng
     public void OnHit(int damageTaken)
     {
         if (isDead) return;
-        animator.SetTrigger("Hurt");
+        if (animator != null) animator.SetTrigger("Hurt");
     }
 
-    // 🔥 Gọi khi enemy chết
     private void HandleDeath(Enemy e)
     {
         if (isDead) return;
-
         isDead = true;
 
-        if (animator != null)
-            animator.SetTrigger("Death");
+        if (animator != null) animator.SetTrigger("Death");
 
-        // Dừng di chuyển
         Collider2D col = GetComponent<Collider2D>();
-        if (col) col.enabled = false;
+        if (col != null) col.enabled = false;
 
-        // Tắt enemy sau delay animation
         StartCoroutine(DieAfterDelay());
     }
-
 
     private IEnumerator DieAfterDelay()
     {
@@ -175,5 +159,6 @@ public class EnemyController : MonoBehaviour
     public void SetTarget(Transform target)
     {
         playerTarget = target;
-    }
+    }  
+
 }
