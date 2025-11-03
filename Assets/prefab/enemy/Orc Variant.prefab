@@ -17,12 +17,20 @@ PrefabInstance:
       value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4508713968721712569, guid: 85982697b2ca3424fb811b3b26f25015, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.4188
+      objectReference: {fileID: 0}
+    - target: {fileID: 4508713968721712569, guid: 85982697b2ca3424fb811b3b26f25015, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5.7248
+      objectReference: {fileID: 0}
+    - target: {fileID: 4508713968721712569, guid: 85982697b2ca3424fb811b3b26f25015, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.15
+      value: 2.1993
       objectReference: {fileID: 0}
     - target: {fileID: 4508713968721712569, guid: 85982697b2ca3424fb811b3b26f25015, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.8
+      value: -3.0798
       objectReference: {fileID: 0}
     - target: {fileID: 4508713968721712569, guid: 85982697b2ca3424fb811b3b26f25015, type: 3}
       propertyPath: m_LocalPosition.z
@@ -63,6 +71,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3710915485172792796, guid: 85982697b2ca3424fb811b3b26f25015, type: 3}
       insertIndex: -1
       addedObject: {fileID: 586224217621104869}
+    - targetCorrespondingSourceObject: {fileID: 3710915485172792796, guid: 85982697b2ca3424fb811b3b26f25015, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 658225852378328730}
   m_SourcePrefab: {fileID: 100100000, guid: 85982697b2ca3424fb811b3b26f25015, type: 3}
 --- !u!1 &6656732632759995729 stripped
 GameObject:
@@ -93,3 +104,21 @@ MonoBehaviour:
   - {fileID: 6656732632759995729}
   poolSize: 10
   difficultyScalingFactor: 0.1
+--- !u!114 &658225852378328730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6656732632759995729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e70d55bd7519d54096225ac67fcd85c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  moveSpeed: 2
+  stoppingDistance: 1.5
+  attackRange: 2
+  attackCooldown: 1.5
+  damage: 5
+  playerTarget: {fileID: 0}

@@ -3,91 +3,96 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D), typeof(Animator))]
 public class PlayerController : MonoBehaviour
 {
-    [Header("Movement Settings")]
+    [Header("Movement")]
     public float moveSpeed = 5f;
 
-    [Header("Attack Settings")]
+    [Header("Attack")]
+    public Transform attackPoint;
+    public float attackRange = 1f;
+    public LayerMask enemyLayers;
+    public int damage = 10;
     public float attackCooldown = 0.5f;
-    private float lastAttackTime;
 
+    private float lastAttackTime;
     private Rigidbody2D rb;
     private Animator anim;
     private Vector2 moveInput;
-    private Vector2 mouseDir;
+
+    private playerResourceManager prm;
 
     void Start()
     {
-       
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        prm = GetComponent<playerResourceManager>();
+        if (prm == null)
+            Debug.LogError("playerResourceManager missing on Player!");
     }
 
     void Update()
     {
-        HandleMovementInput();
-        HandleMouseDirection();
+        HandleMovement();
         HandleAttackInput();
     }
 
     void FixedUpdate()
     {
-        // Di chuy?n m??t mà v?i Rigidbody2D
         rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
     }
 
-    void HandleMovementInput()
+    void HandleMovement()
     {
-        // L?y input tr?c
         moveInput.x = Input.GetAxisRaw("Horizontal");
         moveInput.y = Input.GetAxisRaw("Vertical");
 
-        // Chu?n hóa ?? tránh ?i nhanh khi ?i chéo
         if (moveInput.sqrMagnitude > 1f)
             moveInput.Normalize();
 
-        // C?p nh?t Animator
         anim.SetFloat("MoveX", moveInput.x);
         anim.SetFloat("MoveY", moveInput.y);
-        anim.SetFloat("Speed", moveInput.sqrMagnitude); // Quan tr?ng: ?i?u khi?n Idle <-> Walk
-    }
-
-    void HandleMouseDirection()
-    {
-        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        mouseDir = (mouseWorldPos - transform.position).normalized;
-
-        // L?u h??ng cu?i cùng ?? dùng khi ??ng yên (Idle theo h??ng chu?t)
-        anim.SetFloat("LastMoveX", mouseDir.x);
-        anim.SetFloat("LastMoveY", mouseDir.y);
+        anim.SetFloat("Speed", moveInput.sqrMagnitude);
     }
 
     void HandleAttackInput()
     {
-        // T?n công th??ng - J
-        if (Input.GetKeyDown(KeyCode.J) && CanAttack())
+        if (Time.time - lastAttackTime < attackCooldown) return;
+
+        if (Input.GetKeyDown(KeyCode.J))
         {
             lastAttackTime = Time.time;
             anim.SetTrigger("Attack01");
-        }
-
-        // T?n công ??c bi?t 1 - K
-        if (Input.GetKeyDown(KeyCode.K) && CanAttack())
-        {
-            lastAttackTime = Time.time;
-            anim.SetTrigger("Attack02");
-        }
-
-        // T?n công ??c bi?t 2 - L
-        if (Input.GetKeyDown(KeyCode.L) && CanAttack())
-        {
-            lastAttackTime = Time.time;
-            anim.SetTrigger("Attack03");
+            DealDamage();
         }
     }
 
-    // Hàm ki?m tra cooldown
-    private bool CanAttack()
+    void DealDamage()
     {
-        return Time.time - lastAttackTime > attackCooldown;
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            EnemyController ec = enemy.GetComponent<EnemyController>();
+            if (ec != null)
+            {
+                ec.OnHit(damage);
+            }
+        }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        if (attackPoint != null)
+        {
+            Gizmos.color = Color.red;
+            Gizmos.DrawWireSphere(attackPoint.position, attackRange);
+        }
+    }
+
+    public void TakeDamage(int damageAmount)
+    {
+        if (prm != null)
+        {
+            prm.TakeDamage(damageAmount);
+            anim.SetTrigger("Hurt");
+        }
     }
 }
