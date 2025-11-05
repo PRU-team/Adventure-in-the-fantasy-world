@@ -1,42 +1,35 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using Mono.Data.Sqlite;
-using System.Data;
 using System;
+using UnityEngine;
 
 namespace DatabasesScripts
 {
     public class EnemyDatabaseConn
     {
-        private string dbPath;
-        private SqliteConnection conn;
+        private CharacterData characterData;
+        private Character enemyCharacter;
         private int enemyCharacterId;
 
         public EnemyDatabaseConn(string enemyName)
         {
-            // databasePath - the path to the .db file in Databases folder
-            dbPath = "URI=file:" + Application.dataPath + "/Database.db";
-            conn = new SqliteConnection(dbPath);
+            // Load character data from JSON
+            TextAsset jsonFile = Resources.Load<TextAsset>("Data/Characters");
+            characterData = JsonUtility.FromJson<CharacterData>(jsonFile.text);
             
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT characterId FROM Characters " + 
-                              "WHERE characterName = @characterName";
-            cmd.Parameters.Add(new SqliteParameter
+            // Find the enemy character by name
+            foreach (Character character in characterData.characters)
+            {
+                if (character.characterName == enemyName)
                 {
-                    ParameterName = "characterName",
-                    Value = enemyName
+                    enemyCharacter = character;
+                    enemyCharacterId = character.characterId;
+                    break;
                 }
-            );
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            enemyCharacterId = result.GetInt32(0);
-            conn.Close();
+            }
+            
+            if (enemyCharacter == null)
+            {
+                Debug.LogError("Enemy '" + enemyName + "' not found in Characters.json");
+            }
         }
 
         public int GETEnemyCharacterId()
@@ -46,153 +39,55 @@ namespace DatabasesScripts
 
         public float GETEnemyMoveSpeed()
         {
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT characterMoveSpeed FROM Characters " + 
-                              "WHERE characterId = @characterId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "characterId",
-                    Value = enemyCharacterId
-                }
-            );
-
-            var result = cmd.ExecuteReader();
-            result.Read();
-            float moveSpeed = result.GetFloat(0);
-            
-            conn.Close();
-
-            return moveSpeed;
+            if (enemyCharacter != null)
+            {
+                return enemyCharacter.characterMoveSpeed;
+            }
+            return 0f;
         }
         
         public void SetMoveSpeed(float newMoveSpeed)
         {
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "UPDATE Characters " + 
-                              "SET characterMoveSpeed = @newMoveSpeed " + 
-                              "WHERE characterId = @characterId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (enemyCharacter != null)
             {
-                ParameterName = "newMoveSpeed",
-                Value = newMoveSpeed
-            });
-            cmd.Parameters.Add(new SqliteParameter
-            {
-                ParameterName = "characterId",
-                Value = enemyCharacterId
-            });
-
-            cmd.ExecuteNonQuery();
-            
-            conn.Close();
+                enemyCharacter.characterMoveSpeed = newMoveSpeed;
+            }
         }
         
         public float GETEnemyHealth()
         {
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT characterHealth FROM Characters " + 
-                              "WHERE characterId = @characterId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "characterId",
-                    Value = enemyCharacterId
-                }
-            );
-
-            var result = cmd.ExecuteReader();
-            result.Read();
-            float health = result.GetFloat(0);
-            
-            conn.Close();
-
-            return health;
+            if (enemyCharacter != null)
+            {
+                return enemyCharacter.characterHealth;
+            }
+            return 0f;
         }
 
         public float GETEnemyAttackDamage()
         {
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT characterAttackDamage FROM Characters " + 
-                              "WHERE characterId = @characterId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "characterId",
-                    Value = enemyCharacterId
-                }
-            );
-
-            var result = cmd.ExecuteReader();
-            result.Read();
-            float attackDamage = result.GetFloat(0);
-            
-            conn.Close();
-
-            return attackDamage;
+            if (enemyCharacter != null)
+            {
+                return enemyCharacter.characterAttackDamage;
+            }
+            return 0f;
         }
         
         public float GETEnemyAttackRange()
         {
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT characterAttackRange FROM Characters " + 
-                              "WHERE characterId = @characterId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "characterId",
-                    Value = enemyCharacterId
-                }
-            );
-
-            var result = cmd.ExecuteReader();
-            result.Read();
-            float attackRange = result.GetFloat(0);
-            
-            conn.Close();
-
-            return attackRange;
+            if (enemyCharacter != null)
+            {
+                return enemyCharacter.characterAttackRange;
+            }
+            return 0f;
         }
         
         public float GETEnemyAttackCooldown()
         {
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT characterAttackCooldown FROM Characters " + 
-                              "WHERE characterId = @characterId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "characterId",
-                    Value = enemyCharacterId
-                }
-            );
-
-            var result = cmd.ExecuteReader();
-            result.Read();
-            float attackCooldown = result.GetFloat(0);
-            
-            conn.Close();
-
-            return attackCooldown;
+            if (enemyCharacter != null)
+            {
+                return enemyCharacter.characterAttackCooldown;
+            }
+            return 0f;
         }
     }
 }

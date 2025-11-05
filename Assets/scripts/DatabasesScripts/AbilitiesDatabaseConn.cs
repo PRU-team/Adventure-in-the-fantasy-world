@@ -1,69 +1,68 @@
-using Mono.Data.Sqlite;
-using System.Data;
+using System;
 using Enums;
 using UnityEngine;
 
 namespace DatabasesScripts
 {
+    [System.Serializable]
+    public class Ability
+    {
+        public int abilityId;
+        public string abilityName;
+        public string abilityTypeName;
+        public float abilityCooldown;
+        public float attackDamage;
+        public float abilityRange;
+        public float projectileSpeed;
+        public int damageReduction;
+        public float abilityDuration;
+        public float healingAmount;
+        public string abilityKeyCode;
+    }
+
+    [System.Serializable]
+    public class AbilitiesData
+    {
+        public Ability[] abilities;
+    }
+
     public class AbilitiesDatabaseConn
     {
-        
-        private string dbPath;
-        private SqliteConnection conn;
-        private int abilityId;
+        private AbilitiesData abilitiesData;
+        private Ability ability;
         private string abilityName = "";
 
         public AbilitiesDatabaseConn(string abilityName)
         {
             this.abilityName = abilityName;
-            dbPath = "URI=file:" + Application.dataPath + "/Database.db";
-            conn = new SqliteConnection(dbPath);
             
-            conn.Open();
+            // Load abilities data from JSON
+            TextAsset jsonFile = Resources.Load<TextAsset>("Data/Abilities");
+            abilitiesData = JsonUtility.FromJson<AbilitiesData>(jsonFile.text);
             
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT abilityId FROM Abilities " + 
-                              "WHERE abilityName = @abilityName";
-            cmd.Parameters.Add(new SqliteParameter
+            // Find the ability by name
+            foreach (Ability a in abilitiesData.abilities)
+            {
+                if (a.abilityName == abilityName)
                 {
-                    ParameterName = "abilityName",
-                    Value = abilityName
+                    ability = a;
+                    break;
                 }
-            );
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            abilityId = result.GetInt32(0);
+            }
             
-            conn.Close();
+            if (ability == null)
+            {
+                Debug.LogError("Ability '" + abilityName + "' not found in Abilities.json");
+            }
         }
 
         public AbilityType GETAbilityType()
         {
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT AbilityTypes.abilityTypeName FROM Abilities " +
-                              "LEFT JOIN AbilityTypes " +
-                              "ON Abilities.abilityTypeId = AbilityTypes.abilityTypeId " +
-                              "WHERE Abilities.abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            string abilityTypeName = result.GetString(0);
-
-            conn.Close();
-
-            return AbilityTypeFromString(abilityTypeName);
+                return AbilityTypeFromString(ability.abilityTypeName);
+            }
+            return AbilityType.NotFound;
         }
 
         public AbilityType AbilityTypeFromString(string abilityTypeName)
@@ -90,210 +89,74 @@ namespace DatabasesScripts
 
         public float GETAbilityCooldown()
         {
-            float cooldown = 0f;
-
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT abilityCooldown FROM Abilities " + 
-                              "WHERE abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            cooldown = result.GetFloat(0);
-            
-            conn.Close();
-
-            return cooldown;
+                return ability.abilityCooldown;
+            }
+            return 0f;
         }
         
         public float GETAbilityAttackDamage()
         {
-            float attackDamage = 0f;
-
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT attackDamage FROM Abilities " + 
-                              "WHERE abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            attackDamage = result.GetFloat(0);
-            
-            conn.Close();
-
-            return attackDamage;
+                return ability.attackDamage;
+            }
+            return 0f;
         }
 
         public float GETAbilityAttackRange()
         {
-            float attackRange = 0f;
-
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT abilityRange FROM Abilities " + 
-                              "WHERE abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            attackRange = result.GetFloat(0);
-            
-            conn.Close();
-
-            return attackRange;
+                return ability.abilityRange;
+            }
+            return 0f;
         }
         
         public float GETProjectileSpeed()
         {
-            float projectileSpeed = 0f;
-
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT projectileSpeed FROM Abilities " + 
-                              "WHERE abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            projectileSpeed = result.GetFloat(0);
-            
-            conn.Close();
-
-            return projectileSpeed;
+                return ability.projectileSpeed;
+            }
+            return 0f;
         }
         
         public int GETAbilityDamageReduction()
         {
-            int dmgReduction = 0;
-
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT damageReduction FROM Abilities " + 
-                              "WHERE abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            dmgReduction = result.GetInt32(0);
-            
-            conn.Close();
-
-            return dmgReduction;
+                return ability.damageReduction;
+            }
+            return 0;
         }
         
         public float GETAbilityDuration()
         {
-            float abilityDuration = 0f;
-
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT abilityDuration FROM Abilities " + 
-                              "WHERE abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            abilityDuration = result.GetFloat(0);
-            
-            conn.Close();
-
-            return abilityDuration;
+                return ability.abilityDuration;
+            }
+            return 0f;
         }
         
         public float GETAbilityHealingAmount()
         {
-            float healingAmount = 0f;
-
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT healingAmount FROM Abilities " + 
-                              "WHERE abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            healingAmount = result.GetFloat(0);
-            
-            conn.Close();
-
-            return healingAmount;
+                return ability.healingAmount;
+            }
+            return 0f;
         }
 
         public string GETAbilityKeyCode()
         {
-            string keyCode = "";
-            
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
-
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT abilityKeyCode FROM Abilities " + 
-                              "WHERE abilityId = @abilityId";
-            cmd.Parameters.Add(new SqliteParameter
+            if (ability != null)
             {
-                ParameterName = "abilityId",
-                Value = abilityId
-            });
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            keyCode = result.GetString(0);
-
-            conn.Close();
-
-            return keyCode;
+                return ability.abilityKeyCode;
+            }
+            return "";
         }
     }
 }

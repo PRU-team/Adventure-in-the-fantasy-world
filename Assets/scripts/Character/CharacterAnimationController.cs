@@ -14,10 +14,14 @@ namespace Character
         private float verticalSpeed = 0f;
         private bool isIdle = true;
         private Animator characterGfx;
+        private float animationSpeedMultiplier = 1f;
 
         public void Awake()
         {
             characterGfx = GetComponent<Animator>();
+            // Set default animation speed multiplier (adjust based on your game's needs)
+            animationSpeedMultiplier = 1.5f; // Increase animation speed to match faster movement
+            characterGfx.speed = animationSpeedMultiplier;
         }
 
         public string GetCurrentAnimation()

@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "characterId": 1,
+      "characterName": "PlayerCharacter",
+      "characterMoveSpeed": 30.0,
+      "characterHealth": 100.0,
+      "characterAttackDamage": 10.0,
+      "characterAttackRange": 2.0,
+      "characterAttackCooldown": 1.0
+    },
+    {
+      "characterId": 2,
+      "characterName": "Skeleton",
+      "characterMoveSpeed": 3.5,
+      "characterHealth": 30.0,
+      "characterAttackDamage": 8.0,
+      "characterAttackRange": 1.5,
+      "characterAttackCooldown": 1.5
+    },
+    {
+      "characterId": 3,
+      "characterName": "Goblin",
+      "characterMoveSpeed": 4.0,
+      "characterHealth": 25.0,
+      "characterAttackDamage": 6.0,
+      "characterAttackRange": 1.0,
+      "characterAttackCooldown": 2.0
+    },
+    {
+      "characterId": 4,
+      "characterName": "Orc",
+      "characterMoveSpeed": 3.0,
+      "characterHealth": 50.0,
+      "characterAttackDamage": 15.0,
+      "characterAttackRange": 2.0,
+      "characterAttackCooldown": 2.0
+    },
+    {
+      "characterId": 5,
+      "characterName": "Dragon",
+      "characterMoveSpeed": 4.5,
+      "characterHealth": 100.0,
+      "characterAttackDamage": 25.0,
+      "characterAttackRange": 3.0,
+      "characterAttackCooldown": 2.5
+    },
+    {
+      "characterId": 6,
+      "characterName": "Zombie",
+      "characterMoveSpeed": 2.5,
+      "characterHealth": 40.0,
+      "characterAttackDamage": 10.0,
+      "characterAttackRange": 1.5,
+      "characterAttackCooldown": 1.8
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "traps": [
+    {
+      "trapId": 1,
+      "trapName": "SpikeTrap",
+      "trapCooldown": 2.0,
+      "trapDuration": 3.0,
+      "trapDamage": 10.0,
+      "trapRange": 2.0,
+      "trapProjectileSpeed": 0.0
+    },
+    {
+      "trapId": 2,
+      "trapName": "FireTrap",
+      "trapCooldown": 3.0,
+      "trapDuration": 4.0,
+      "trapDamage": 15.0,
+      "trapRange": 3.0,
+      "trapProjectileSpeed": 0.0
+    },
+    {
+      "trapId": 3,
+      "trapName": "IceTrap",
+      "trapCooldown": 2.5,
+      "trapDuration": 5.0,
+      "trapDamage": 8.0,
+      "trapRange": 2.5,
+      "trapProjectileSpeed": 0.0
+    }
+  ]
+}

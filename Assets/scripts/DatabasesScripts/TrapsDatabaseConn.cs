@@ -1,179 +1,104 @@
-using System.Data;
-using Mono.Data.Sqlite;
 using UnityEngine;
 
 namespace DatabasesScripts
 {
+    [System.Serializable]
+    public class Trap
+    {
+        public int trapId;
+        public string trapName;
+        public float trapCooldown;
+        public float trapDuration;
+        public float trapDamage;
+        public float trapRange;
+        public float trapProjectileSpeed;
+    }
+
+    [System.Serializable]
+    public class TrapsData
+    {
+        public Trap[] traps;
+    }
+
     public class TrapsDatabaseConn
     {
-        private string dbPath;
-        private SqliteConnection conn;
-        private int trapId;
+        private TrapsData trapsData;
+        private Trap trap;
 
         public TrapsDatabaseConn(string trapName)
         {
-            dbPath = "URI=file:" + Application.dataPath + "/Database.db";
-            conn = new SqliteConnection(dbPath);
+            // Load traps data from JSON
+            TextAsset jsonFile = Resources.Load<TextAsset>("Data/Traps");
+            trapsData = JsonUtility.FromJson<TrapsData>(jsonFile.text);
             
-            conn.Open();
-            
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT trapId FROM Traps " + 
-                              "WHERE trapName = @trapName";
-            cmd.Parameters.Add(new SqliteParameter
+            // Find the trap by name
+            foreach (Trap t in trapsData.traps)
+            {
+                if (t.trapName == trapName)
                 {
-                    ParameterName = "trapName",
-                    Value = trapName
+                    trap = t;
+                    break;
                 }
-            );
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            trapId = result.GetInt32(0);
+            }
             
-            conn.Close();
+            if (trap == null)
+            {
+                Debug.LogError("Trap '" + trapName + "' not found in Traps.json");
+            }
         }
 
         public int GETTrapId()
         {
-            return trapId;
+            if (trap != null)
+            {
+                return trap.trapId;
+            }
+            return 0;
         }
 
         public float GETTrapCooldown()
         {
-            float cooldown = 0f;
-            
-            conn.Open();
-            
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT trapCooldown FROM Traps " + 
-                              "WHERE trapId = @trapId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "trapId",
-                    Value = trapId
-                }
-            );
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            cooldown = result.GetFloat(0);
-            
-            conn.Close();
-
-            return cooldown;
+            if (trap != null)
+            {
+                return trap.trapCooldown;
+            }
+            return 0f;
         }
         
         public float GETTrapDuration()
         {
-            float duration = 0f;
-            
-            conn.Open();
-            
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT trapDuration FROM Traps " + 
-                              "WHERE trapId = @trapId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "trapId",
-                    Value = trapId
-                }
-            );
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            duration = result.GetFloat(0);
-            
-            conn.Close();
-
-            return duration;
+            if (trap != null)
+            {
+                return trap.trapDuration;
+            }
+            return 0f;
         }
         
         public float GETTrapDamage()
         {
-            float damage = 0f;
-            
-            conn.Open();
-            
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT trapDamage FROM Traps " + 
-                              "WHERE trapId = @trapId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "trapId",
-                    Value = trapId
-                }
-            );
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            damage = result.GetFloat(0);
-            
-            conn.Close();
-
-            return damage;
+            if (trap != null)
+            {
+                return trap.trapDamage;
+            }
+            return 0f;
         }
         
         public float GETTrapRange()
         {
-            float range = 0f;
-            
-            conn.Open();
-            
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT trapRange FROM Traps " + 
-                              "WHERE trapId = @trapId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "trapId",
-                    Value = trapId
-                }
-            );
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            range = result.GetFloat(0);
-            
-            conn.Close();
-
-            return range;
+            if (trap != null)
+            {
+                return trap.trapRange;
+            }
+            return 0f;
         }
         
         public float GETTrapProjectileSpeed()
         {
-            float speed = 0f;
-            
-            conn.Open();
-            
-            SqliteCommand cmd = conn.CreateCommand();
-            
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT trapProjectileSpeed FROM Traps " + 
-                              "WHERE trapId = @trapId";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "trapId",
-                    Value = trapId
-                }
-            );
-
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            speed = result.GetFloat(0);
-            
-            conn.Close();
-
-            return speed;
+            if (trap != null)
+            {
+                return trap.trapProjectileSpeed;
+            }
+            return 0f;
         }
     }
 }

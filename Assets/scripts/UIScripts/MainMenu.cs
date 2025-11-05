@@ -22,7 +22,7 @@ namespace UIScripts
 
         public void Play()
         {
-            SceneManager.LoadScene("Scenes/Rooms/Forest_Entry", LoadSceneMode.Single);
+            SceneManager.LoadScene("Forest_Entry", LoadSceneMode.Single);
             
             GameObject gameStateControllerObject = GameObject.Find("GameStateController");
             GameStateController gameStateController = gameStateControllerObject.GetComponent<GameStateController>().GetInstance();
