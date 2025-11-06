@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - Object
+  - Trap
+  - Projecttile
+  - Water
   layers:
   - Default
   - TransparentFX
@@ -14,10 +18,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Objects
+  - Enemies
+  - Player
   - 
   - 
   - 
@@ -41,6 +45,39 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2495055907
+    locked: 0
+  - name: Water
+    uniqueID: 2470429683
+    locked: 0
+  - name: Objects
+    uniqueID: 2261032569
+    locked: 0
+  - name: Buildings
+    uniqueID: 1451373959
+    locked: 0
+  - name: Traps
+    uniqueID: 166773185
+    locked: 0
+  - name: Pickups
+    uniqueID: 3021294479
+    locked: 0
+  - name: NPCs
+    uniqueID: 1156872885
+    locked: 0
+  - name: Player
+    uniqueID: 3501625545
+    locked: 0
+  - name: Pillers
+    uniqueID: 1193298813
+    locked: 0
+  - name: VFX
+    uniqueID: 2628201851
+    locked: 0
+  - name: UI
+    uniqueID: 3230776499
     locked: 0
   m_RenderingLayers:
   - Default

@@ -54,7 +54,22 @@ namespace Enemy
             enemyAttackController.SetAttackRange(characterStats.GETAttackRange());
             enemyAttackController.SetBasicAttackDamage(characterStats.GETAttackDamage());
 
-            target = GameObject.Find("PlayerCharacter").GetComponent<Transform>();
+            // Try to find player by either name
+            GameObject playerObj = GameObject.Find("Player");
+            if (playerObj == null)
+            {
+                playerObj = GameObject.Find("PlayerCharacter");
+            }
+            
+            if (playerObj != null)
+            {
+                target = playerObj.GetComponent<Transform>();
+            }
+            else
+            {
+                Debug.LogError("[DeathBossController] Cannot find Player! Make sure player GameObject is named 'Player' or 'PlayerCharacter'");
+            }
+            
             seeker = GetComponent<Seeker>();
 
             deathGhost.GetComponent<EnemyController>().aggroRange = aggroRange;

@@ -19,12 +19,16 @@ namespace Combat.Enemy
             characterAnimationController.StartAttack();
         }
     
-        public void ApplyDamage()
-        {
-            GetComponentInChildren<EnemyBasicAttack>().Attack(basicAttackDamage);
-        }
+    public void ApplyDamage()
+    {
+        GetComponentInChildren<EnemyBasicAttack>().Attack(basicAttackDamage);
+    }
     
-        public void SetAttackRange(float attackRange)
+    // Alias for animation events - some animations might use this name
+    public void ApplyDamageToPlayer()
+    {
+        ApplyDamage();
+    }        public void SetAttackRange(float attackRange)
         {
             GetComponentInChildren<EnemyBasicAttack>().SetAttackRange(attackRange);
         }

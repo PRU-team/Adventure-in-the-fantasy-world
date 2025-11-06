@@ -11,7 +11,7 @@ namespace CameraScripts
 
         public void Awake()
         {
-            target = GameObject.Find("PlayerCharacter").transform;
+            target = GameObject.Find("Player").transform;
         }
 
         public void FixedUpdate()

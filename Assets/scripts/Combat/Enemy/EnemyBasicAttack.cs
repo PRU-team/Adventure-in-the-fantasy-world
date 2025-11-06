@@ -10,7 +10,17 @@ namespace Combat.Enemy
 
         void Start()
         {
-            player = GameObject.Find("PlayerCharacter");
+            // Try to find player by either name
+            player = GameObject.Find("Player");
+            if (player == null)
+            {
+                player = GameObject.Find("PlayerCharacter");
+            }
+            
+            if (player == null)
+            {
+                Debug.LogError("[EnemyBasicAttack] Cannot find Player! Make sure player GameObject is named 'Player' or 'PlayerCharacter'");
+            }
         }
 
         public void OnTriggerEnter2D(Collider2D other)

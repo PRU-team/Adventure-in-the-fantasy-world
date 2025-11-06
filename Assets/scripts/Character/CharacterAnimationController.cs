@@ -5,6 +5,9 @@ using Enemy;
 using UnityEngine;
 using Enums;
 using Player;
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 
 namespace Character
 {
@@ -14,10 +17,28 @@ namespace Character
         private float verticalSpeed = 0f;
         private bool isIdle = true;
         private Animator characterGfx;
+        private SpriteRenderer spriteRenderer;
+        
+        [Header("Sprite Flip Settings")]
+        [Tooltip("Enable automatic sprite flipping when moving left/right")]
+        public bool enableAutoFlip = true;
+        
+        [Tooltip("If true, sprite faces right by default. If false, sprite faces left by default.")]
+        public bool defaultFacingRight = true;
 
         public void Awake()
         {
             characterGfx = GetComponent<Animator>();
+            spriteRenderer = GetComponent<SpriteRenderer>();
+            
+            // If no SpriteRenderer on this object, try to find it in children
+            if (spriteRenderer == null)
+            {
+                spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+            }
+            
+            // Set animator to always update (helps with animation loops)
+            characterGfx.keepAnimatorStateOnDisable = true;
         }
 
         public void LateUpdate()
@@ -66,10 +87,32 @@ namespace Character
                     break;
             }
         
+            // Auto-flip sprite based on horizontal direction
+            if (enableAutoFlip && spriteRenderer != null)
+            {
+                FlipSprite(horizontalSpeed);
+            }
         
             characterGfx.SetFloat("HorizontalSpeed", horizontalSpeed);
             characterGfx.SetFloat("VerticalSpeed", verticalSpeed);
             characterGfx.SetBool("isIdle", isIdle);
+        }
+        
+        /// <summary>
+        /// Flips the sprite based on horizontal movement direction
+        /// </summary>
+        /// <param name="horizontalDirection">Positive = right, Negative = left, Zero = no change</param>
+        private void FlipSprite(float horizontalDirection)
+        {
+            if (horizontalDirection > 0) // Moving right
+            {
+                spriteRenderer.flipX = !defaultFacingRight;
+            }
+            else if (horizontalDirection < 0) // Moving left
+            {
+                spriteRenderer.flipX = defaultFacingRight;
+            }
+            // If horizontalDirection == 0, keep current facing direction
         }
 
         public void CharacterSwim(bool isSwimming)

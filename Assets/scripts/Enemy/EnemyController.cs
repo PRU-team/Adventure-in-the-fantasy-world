@@ -52,7 +52,22 @@ namespace Enemy
             enemyAttackController.SetAttackRange(characterStats.GETAttackRange());
             enemyAttackController.SetBasicAttackDamage(characterStats.GETAttackDamage());
 
-            target = GameObject.Find("PlayerCharacter").GetComponent<Transform>();
+            // Try to find player by either name
+            GameObject playerObj = GameObject.Find("Player");
+            if (playerObj == null)
+            {
+                playerObj = GameObject.Find("PlayerCharacter");
+            }
+            
+            if (playerObj != null)
+            {
+                target = playerObj.GetComponent<Transform>();
+            }
+            else
+            {
+                Debug.LogError("[EnemyController] Cannot find Player! Make sure player GameObject is named 'Player' or 'PlayerCharacter'");
+            }
+            
             seeker = GetComponent<Seeker>();
 
             InvokeRepeating("UpdatePath", 0f, 0.5f);
@@ -112,7 +127,24 @@ namespace Enemy
             Vector2 force;
             Direction targetDirection;
             
-            if (playerInRange || !canMove || GameObject.Find("PlayerCharacter").GetComponent<PlayerController>().GETIsSwimming())
+            // Try to find player by either name
+            GameObject playerObj = GameObject.Find("Player");
+            if (playerObj == null)
+            {
+                playerObj = GameObject.Find("PlayerCharacter");
+            }
+            
+            bool isPlayerSwimming = false;
+            if (playerObj != null)
+            {
+                var playerController = playerObj.GetComponent<PlayerController>();
+                if (playerController != null)
+                {
+                    isPlayerSwimming = playerController.GETIsSwimming();
+                }
+            }
+            
+            if (playerInRange || !canMove || isPlayerSwimming)
             {
                 force = new Vector2(0f, 0f);
                 targetDirection = Direction.Idle;
