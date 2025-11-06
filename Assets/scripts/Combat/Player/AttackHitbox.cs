@@ -41,16 +41,26 @@ namespace Combat.Player
 
         public void Attack(float attackDamage)
         {
-            for (int i = 0; i < enemies.Count; i++)
+            CircleCollider2D col = GetComponent<CircleCollider2D>();
+            col.enabled = true;
+            Invoke(nameof(DisableCollider), 0.1f); // collider active 0.1s
+
+            Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, col.radius);
+            foreach (var hit in hits)
             {
-                if (inRange[i])
+                if (hit.CompareTag("Enemy"))
                 {
-                    if(enemies[i].GetComponent<EnemyController>() != null) enemies[i].GetComponent<EnemyController>().TakeDamage(attackDamage);
-                    else enemies[i].GetComponent<DeathBossController>().TakeDamage(attackDamage);
+                    var enemyCtrl = hit.GetComponent<EnemyController>();
+                    if (enemyCtrl != null) enemyCtrl.TakeDamage(attackDamage);
+                    else hit.GetComponent<DeathBossController>()?.TakeDamage(attackDamage);
                 }
             }
         }
 
+        private void DisableCollider()
+        {
+            GetComponent<CircleCollider2D>().enabled = false;
+        }
         public void SetAttackRange(float attackRange)
         {
             GetComponent<CircleCollider2D>().radius = attackRange;

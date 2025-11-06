@@ -13,7 +13,7 @@ namespace Enemy
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.gameObject.name == "PlayerCharacter")
+            if (other.gameObject.name == "Player")
             {
                 enemyController.SetReachedEndOfPath(true);
             }
@@ -21,7 +21,7 @@ namespace Enemy
     
         private void OnTriggerExit2D(Collider2D other)
         {
-            if (other.gameObject.name == "PlayerCharacter")
+            if (other.gameObject.name == "Player")
             {
                 enemyController.SetReachedEndOfPath(false);
             }

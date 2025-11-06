@@ -56,7 +56,7 @@ namespace Enemy
             GameObject playerObj = GameObject.Find("Player");
             if (playerObj == null)
             {
-                playerObj = GameObject.Find("PlayerCharacter");
+                playerObj = GameObject.Find("Player");
             }
             
             if (playerObj != null)
@@ -131,7 +131,7 @@ namespace Enemy
             GameObject playerObj = GameObject.Find("Player");
             if (playerObj == null)
             {
-                playerObj = GameObject.Find("PlayerCharacter");
+                playerObj = GameObject.Find("Player");
             }
             
             bool isPlayerSwimming = false;

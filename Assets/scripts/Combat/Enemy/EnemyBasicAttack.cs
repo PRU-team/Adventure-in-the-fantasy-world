@@ -14,7 +14,7 @@ namespace Combat.Enemy
             player = GameObject.Find("Player");
             if (player == null)
             {
-                player = GameObject.Find("PlayerCharacter");
+                player = GameObject.Find("Player");
             }
             
             if (player == null)

@@ -58,7 +58,7 @@ namespace Enemy
             GameObject playerObj = GameObject.Find("Player");
             if (playerObj == null)
             {
-                playerObj = GameObject.Find("PlayerCharacter");
+                playerObj = GameObject.Find("Player");
             }
             
             if (playerObj != null)
@@ -140,7 +140,7 @@ namespace Enemy
 
             Vector2 force;
             
-            if (playerInRange || !canMove || GameObject.Find("PlayerCharacter").GetComponent<PlayerController>().GETIsSwimming())
+            if (playerInRange || !canMove || GameObject.Find("Player").GetComponent<PlayerController>().GETIsSwimming())
             {
                 force = new Vector2(0f, 0f);
             }

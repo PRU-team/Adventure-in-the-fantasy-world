@@ -5,9 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 0556bd9b2014fc948b0959af17de5b3b
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Forest_Entry.unity
+    guid: e1d634b03cf9bc64f9cc679a11266e8c
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Forest_1.unity
+    guid: 2a7621b214b53454793a760d011e267e
+  - enabled: 1
+    path: Assets/Scenes/Menus/DeathScreen.unity
+    guid: 8c52cd998e38cfa4cbdd6ffb52dc96f3
+  - enabled: 1
+    path: Assets/Scenes/Menus/WinnerScreen.unity
+    guid: d28ac58d4263cc843a49fbf077b13cd1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
