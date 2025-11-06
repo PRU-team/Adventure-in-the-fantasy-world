@@ -9,11 +9,20 @@ using UIScripts;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
+using UnityEngine.InputSystem;
 
 namespace Player
 {
+    [RequireComponent(typeof(PlayerInput))]
     public class PlayerController : MonoBehaviour
     {
+        // Input values
+        private Vector2 moveInput;
+        private bool attackInput;
+        private bool fireAttackInput;
+        private bool rangedAttackInput;
+        private bool defensiveInput;
+        private bool healingInput;
         private CharacterMovement characterMovement;
         private PlayerDatabaseConn DBConn;
         private CharacterStats characterStats;
@@ -120,14 +129,14 @@ namespace Player
 
         private void Move()
         {
-            float horizontalSpeed = Input.GetAxisRaw("Horizontal");
-            float verticalSpeed = Input.GetAxisRaw("Vertical");
+            float horizontalSpeed = moveInput.x;
+            float verticalSpeed = moveInput.y;
             float moveSpeed = characterStats.GETMoveSpeed();
             Vector2 force;
             Direction direction;
 
             if(canMove){
-                // Create movement vector
+                // Create movement vector  
                 Vector2 movement = new Vector2(horizontalSpeed, verticalSpeed);
                 
                 // Normalize to prevent faster diagonal movement
@@ -173,38 +182,43 @@ namespace Player
 
         private void UseAttackAbilities()
         {
-            if (Input.GetMouseButton(0) && Time.time >= m_NextAttack)
+            if (attackInput && Time.time >= m_NextAttack)
             {
                 playerAttackController.Attack();
                 m_NextAttack = Time.time + characterStats.GETAttackCooldown();
+                attackInput = false; // Reset after use
             }
-            else if(Input.GetKeyDown(StringToKeyCode(playerAttackController.GETFireAttackKeyCode())) && Time.time >= m_NextFireAttack)
+            else if(fireAttackInput && Time.time >= m_NextFireAttack)
             {
                 playerAttackController.FireAttack();
                 m_NextFireAttack = Time.time + playerAttackController.GETFireAttackCooldown();
                 fireCooldown.StartCoroutine("CooldownFill");
+                fireAttackInput = false; // Reset after use
             }
-            else if(Input.GetKeyDown(StringToKeyCode(playerAttackController.GETRangedAttackKeyCode())) && Time.time >= m_NextRangedAttack)
+            else if(rangedAttackInput && Time.time >= m_NextRangedAttack)
             {
                 playerAttackController.RangedAttack();
                 m_NextRangedAttack = Time.time + playerAttackController.GETRangedAttackCooldown();
                 rangedCooldown.StartCoroutine("CooldownFill");
+                rangedAttackInput = false; // Reset after use
             }
         }
 
         private void UseDefensiveAbilities()
         {
-            if (Input.GetKeyDown(StringToKeyCode(playerAttackController.GETDefensiveAbilityKeyCode())) && Time.time >= m_NextDefensiveAbility)
+            if (defensiveInput && Time.time >= m_NextDefensiveAbility)
             {
                 playerAttackController.DefensiveAbility();
                 m_NextDefensiveAbility = Time.time + playerAttackController.GETDefensiveAbilityCooldown();
                 defensiveCooldown.StartCoroutine("CooldownFill");
+                defensiveInput = false; // Reset after use
             }
-            else if (Input.GetKeyDown(StringToKeyCode(playerAttackController.GETHealingAbilityKeyCode())) && Time.time >= m_NextHealingAbility)
+            else if (healingInput && Time.time >= m_NextHealingAbility)
             {
                 playerAttackController.Heal();
                 m_NextHealingAbility = Time.time + playerAttackController.GETHealingAbilityCooldown();
                 healingCooldown.StartCoroutine("CooldownFill");
+                healingInput = false; // Reset after use
             }
         }
 
@@ -323,6 +337,51 @@ namespace Player
         public float getWaterHealingAmount()
         {
             return playerAttackController.GETHealingAmount();
+        }
+
+        // ===== NEW INPUT SYSTEM CALLBACKS =====
+        // These methods are called automatically by PlayerInput component
+        
+        public void OnMove(InputValue value)
+        {
+            moveInput = value.Get<Vector2>();
+        }
+
+        public void OnAttack(InputValue value)
+        {
+            if (value.isPressed)
+            {
+                attackInput = true;
+            }
+        }
+
+        // For abilities, map keyboard keys in Unity:
+        // Q -> Fire Attack, E -> Ranged Attack, R -> Defensive, T -> Healing
+        
+        // Fallback for ability keys - you need to map these in Inspector
+        private void Update()
+        {
+            // Check for ability keys (Q, E, R, T)
+            // This is fallback in case Input Actions don't have these mapped
+            if (Keyboard.current != null)
+            {
+                if (Keyboard.current.qKey.wasPressedThisFrame)
+                {
+                    fireAttackInput = true;
+                }
+                if (Keyboard.current.eKey.wasPressedThisFrame)
+                {
+                    rangedAttackInput = true;
+                }
+                if (Keyboard.current.rKey.wasPressedThisFrame)
+                {
+                    defensiveInput = true;
+                }
+                if (Keyboard.current.tKey.wasPressedThisFrame)
+                {
+                    healingInput = true;
+                }
+            }
         }
     }
 }
