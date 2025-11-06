@@ -45,6 +45,10 @@ namespace Player
 
         private GameStateController gameStateController;
         
+        // Cache for performance optimization
+        private Rigidbody2D cachedRigidbody;
+        private CharacterAnimationController cachedAnimController;
+        
         // Helper method to convert string to KeyCode
         private KeyCode StringToKeyCode(string key)
         {
@@ -79,13 +83,16 @@ namespace Player
         {
             gameStateController = GameObject.Find("GameStateController").GetComponent<GameStateController>().GetInstance();
             
+            // Cache components for better performance
+            cachedRigidbody = GetComponent<Rigidbody2D>();
+            cachedAnimController = GetComponentInChildren<CharacterAnimationController>();
+            
             // Reset center of mass to (0, 0)
-            Rigidbody2D rb = GetComponent<Rigidbody2D>();
-            rb.centerOfMass = Vector2.zero;
+            cachedRigidbody.centerOfMass = Vector2.zero;
             
             characterMovement = GetComponent<CharacterMovement>();
-            characterMovement.SetRigidBody2D(rb);
-            characterMovement.SetCharacterAnimationController(GetComponentInChildren<CharacterAnimationController>());
+            characterMovement.SetRigidBody2D(cachedRigidbody);
+            characterMovement.SetCharacterAnimationController(cachedAnimController);
             DBConn = new PlayerDatabaseConn();
             characterStats = new CharacterStats(DBConn);
             healthBar.SetMaxHealth(characterStats.GETHealth());
@@ -245,13 +252,13 @@ namespace Player
         public void FreezePosition()
         {
             canMove = false;
-            GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeAll;
+            cachedRigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
         }
 
         public void UnfreezePosition()
         {
             canMove = true;
-            GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;
+            cachedRigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
         }
 
         public void TakeDamage(float damage)

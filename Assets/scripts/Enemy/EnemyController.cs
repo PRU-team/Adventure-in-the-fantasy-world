@@ -36,6 +36,10 @@ namespace Enemy
         public AggroRange aggroRange;
         public HealthBar healthBar;
         
+        // Cache player references for performance
+        private PlayerController cachedPlayerController;
+        private GameObject cachedPlayerObject;
+        
         void Awake()
         {
             string characterName = "";
@@ -52,20 +56,16 @@ namespace Enemy
             enemyAttackController.SetAttackRange(characterStats.GETAttackRange());
             enemyAttackController.SetBasicAttackDamage(characterStats.GETAttackDamage());
 
-            // Try to find player by either name
-            GameObject playerObj = GameObject.Find("Player");
-            if (playerObj == null)
+            // Cache player reference once at startup - PERFORMANCE OPTIMIZATION
+            cachedPlayerObject = GameObject.Find("Player");
+            if (cachedPlayerObject != null)
             {
-                playerObj = GameObject.Find("Player");
-            }
-            
-            if (playerObj != null)
-            {
-                target = playerObj.GetComponent<Transform>();
+                target = cachedPlayerObject.transform;
+                cachedPlayerController = cachedPlayerObject.GetComponent<PlayerController>();
             }
             else
             {
-                Debug.LogError("[EnemyController] Cannot find Player! Make sure player GameObject is named 'Player' or 'PlayerCharacter'");
+                Debug.LogError("[EnemyController] Cannot find Player! Make sure player GameObject is named 'Player'");
             }
             
             seeker = GetComponent<Seeker>();
@@ -127,21 +127,11 @@ namespace Enemy
             Vector2 force;
             Direction targetDirection;
             
-            // Try to find player by either name
-            GameObject playerObj = GameObject.Find("Player");
-            if (playerObj == null)
-            {
-                playerObj = GameObject.Find("Player");
-            }
-            
+            // Use cached player reference - PERFORMANCE OPTIMIZATION
             bool isPlayerSwimming = false;
-            if (playerObj != null)
+            if (cachedPlayerController != null)
             {
-                var playerController = playerObj.GetComponent<PlayerController>();
-                if (playerController != null)
-                {
-                    isPlayerSwimming = playerController.GETIsSwimming();
-                }
+                isPlayerSwimming = cachedPlayerController.GETIsSwimming();
             }
             
             if (playerInRange || !canMove || isPlayerSwimming)

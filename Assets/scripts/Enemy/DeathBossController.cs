@@ -36,11 +36,16 @@ namespace Enemy
         public GameObject deathGhost;
         public Transform spawnPoint;
         
+        // Cache player references for performance
+        private PlayerController cachedPlayerController;
+        private Rigidbody2D cachedRigidbody;
+        
         void Awake()
         {
             string characterName = "";
+            cachedRigidbody = GetComponent<Rigidbody2D>();
             characterMovement = GetComponent<CharacterMovement>();
-            characterMovement.SetRigidBody2D(GetComponent<Rigidbody2D>());
+            characterMovement.SetRigidBody2D(cachedRigidbody);
             characterMovement.SetCharacterAnimationController(GetComponentInChildren<CharacterAnimationController>());
             characterName = gameObject.name;
             DBConn = new EnemyDatabaseConn(characterName);
@@ -54,20 +59,16 @@ namespace Enemy
             enemyAttackController.SetAttackRange(characterStats.GETAttackRange());
             enemyAttackController.SetBasicAttackDamage(characterStats.GETAttackDamage());
 
-            // Try to find player by either name
+            // Cache player reference once - PERFORMANCE OPTIMIZATION
             GameObject playerObj = GameObject.Find("Player");
-            if (playerObj == null)
-            {
-                playerObj = GameObject.Find("Player");
-            }
-            
             if (playerObj != null)
             {
-                target = playerObj.GetComponent<Transform>();
+                target = playerObj.transform;
+                cachedPlayerController = playerObj.GetComponent<PlayerController>();
             }
             else
             {
-                Debug.LogError("[DeathBossController] Cannot find Player! Make sure player GameObject is named 'Player' or 'PlayerCharacter'");
+                Debug.LogError("[DeathBossController] Cannot find Player! Make sure player GameObject is named 'Player'");
             }
             
             seeker = GetComponent<Seeker>();
@@ -140,7 +141,10 @@ namespace Enemy
 
             Vector2 force;
             
-            if (playerInRange || !canMove || GameObject.Find("Player").GetComponent<PlayerController>().GETIsSwimming())
+            // Use cached player reference - PERFORMANCE OPTIMIZATION
+            bool isPlayerSwimming = cachedPlayerController != null && cachedPlayerController.GETIsSwimming();
+            
+            if (playerInRange || !canMove || isPlayerSwimming)
             {
                 force = new Vector2(0f, 0f);
             }
@@ -173,13 +177,13 @@ namespace Enemy
         public void FreezePosition()
         {
             canMove = false;
-            GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeAll;
+            cachedRigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
         }
 
         public void UnfreezePosition()
         {
             canMove = true;
-            GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;
+            cachedRigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
             ResetScale();
         }
         
