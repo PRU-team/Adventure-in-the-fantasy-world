@@ -10,12 +10,14 @@ namespace Objects
         public bool isOpen;
         public string nextScene = "";
         public Animator crossFade;
+        private bool isLoading = false; // Prevent multiple coroutine calls
 
         private void Awake()
         {
             isOpen = false;
+            isLoading = false;
             var spriteChanger = GetComponent<DoorSpriteChanger>();
-            if(spriteChanger != null) spriteChanger.closeDoor();
+            if (spriteChanger != null) spriteChanger.closeDoor();
         }
 
         public void Update()
@@ -25,39 +27,99 @@ namespace Objects
             {
                 isOpen = true;
                 var spriteChanger = GetComponent<DoorSpriteChanger>();
-                if(spriteChanger != null) spriteChanger.openDoor();
+                if (spriteChanger != null) spriteChanger.openDoor();
             }
         }
 
         public void OnTriggerStay2D(Collider2D other)
         {
-            if (other.gameObject.CompareTag("Player") && isOpen)
+            if (other.gameObject.CompareTag("Player") && isOpen && !isLoading)
             {
-                if (nextScene == "")
+                if (string.IsNullOrEmpty(nextScene))
                 {
-                    GameStateController gameStateController = GameObject.Find("GameStateController").GetComponent<GameStateController>().GetInstance();
+                    GameObject gameStateObj = GameObject.Find("GameStateController");
+                    if (gameStateObj == null)
+                    {
+                        Debug.LogError("GameStateController not found in scene!");
+                        return;
+                    }
+
+                    GameStateController gameStateController = gameStateObj.GetComponent<GameStateController>().GetInstance();
+                    if (gameStateController == null)
+                    {
+                        Debug.LogError("GameStateController instance is null!");
+                        return;
+                    }
+
                     gameStateController.SaveCombatStats();
                     gameStateController.isTransition = true;
                     gameStateController.nextLevel++;
+
+                    if (gameStateController.levels == null || gameStateController.nextLevel >= gameStateController.levels.Length)
+                    {
+                        Debug.LogError($"Invalid level index: {gameStateController.nextLevel} / {gameStateController.levels?.Length ?? 0}");
+                        return;
+                    }
+
                     nextScene = gameStateController.levels[gameStateController.nextLevel];
-                    //SceneManager.LoadScene(nextScene);
+                }
+
+                if (!string.IsNullOrEmpty(nextScene))
+                {
+                    isLoading = true; // Prevent multiple loads
                     StartCoroutine(LoadNextLevel(nextScene));
                 }
                 else
                 {
-                    //SceneManager.LoadScene(nextScene);
-                    StartCoroutine(LoadNextLevel(nextScene));
+                    Debug.LogError("Next scene is empty or null!");
                 }
             }
         }
 
         IEnumerator LoadNextLevel(string levelName)
         {
-            crossFade.SetTrigger("Start");
-            
-            yield return new WaitForSeconds(1f);
+            if (crossFade != null)
+            {
+                crossFade.SetTrigger("Start");
+                yield return new WaitForSeconds(1f);
+            }
+            else
+            {
+                Debug.LogWarning("CrossFade animator not assigned! Loading scene immediately.");
+            }
 
-            SceneManager.LoadScene(nextScene);
+            if (!string.IsNullOrEmpty(levelName))
+            {
+                // Try to load by scene name (without path)
+                Debug.Log($"Attempting to load scene: {levelName}");
+
+                // Check if scene exists in build settings
+                int sceneIndex = SceneManager.GetSceneByName(levelName).buildIndex;
+                if (sceneIndex == -1)
+                {
+                    // Try with different path prefixes based on scene name
+                    string scenePath;
+                    if (levelName.Contains("Menu") || levelName.Contains("Screen"))
+                    {
+                        scenePath = "Scenes/Menus/" + levelName;
+                    }
+                    else
+                    {
+                        scenePath = "Scenes/Rooms/" + levelName;
+                    }
+                    Debug.LogWarning($"Scene '{levelName}' not found, trying path: {scenePath}");
+                    SceneManager.LoadScene(scenePath);
+                }
+                else
+                {
+                    SceneManager.LoadScene(levelName);
+                }
+            }
+            else
+            {
+                Debug.LogError("Cannot load scene: levelName is null or empty!");
+                isLoading = false; // Reset if failed
+            }
         }
     }
 }

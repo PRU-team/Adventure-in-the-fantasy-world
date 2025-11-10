@@ -15,11 +15,13 @@ namespace DatabasesScripts
 
         public EnemyDatabaseConn(string enemyName)
         {
-            // databasePath - the path to the .db file in Databases folder
-            dbPath = "URI=file:" + Application.dataPath + "/Database.db";
+            // Use helper to get correct database path for both Editor and Build
+            dbPath = DatabasePathHelper.GetDatabasePath();
             conn = new SqliteConnection(dbPath);
             
-            conn.Open();
+            try
+            {
+                conn.Open();
 
             SqliteCommand cmd = conn.CreateCommand();
             
@@ -33,10 +35,16 @@ namespace DatabasesScripts
                 }
             );
 
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            enemyCharacterId = result.GetInt32(0);
-            conn.Close();
+                SqliteDataReader result = cmd.ExecuteReader();
+                result.Read();
+                enemyCharacterId = result.GetInt32(0);
+                conn.Close();
+            }
+            catch (System.Exception e)
+            {
+                Debug.LogError($"[EnemyDatabaseConn] Failed to load enemy '{enemyName}': {e.Message}");
+                throw;
+            }
         }
 
         public int GETEnemyCharacterId()

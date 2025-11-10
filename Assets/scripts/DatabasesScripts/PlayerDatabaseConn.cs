@@ -15,28 +15,41 @@ namespace DatabasesScripts
         
         public PlayerDatabaseConn()
         {
-            // databasePath - the path to the .db file in Databases folder
-            dbPath = "URI=file:" + Application.dataPath + "/Database.db";
+            // Use helper to get correct database path for both Editor and Build
+            dbPath = DatabasePathHelper.GetDatabasePath();
             conn = new SqliteConnection(dbPath);
             
-            conn.Open();
-
-            SqliteCommand cmd = conn.CreateCommand();
+            Debug.Log($"[PlayerDatabaseConn] Connecting to database at: {dbPath}");
             
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = "SELECT characterId FROM Characters " + 
-                              "WHERE characterName = @characterName";
-            cmd.Parameters.Add(new SqliteParameter
-                {
-                    ParameterName = "characterName",
-                    Value = "PlayerCharacter"
-                }
-            );
+            try
+            {
+                conn.Open();
 
-            SqliteDataReader result = cmd.ExecuteReader();
-            result.Read();
-            playerCharacterId = result.GetInt32(0);
-            conn.Close();
+                SqliteCommand cmd = conn.CreateCommand();
+                
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = "SELECT characterId FROM Characters " + 
+                                  "WHERE characterName = @characterName";
+                cmd.Parameters.Add(new SqliteParameter
+                    {
+                        ParameterName = "characterName",
+                        Value = "PlayerCharacter"
+                    }
+                );
+
+                SqliteDataReader result = cmd.ExecuteReader();
+                result.Read();
+                playerCharacterId = result.GetInt32(0);
+                conn.Close();
+                
+                Debug.Log($"[PlayerDatabaseConn] Successfully loaded player character ID: {playerCharacterId}");
+            }
+            catch (System.Exception e)
+            {
+                Debug.LogError($"[PlayerDatabaseConn] CRITICAL ERROR - Failed to connect to database: {e.Message}");
+                Debug.LogError($"[PlayerDatabaseConn] Stack trace: {e.StackTrace}");
+                throw;
+            }
         }
 
         public void SetMoveSpeed(float newMoveSpeed)

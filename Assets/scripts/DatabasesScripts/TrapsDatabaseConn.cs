@@ -12,7 +12,7 @@ namespace DatabasesScripts
 
         public TrapsDatabaseConn(string trapName)
         {
-            dbPath = "URI=file:" + Application.dataPath + "/Database.db";
+            dbPath = DatabasePathHelper.GetDatabasePath();
             conn = new SqliteConnection(dbPath);
             
             conn.Open();

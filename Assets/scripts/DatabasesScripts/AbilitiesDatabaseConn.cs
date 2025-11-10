@@ -16,7 +16,7 @@ namespace DatabasesScripts
         public AbilitiesDatabaseConn(string abilityName)
         {
             this.abilityName = abilityName;
-            dbPath = "URI=file:" + Application.dataPath + "/Database.db";
+            dbPath = DatabasePathHelper.GetDatabasePath();
             conn = new SqliteConnection(dbPath);
             
             conn.Open();
