@@ -20,17 +20,6 @@ namespace Character
             characterGfx = GetComponent<Animator>();
         }
 
-        public void LateUpdate()
-        {
-            // Force CharacterGFX to stay at (0, 0, 0) relative to parent
-            // This prevents animation from moving the sprite
-            if (transform.localPosition != Vector3.zero)
-            {
-                Debug.Log($"CharacterGFX position was {transform.localPosition}, resetting to zero");
-                transform.localPosition = Vector3.zero;
-            }
-        }
-
         public string GetCurrentAnimation()
         {
             return characterGfx.GetCurrentAnimatorClipInfo(0)[0].clip.name;

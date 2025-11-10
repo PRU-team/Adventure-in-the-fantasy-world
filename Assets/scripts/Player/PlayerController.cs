@@ -36,46 +36,12 @@ namespace Player
 
         private GameStateController gameStateController;
         
-        // Helper method to convert string to KeyCode
-        private KeyCode StringToKeyCode(string key)
-        {
-            if (string.IsNullOrEmpty(key))
-            {
-                return KeyCode.None;
-            }
-            
-            try
-            {
-                // Convert single lowercase character to uppercase for KeyCode enum
-                // e.g., "q" -> "Q", "e" -> "E"
-                string keyUpper = key.ToUpper();
-                
-                // Handle special keys
-                if (keyUpper == "*")
-                {
-                    return KeyCode.Asterisk;
-                }
-                
-                // Parse the KeyCode enum
-                return (KeyCode)System.Enum.Parse(typeof(KeyCode), keyUpper, true);
-            }
-            catch (Exception ex)
-            {
-                Debug.LogWarning($"Could not parse KeyCode from string: '{key}'. Error: {ex.Message}");
-                return KeyCode.None;
-            }
-        }
-        
         private void Awake()
         {
             gameStateController = GameObject.Find("GameStateController").GetComponent<GameStateController>().GetInstance();
             
-            // Reset center of mass to (0, 0)
-            Rigidbody2D rb = GetComponent<Rigidbody2D>();
-            rb.centerOfMass = Vector2.zero;
-            
             characterMovement = GetComponent<CharacterMovement>();
-            characterMovement.SetRigidBody2D(rb);
+            characterMovement.SetRigidBody2D(GetComponent<Rigidbody2D>());
             characterMovement.SetCharacterAnimationController(GetComponentInChildren<CharacterAnimationController>());
             DBConn = new PlayerDatabaseConn();
             characterStats = new CharacterStats(DBConn);
@@ -127,16 +93,7 @@ namespace Player
             Direction direction;
 
             if(canMove){
-                // Create movement vector
-                Vector2 movement = new Vector2(horizontalSpeed, verticalSpeed);
-                
-                // Normalize to prevent faster diagonal movement
-                if (movement.magnitude > 1f)
-                {
-                    movement.Normalize();
-                }
-                
-                force = movement * (moveSpeed * Time.deltaTime);
+                force = new Vector2(horizontalSpeed, verticalSpeed) * (moveSpeed * Time.deltaTime);
                 direction = characterMovement.GETDirectionFromVector(force);
             }
             else
@@ -178,13 +135,13 @@ namespace Player
                 playerAttackController.Attack();
                 m_NextAttack = Time.time + characterStats.GETAttackCooldown();
             }
-            else if(Input.GetKeyDown(StringToKeyCode(playerAttackController.GETFireAttackKeyCode())) && Time.time >= m_NextFireAttack)
+            else if(Input.GetKey(playerAttackController.GETFireAttackKeyCode()) && Time.time >= m_NextFireAttack)
             {
                 playerAttackController.FireAttack();
                 m_NextFireAttack = Time.time + playerAttackController.GETFireAttackCooldown();
                 fireCooldown.StartCoroutine("CooldownFill");
             }
-            else if(Input.GetKeyDown(StringToKeyCode(playerAttackController.GETRangedAttackKeyCode())) && Time.time >= m_NextRangedAttack)
+            else if(Input.GetKey(playerAttackController.GETRangedAttackKeyCode()) && Time.time >= m_NextRangedAttack)
             {
                 playerAttackController.RangedAttack();
                 m_NextRangedAttack = Time.time + playerAttackController.GETRangedAttackCooldown();
@@ -194,13 +151,13 @@ namespace Player
 
         private void UseDefensiveAbilities()
         {
-            if (Input.GetKeyDown(StringToKeyCode(playerAttackController.GETDefensiveAbilityKeyCode())) && Time.time >= m_NextDefensiveAbility)
+            if (Input.GetKey(playerAttackController.GETDefensiveAbilityKeyCode()) && Time.time >= m_NextDefensiveAbility)
             {
                 playerAttackController.DefensiveAbility();
                 m_NextDefensiveAbility = Time.time + playerAttackController.GETDefensiveAbilityCooldown();
                 defensiveCooldown.StartCoroutine("CooldownFill");
             }
-            else if (Input.GetKeyDown(StringToKeyCode(playerAttackController.GETHealingAbilityKeyCode())) && Time.time >= m_NextHealingAbility)
+            else if (Input.GetKey(playerAttackController.GETHealingAbilityKeyCode()) && Time.time >= m_NextHealingAbility)
             {
                 playerAttackController.Heal();
                 m_NextHealingAbility = Time.time + playerAttackController.GETHealingAbilityCooldown();
